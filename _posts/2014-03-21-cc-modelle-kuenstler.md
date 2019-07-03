@@ -73,8 +73,15 @@ Der Anbieter stellt ein Produkt kostenlos zur Verfügung, damit der Nutzer spät
 <li>Gratis-Ansichtskarten mit eigenen Bildern</li>
 <li>Kostenlose Notenhefte, kostenpflichtiger Musikunterricht</li>
 </ul>
+
 <h2>Kostenlos 2: Drei-Parteien-Markt (Anbieter - Nutzer - Vermarkter)</h2>
-<p>[caption id="attachment_258" align="aligncenter" width="382"]<a href="/assets/img/kostenlos2-Mobile.png"><img class=" wp-image-258 " src="{{ site.baseurl }}/assets/img/kostenlos2-Mobile.png" alt="Kostenlos 2" width="382" height="288" /></a> Grafik nach Chris Anderson: <a href="http://www.amazon.de/Free-Kostenlos-Gesch%C3%A4ftsmodelle-Herausforderungen-Internets/dp/3593390884">Free – Kostenlos</a>. Lizenz: <a href="https://creativecommons.org/licenses/by/3.0/de/">CC-BY</a>[/caption]</p>
+<figure>
+    <img src="/assets/img/kostenlos2-Mobile.png" />
+    <figcaption>
+    Grafik nach Chris Anderson: <a href="http://www.amazon.de/Free-Kostenlos-Gesch%C3%A4ftsmodelle-Herausforderungen-Internets/dp/3593390884">Free – Kostenlos</a>. Lizenz: <a href="https://creativecommons.org/licenses/by/3.0/de/">CC-BY</a>
+		</figcaption>
+</figure>
+
 <p>Der Anbieter stellt ein Produkt kostenlos zur Verfügung, wird dafür aber von einer dritten Partei finanziert. Der Vermarkter (M) erhält dafür Werbefläche oder eine gute PR (Produkt 2), alles in der Absicht, dem Nutzer andere Produkte zu verkaufen. Das klingt etwas abstrakt, ist in der Digitalwirtschaft aber alltäglich. Die Produkte von Google und Facebook sind für alle Nutzer kostenlos, da die Plattformen von Werbung finanziert werden. Auch in der Bildenden Kunst haben Sponsoring-Modelle wie das Mäzenatentum eine lange Tradition. Bei kostenlosen Lesungen in Cafés, Konzerten in Kirchen oder Ausstellungen in Kneipen kann man das Modell ebenfalls beobachten: Im Austausch gegen die kostenlose Raumnutzung wird eine gewisse Werbewirkung erwartet, umgekehrt steigt die Aussicht auf Sponsoren mit der eigenen Bekanntheit.</p>
 <p>Ideen für Künstler und Autoren:</p>
 <ul>

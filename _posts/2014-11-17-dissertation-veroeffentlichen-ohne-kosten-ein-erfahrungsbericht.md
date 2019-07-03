@@ -33,7 +33,15 @@ permalink: "/dissertation-veroeffentlichen-ohne-kosten-ein-erfahrungsbericht/"
 <p class="p1">Gleichzeitig war mir bewusst, dass <strong>reine Internetpublikationen in den Geisteswissenschaften selten rezensiert</strong> wurden. Aus meiner Bibliothekszeit wusste ich zudem, dass Bücher häufig zuerst über das Bibliotheksregal wahrgenommen werden - die Entscheidung zur Anschaffung durch eine Bestandsabteilung wirkt wie ein Filter. Auf eine gedruckte Version wollte ich daher nicht verzichten.</p>
 <h2 class="p1">Kosten und Aufwand</h2>
 <p class="p1">Während der Abschlussphase erkundigte ich mich zuerst bei Freunden und Kollegen, wo ich meine Dissertation veröffentlichen könnte. In meinem <a href="http://www.generationengeschichte.uni-goettingen.de/">Graduiertenkolleg</a> gab es eine eigene Schriftenreihe, die in einem bekannten Göttinger Verlag erschien. Bei dem Kostenvoranschlag des Verlages ergaben sich für mich <strong>Publikationskosten in Höhe von 7.377,41 €</strong>:</p>
-<p>[caption id="attachment_305" align="aligncenter" width="1241"]<a href="/assets/img/Verlagskalkulation1_geschw.jpg"><img class="size-full wp-image-305" src="{{ site.baseurl }}/assets/img/verlagskalkulation1_geschw.jpg" alt="Verlagskalkulation für eine Dissertation in einem Wissenschaftsverlag (Namen und Marke geschwärzt)" width="1241" height="1755" /></a> Verlagskalkulation für eine Dissertation in einem Wissenschaftsverlag (Namen und Marke geschwärzt)[/caption]</p>
+
+<figure>
+    <img src="/assets/img/Verlagskalkulation1_geschw.jpg" />
+    <figcaption>
+		Verlagskalkulation für eine Dissertation in einem Wissenschaftsverlag (Namen und Marke geschwärzt)
+		</figcaption>
+</figure>
+
+
 <p class="p1">Bei einer Veröffentlichung in dieser Reihe zahlte das Kolleg einen Zuschuss in Höhe von 2.500 €. Die restlichen 4.877,41 € müsste ich entweder mit Hilfe von Stipendien <strong>einwerben oder aus eigener Tasche bezahlen</strong>. Für dieses Geld wurde eine starke Marke geboten, ein bekannter Namen für den Lebenslauf. Damit erschien es zumindest wahrscheinlich, dass mein Buch in der Germanistik wahrgenommen würde und seinen Weg in die Regale fände. Ein Lektorat wäre nicht enthalten, allerdings stand der Verlag in dem Ruf, zumindest ein gutes Korrektorat zu bieten. Trotz der hohen Kosten erschien <strong>ein freier Zugang im Netz nicht möglich</strong>. Das Graduiertenkolleg erkundigte sich und ich erhielt die folgende Auskunft:</p>
 <blockquote>
 <p class="p1">"Deine Publikation kann 3 Jahre nach Erscheinen in Open Access gestellt werden; der Verlag stellt dafür das PDF der Druckfassung zur Verfügung. Wenn der Buchverkauf dann gegen null tendiert, behält sich der Verlag das Recht zur Makulatur vor." (Email vom 11.09.2012)</p>
@@ -43,15 +51,36 @@ permalink: "/dissertation-veroeffentlichen-ohne-kosten-ein-erfahrungsbericht/"
 <a href="/assets/img/Verlagskalkulation2_geschw.jpg"><img class="size-full wp-image-306" src="{{ site.baseurl }}/assets/img/verlagskalkulation2_geschw.jpg" alt="Zweite Verlagskalkulation (Namen und Marke geschwärzt)" width="1240" height="1755" /></a></p>
 <p>Verlagskalkulation 2 (Namen und Marke geschwärzt). <a href="/assets/img/Verlagskalkulation2_geschw.pdf" target="_blank">Komplettes Angebot als PDF-Datei  </a>(168 KB)</p>
 <p class="p1">Die Druckkosten wurden in Höhe von 3.016,65 € (brutto) veranschlagt, bei einem Verkaufspreis von 44,90 €. Ob eine Bibliothek das Buch zu einem solchen Preis anschaffen würde? Eine <strong>Bereitstellung im Open Access sollte hier zusätzlich 5.000€</strong> kosten, insgesamt wären Kosten in Höhe von 7.535 € angefallen:</p>
-<p>[caption id="attachment_308" align="aligncenter" width="1098"]<a href="/assets/img/Verlagskalkulation2_OA.png"><img class="size-full wp-image-308" src="{{ site.baseurl }}/assets/Verlagskalkulation2_OA.png" alt="5.000 € für eine Bereitstellung als Open Access - das müssen teure Server sein" width="1098" height="144" /></a> "Pauschale" von 5.000 € für eine Bereitstellung im Open Access[/caption]</p>
+
+<figure>
+    <img alt="5.000 € für eine Bereitstellung als Open Access - das müssen teure Server sein" src="/assets/img//assets/img/Verlagskalkulation2_OA.png" />
+    <figcaption>
+		</a> "Pauschale" von 5.000 € für eine Bereitstellung im Open Access
+		</figcaption>
+</figure>
+
 <h2 class="p1">„Das zieht sich gegenseitig hoch“: Druckkostenzuschuss, Verlagsname und Stipendien</h2>
 <p class="p1">Nach diesen Kostenvoranschlägen wurde ich unsicher, ob ich noch in diesem Jahr meine Dissertation veröffentlichen könnte. Die Druckkosten lagen in Höhe von 2.535 € - 7.500 €. Open Access zeitgleich zur Veröffentlichung wurde in einem Fall überhaupt nicht unterstützt, bei dem günstigeren Verlag wäre die <strong>Bereitstellung im Internet mit Zusatzkosten </strong>verbunden.  Das Problem: Als Berufsanfänger erschienen mir diese Summen utopisch; den Druckkostenzuschuss über Stipendien einzuwerben, erschien mir zu unsicher und zu zeitaufwändig. Ein weiteres Jahr wollte ich mit der Veröffentlichung nicht warten.</p>
 <p class="p1">Wäre mein Ziel noch immer eine Karriere als Wissenschaftler gewesen, hätte ich ernsthaft darüber nachgedacht, den Betrag für die Reihe des Graduiertenkollegs irgendwie aufzutreiben. Solange Verlagsnamen für Berufungen noch eine Rolle spielen, gehen Nachwuchswissenschaftler auf Nummer sicher. Für Besetzungsverfahren von Professuren spielt es in den Geisteswissenschaften noch immer eine Rolle, unter welcher Marke man veröffentlicht hat, ebenso bei Stipendien. Bei meinem Harvard-Aufenthalt gab es eine ähnliche Dynamik. Freunde gaben mir damals den guten Rat, „<strong>das zieht sich gegenseitig hoch</strong>“. So kam es dann auch: Sobald eine Zusage von einer prestigeträchtigen Universität vorlag, ging es mit der Bewilligung für Reisestipendien wie von selbst. Dieses Prinzip ist als <a href="http://de.wikipedia.org/wiki/Matth%C3%A4us-Effekt"><strong>Matthäus-Effekt</strong></a> bekannt, demnach werden Erfolge mehr durch frühere Errungenschaften als durch gegenwärtige Leistungen beeinflusst. Wenn Leistungen erst durch das richtige Etikett beglaubigt werden, kann sich die Investition in eine Verlagsmarke durchaus lohnen. Doch möchte man sich für diese Annahme wirklich verschulden?</p>
 <h2 class="p1">Exkurs: Wissenschaft als teurer Club</h2>
 <p class="p1">Ich werde den Verdacht nicht los, dass sich die hohen Preise bei wissenschaftlichen Publikationen auch mit der Kaufkraft von Akademikerfamilien erklären (wen das nicht so interessiert, kann <a href="https://markusneuschaefer.de/dissertation-veroeffentlichen-ohne-kosten-ein-erfahrungsbericht/#hier">hier </a>weiterlesen). <strong>Akademischer Erfolg hängt in Deutschland stark von der sozialen Herkunft ab.</strong> Laut der <a href="http://www.sozialerhebung.de/erhebung_20/soz_20_haupt" target="_blank">20. Sozialerhebung des Deutschen Studentenwerks</a> von 2012<b> </b>zeigt sich dieser Zusammenhang bereits im Erststudium:</p>
-<p>[caption id="attachment_309" align="aligncenter" width="669"]<a href="/assets/img/bildungsherkunft_studierende.png"><img class="size-full wp-image-309" src="{{ site.baseurl }}/assets/img/bildungsherkunft_studierende.png" alt="quelle: 20. Sozialerhebung des deutschen Studentenwerkes" width="669" height="515" /></a> Quelle: 20. Sozialerhebung des deutschen Studentenwerkes, S. 77 (<a href="http://www.sozialerhebung.de/download/20/soz20_hauptbericht_gesamt.pdf" target="_blank">PDF-Datei</a>)[/caption]</p>
+
+<figure>
+    <img alt="quelle: 20. Sozialerhebung des deutschen Studentenwerkes" src="/assets/img/bildungsherkunft_studierende.png" />
+    <figcaption>
+		</a> Quelle: 20. Sozialerhebung des deutschen Studentenwerkes, S. 77 (<a href="http://www.sozialerhebung.de/download/20/soz20_hauptbericht_gesamt.pdf" target="_blank">PDF-Datei</a>)
+		</figcaption>
+</figure>
+
 <p class="p1">Diese Entwicklung hat sich im letzten Jahrzehnt verstärkt. Im internationalen Vergleich gibt es <strong>in Deutschland nur wenige feste Stellen</strong> im sogenannten Mittelbau jenseits der Professur:</p>
-<p>[caption id="attachment_310" align="aligncenter" width="460"]<a href="/assets/img/akadem_Mittelbau.png"><img class="size-full wp-image-310" src="{{ site.baseurl }}/assets/img/bildungsem_Mittelbau.png" alt="Quelle: Robert Kreckel, &quot;Zur Kooperation verpflichtet&quot;, in: Forschung und Lehre, Heft 5 (2009), Seite 33. Zit. nach: Michael Blume: Das Templiner Manifest für den akademischen Mittelbau. Scilogs.de vom 9.3.2011" width="460" height="230" /></a> Quelle: Robert Kreckel, "Zur Kooperation verpflichtet", in: Forschung und Lehre, Heft 5 (2009), Seite 33. Zit. nach: Michael Blume: Das Templiner Manifest für den akademischen Mittelbau. Scilogs.de vom 9.3.2011 (<a href="http://www.scilogs.de/natur-des-glaubens/das-templiner-manifest-f-r-den-universit-ren-mittelbau/" target="_blank">Link</a>)[/caption]</p>
+
+<figure>
+    <img alt="Quelle: Robert Kreckel, &quot;Zur Kooperation verpflichtet&quot;, in: Forschung und Lehre, Heft 5 (2009), Seite 33. Zit. nach: Michael Blume: Das Templiner Manifest für den akademischen Mittelbau. Scilogs.de vom 9.3.2011" src="/assets/img/akadem_Mittelbau.png" />
+    <figcaption>
+		Quelle: Robert Kreckel, "Zur Kooperation verpflichtet", in: Forschung und Lehre, Heft 5 (2009), Seite 33. Zit. nach: Michael Blume: Das Templiner Manifest für den akademischen Mittelbau. Scilogs.de vom 9.3.2011 (<a href="http://www.scilogs.de/natur-des-glaubens/das-templiner-manifest-f-r-den-universit-ren-mittelbau/" target="_blank">Link</a>
+		</figcaption>
+</figure>
+
 <p class="p1">In den Geisteswissenschaften wird seit langem beklagt, dass der akademische Mittelbau seit Jahren austrocknet. Einer wachsenden Zahl von Doktoranden stehen <strong>immer weniger feste Stellen</strong> gegenüber. Im "<a href="http://www.faz.net/aktuell/beruf-chance/campus/hungerloehne-an-hochschulen-13259125.html">akademischen Niedriglohnsektor</a>" (FAZ) hält sich mit befristeten Projektstellen über Wasser, bis die Befristungsregelung eine weitere Anstellung verhindert. Unter diesen Bedingungen wird jede Möglichkeit interessant, mit bekannten Marken in der Publikationsliste zu glänzen. Die großen Förderwerke sind immer weniger bereit, die hohen Druckkostenzuschüsse der Verlage zu zahlen. So mahnt z.B. die FAZIT-Stiftung, man zahle grundsätzlich nicht für "Luxusausgaben teurer Verlage" (<a href="http://www.faz.net/dynamic/download/FAZIT/Fazit-Merkblatt-Druckkosten.pdf">PDF-Link</a>) .  Damit bleiben die Kosten wieder an den Wissenschaftlern hängen. Solange der Zugang zu den wenigen unbefristeten Stellen über Verlagsmarken gefiltert wird, gibt es greifbare Vorteile für Bewerber mit familiären Reserven. Wer springt ein, wenn das Stipendium nicht ausreicht? Ob es sich lohnt, sich für eine Veröffentlichung zu verschulden?</p>
 <h2 id="hier" class="p1">Dissertation veröffentlichen, Plan B: Open Access und Print-on-Demand</h2>
 <p class="p1">Wer eine Dissertation veröffentlichen möchte, braucht entweder genug Geld oder ausreichend Zeit. Auch mit einem möglichen Druckkostenzuschuss-Stipendium stand ich vor einer erheblichen Finanzierungslücke. Die bekannten Wissenschaftsverlage kamen also nicht in Frage. Durch meinen <strong>Kontakt mit der Berliner Startup-Szene</strong> lernte ich eine weitere Möglichkeit kennen: Die Arbeit ließ sich auch <strong>ohne Druckkosten publizieren</strong>. Aus einer Anfrage bei der Berliner Self-Publishing-Plattform <a href="http://www.epubli.de/science" target="_blank">epubli</a> ergab sich schnell ein Jobangebot, seit Januar 2013 entwickele ich dort den Bereich <a href="http://www.epubli.de/science">Wissenschaft</a>. Eine Veröffentlichung im „Selbstverlag“ erschien mir nun auch beruflich interessant: Statt den teuren Glamour eines Wissenschaftsverlags einzukaufen, könnte ich selbständig meine Dissertation veröffentlichen und auf diese Weise <strong>Publikationserfahrungen sammeln</strong>. Im Self-Publishing kostet die Veröffentlichung lediglich eine Vertriebsgebühr von 14,95 €, die Bücher wurden erst bei einer Bestellung gedruckt und die Produktionskosten über den Verkaufspreis finanziert.</p>
@@ -60,10 +89,25 @@ permalink: "/dissertation-veroeffentlichen-ohne-kosten-ein-erfahrungsbericht/"
 <p class="p1"><a href="/assets/img/Impressum_CC-BY.png"><img class="aligncenter size-full wp-image-315" src="{{ site.baseurl }}/assets/img/impressum_CC-BY.png" alt="Impressum_CC-BY" width="756" height="239" /></a></p>
 <h2 class="p1">Sinnvolle Investition: Korrektorat</h2>
 <p class="p1">Ein erster Probedruck der Dissertation sah angenehm hochwertig aus, übrig blieb noch das Korrektorat. Mit dem Berufseinstieg in der Berliner Startup-Welt war ich bereits ausreichend beschäftigt, also holte ich ein Angebot für ein externes Korrektorat ein:</p>
-<p>[caption id="attachment_313" align="aligncenter" width="1052"]<a href="/assets/img/Angebot-Neuschaefer-Korrektorat_geschw.pdf"><img class="size-full wp-image-313" src="{{ site.baseurl }}/assets/img/angebot-Neuschaefer-Korrektorat_geschw.pdf" alt="adsadsasd" width="1052" height="1462" /></a> Ein professionelles Korrektorat lohnt sich, passende Angebote findet man bei den <a href="http://www.epubli.de/buchprofis" target="_blank">Buchprofis</a>.[/caption]</p>
+
+<figure>
+		<a href="/assets/img/Angebot-Neuschaefer-Korrektorat_geschw.pdf">
+    <img src="/assets/img/angebot-Neuschaefer-Korrektorat_geschw.pdf" /></a>
+    <figcaption>
+	Ein professionelles Korrektorat lohnt sich, passende Angebote findet man bei zahlreichen Buchprofi-Freelancern.
+		</figcaption>
+</figure>
+
 <p class="p1">Die <strong>Kosten für Korrektorat</strong> und Dissertation veröffentlichen wurden mit <strong>1.325,66 €</strong> geschätzt – deutlich weniger als bei den beiden Wissenschaftsverlagen, der Betrag war für mich allerdings noch immer zu hoch. In den folgenden Wochen korrigierte ich die Druckfassung meiner Arbeit daher selber. Zwar war ich in den ersten Monaten als Quereinsteiger sehr beschäftigt mit den ersten Projekten, aber es gab ja noch etwas Zeit nach Feierabend und am Wochenende. Unbedingt wollte ich innerhalb des nächsten Monats meine Dissertation veröffentlichen, die Zeit nach Feierabend wurde einfach zu knapp.</p>
 <p class="p1">Von diesem 100%-Do-it-yourself-Verfahren zum Dissertation veröffentlichen kann ich nur abraten: <strong>Das Korrektorat von längeren Texten ist ein empfindlicher Punkt</strong> bei wissenschaftlichen Veröffentlichungen, besonders in einer geisteswissenschaftlichen Fakultät. Bei der eigenen Dissertation sieht man die Sätze oft noch so vor Augen, wie man sie formuliert hatte, vor allem nach einem langen Arbeitstag. Nach 23 Uhr sollte man generell keine Korrekturen mehr vornehmen, mit zunehmender Müdigkeit nimmt die Genauigkeit ab. Empfehlen kann ich zudem die Anschaffung einer externen Tastatur, bei der sämtliche Tasten einwandfrei funktionieren. Zwischendurch streikte meine Laptop-Festplatte, zum Glück konnte ich das Problem selbst beheben:</p>
-<p>[caption id="attachment_314" align="aligncenter" width="1086"]<a href="/assets/img/laptop-reparatur.jpg"><img class="size-full wp-image-314" src="{{ site.baseurl }}/assets/img/laptop-reparatur.jpg" alt="(Das Werkzeug dient nur zum Größenvergleich)" width="1086" height="614" /></a> Wichtig: Die Dissertation regelmäßig sichern, z.b. auf einer externen Festplatte oder bei Cloud-Diensten wie <a href="https://spideroak.com/" target="_blank">SpiderOak</a> (und keinesfalls eine Zange verwenden).[/caption]</p>
+
+<figure>
+    <img src="/assets/img/laptop-reparatur.jpg" />
+    <figcaption>
+		Wichtig: Die Dissertation regelmäßig sichern, z.b. auf einer externen Festplatte oder bei Cloud-Diensten wie <a href="https://spideroak.com/" target="_blank">SpiderOak</a> (und keinesfalls eine Zange verwenden).
+		</figcaption>
+</figure>
+
 <p class="p1">Nach wenigen Wochen war das Manuskript fertig, nun konnte ich endlich die Dissertation veröffentlichen. Einige Fehler waren mir in der Eile zwar entgangen, dank der kurzen Kündigungsfrist (5 Tage) ließ sich das Buch <strong>bei Bedarf jederzeit neu publizieren</strong>. Wegen der wachsenden Anforderungen im Job wurde es für mich höchste Zeit, dass dieses Buchprojekt endlich vom Schreibtisch verschwand und ich die Dissertation veröffentlichen konnte.</p>
 <p class="p1">Nun ging alles sehr schnell: Ich stellte das Buch auf der Selfpublishing-Plattform ein, bestellte die geforderten Print-Exemplare für das Prüfungsamt und konnte die Dissertation auf dem Server der Universitätsbibliothek Göttingen zugänglich machen. Ich bestellte lediglich zwei Autorenexemplare; eines für mich und eines für meine Eltern. Diese Anzahl war tatsächlich mehr als ausreichend, Autorenexemplare ließen sich jederzeit nachdrucken. Innerhalb weniger Minuten erschien das Buch im Online-Shop, am nächsten Tag war es auch bei Amazon und im Buchhandel bestellbar.</p>
 <h2 class="p1">Rezensionen und Online-Sichtbarkeit</h2>
