@@ -1,0 +1,84 @@
+# General Settings
+name: Dr. Markus Neuschäfer
+job_title: Digitale Innovation und zeitgemäßes Lernen; Beratung, Produkt- und Projektmanagement
+email: m.neuschaefer@gmail.com
+description: Mich interessiert digitaler Wandel, Open Culture, e-Learning & zeitgemäße Bildung. Ich entdecke gerne neue Musik, vegane Rezepte, Milongas und Seen. Erreichbar bin ich am besten via  <a href='http://twitter.com/mneuschaefer'>Twitter</a> oder <a href='mailto:m.neuschaefer@posteo.de'>Email</a>.
+avatar: /assets/img/mn.jpg
+favicon: /favicon.ico
+twitter_handler: your_handler
+analytics_code: UA-44236559-1
+# disqus: your_disqus_site
+
+
+# description: Ich engagiere mich für digitalen Wandel, Open Culture, e-Learning und zeitgemäße Bildung. Auch entdecke ich gerne neue Musik, vegane Rezepte, Berliner Milongas und Seen. Erreichbar bin ich am besten via <a href='http://twitter.com/mneuschaefer'>Twitter</a> oder per <a href='mailto:m.neuschaefer@posteo.de'>Email</a>.
+
+# Social Accounts
+social_networks:
+# -  { name: facebook, url: 'https://www.facebook.com/m.neuschaefer' }
+-  { name: twitter, url: 'http://twitter.com/mneuschaefer' }
+# -  { name: instagram, url: '' }
+# -  { name: google-plus, url: '' }
+-  { name: linkedin, url: 'https://www.linkedin.com/in/markus-neusch%C3%A4fer-5b02076b/' }
+-  { name: xing, url: 'https://www.xing.com/profile/Markus_Neuschaefer' }
+# -  { name: skype, url: '' }
+# -  { name: github, url: '' }
+# -  { name: codepen, url: '' }
+# -  { name: stack-overflow, url: '' }
+# -  { name: dribbble, url: '' }
+# -  { name: behance, url: '' }
+# -  { name: pinterest, url: '' }
+# -  { name: tumblr, url: '' }
+# -  { name: youtube, url: '' }
+# -  { name: vimeo, url: '' }
+# -  { name: vine, url: '' }
+# -  { name: 500px, url: '' }
+# -  { name: flickr, url: '' }
+# -  { name: spotify, url: '' }
+# -  { name: steam, url: '' }
+# -  { name: wordpress, url: '' }
+
+# -  { name: bitcoin, url: '' }
+# -  { name: pocket, url: '' }
+# -  { name: applemusic, url: '' }
+
+# Modules Settings
+show_categories: 1
+show_tags: 1
+show_email: 1
+show_rss: 1
+show_comments: 1
+show_menu: 1
+fixed_sidebar: 0
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: "true"
+
+# Serving
+url: "https://markusneuschaefer.de"
+baseurl: "/test"
+
+# Includes
+include: ["_pages"]
+
+# Outputting
+permalink: /:categories/:title.html
+category_dir: categories
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Conversion
+markdown: kramdown
+excerpt_separator: <!--more-->
+
+# Assets Settings
+sass:
+  sass_dir: assets/partials
+  style: compressed
