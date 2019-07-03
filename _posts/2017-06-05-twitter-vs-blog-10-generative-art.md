@@ -25,7 +25,7 @@ permalink: "/twitter-vs-blog-10-generative-art/"
 
 <!--more-->
 
-Was mit automatisch generierten Grafiken alles möglich ist, zeigt sich bei der Auswahl an "picked pens" mit CSS- und Javascript-Beispielen auf <a href="http://codepen.io">Codepen.io</a>:
+Was mit automatisch generierten Grafiken alles möglich ist, zeigt sich bei der Auswahl an "picked pens" mit CSS- und Javascript-Beispielen auf der wundervollen Seite <a href="http://codepen.io">Codepen.io</a>:
 
 <p class="codepen" data-height="265" data-theme-id="0" data-default-tab="result" data-user="Armolp" data-slug-hash="WWRoeO" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="kaleidoscope v2">
   <span>See the Pen <a href="https://codepen.io/Armolp/pen/WWRoeO/">
