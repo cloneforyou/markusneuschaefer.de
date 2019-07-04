@@ -14,7 +14,7 @@
 		}
 		.my-info {
 			.my-name { display: block; font-size: 24px; font-weight: 700; line-height: 30px; color: $grey-color-dark; }
-			.my-job-title { font-size: 14px; font-weight: 300; margin: 5px 0 0; }
+			.my-profile-summary { font-size: 14px; font-weight: 300; margin: 5px 0 0; }
 		}
 	}
 	.mainmenu { margin: 40px 0; text-align: center;
@@ -205,12 +205,12 @@
 	color: $primary-color
 }
 
-.user-profile .compact-header .my-info .my-job-title {
+.user-profile .compact-header .my-info .my-profile-summary {
 	line-height: 1.5em;
 }
 
 .the-content .post {
-	/*
+
 
 	overflow-wrap: break-word;
   word-wrap: break-word;
@@ -223,5 +223,5 @@
   -moz-hyphens: auto;
   -webkit-hyphens: auto;
   hyphens: auto;
-	*/
+
 }

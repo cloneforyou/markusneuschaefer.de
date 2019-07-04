@@ -31,7 +31,7 @@ permalink: "/open-access-tage-2013/"
 
 <h2>Modulare Dienstleister</h2>
 <figure>
-    <img alt="Publikationsmanagement früher und heute" src="assets/img/Publikationsmanagement.png" />
+    <img alt="Publikationsmanagement früher und heute" src="/assets/img/Publikationsmanagement.png" />
     <figcaption>
     Publikationsmanagement früher und heute
 </figure>
