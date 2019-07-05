@@ -18,7 +18,7 @@ tags:
 All configuration options are in the <code>\_config.yml</code> file.
 
 <figure>
-    <img src="assets/img/2017_oerde17_logo_award.png" />
+    <img src="/assets/img/2017_oerde17_logo_award.png" />
     <figcaption>
     Bild: Logo des OER-Award 2017. Quelle: <a href="https://open-educational-resources.de/veranstaltungen/17/award/oer-award-2017-laudatio-qualitaet-fuer-oer/">open-educational-resources.de</a>
     </figcaption>
