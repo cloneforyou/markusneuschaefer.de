@@ -15,12 +15,12 @@ tags:
 ---
 
 ### Configuration
-All configuration options are in the <code>_config.yml</code> file.
+All configuration options are in the <code>\_config.yml</code> file.
 
 <figure>
-    <img src="https://cdn.dribbble.com/users/1073937/screenshots/5036567/waterfall.png" />
+    <img src="assets/img/2017_OER-Filter_preview.png" />
     <figcaption>
-    Created by <a href="https://dribbble.com/HannahLizSharp" target="_blank_">Hannah Sharp</a>
+    <em>Bild: Vorschau auf die neue Sammlung für OER-Unterrichtsideen. Quelle: <a href="https://edulabs.de/blog/plattform-fuer-kuratierte-oer-bald-online">edulabs.de</a>. Lizenz: CC-BY 4.0</em>
     </figcaption>
 </figure>
 

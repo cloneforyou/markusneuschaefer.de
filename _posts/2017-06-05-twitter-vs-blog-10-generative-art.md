@@ -21,7 +21,7 @@ permalink: "/twitter-vs-blog-10-generative-art/"
     </figcaption>
 </figure>
 
-*In letzter Zeit habe ich einige Wordpress-Seiten entwickelt, bei der Gestaltung kamen auch einige bewegte Grafiken zum Einsatz. Mit solchen bewegten Elementen sollte man es nicht übertreiben, sie können das Thema einer Seite aber manchmal besser vermitteln als ein statisches Bild. Hier eine kleine Übersicht.*
+*Vor dem Start von edulabs hatte ich nebenher noch einige Wordpress-Seiten entwickelt, bei der Gestaltung kamen auch bewegte Grafiken zum Einsatz. Mit solchen bewegten Elementen sollte man es nicht übertreiben, sie können das Thema einer Seite aber manchmal besser vermitteln als ein statisches Bild. Hier eine kleine Übersicht.*
 
 <!--more-->
 
