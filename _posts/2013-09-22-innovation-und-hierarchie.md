@@ -17,7 +17,7 @@ tags:
 permalink: "/innovation-und-hierarchie/"
 ---
 <figure>
-	<img src="/assets/img/OER-konf2013.JPG" />
+	<img src="/assets/img/2013_OER-konf.jpg" />
 </figure>
 
 <p>

@@ -16,7 +16,7 @@ permalink: "/open-access-tage-2013/"
 
 ---
 <figure>
-	<img src="/assets/img/OA-Tage2013.JPG" />
+	<img src="/assets/img/2013_OA-Tage2013.jpg" />
   <figcaption>
   Bild: Podiumsdiskussion bei den Open-Access-Tagen 2013
   </figcaption>

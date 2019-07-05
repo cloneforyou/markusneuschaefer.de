@@ -17,7 +17,7 @@ permalink: "/wahlberichterstattung-signal-und-rauschen/"
 
 ---
 <figure>
-	<img alt="Kinderbücher in einer Prager Buchhandlung" src="/assets/img/cz-buchhandlung.JPG" />
+	<img alt="Kinderbücher in einer Prager Buchhandlung" src="/assets/img/2013_cz-buchhandlung.jpg" />
   <figcaption>
   Kinderbücher in einer Prager Buchhandlung
   </figcaption>
