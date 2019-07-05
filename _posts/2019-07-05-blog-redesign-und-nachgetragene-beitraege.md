@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'Nachtrag und Blog-Redesign'
+date: 2019-07-03 12:00:44.000000000 +01:00
+type: post
+published: true
+status: publish
+categories:
+- Notizen
+tags:
+- Meta
+---
+
+In den letzten Monaten war ich zu beschäftigt mit meinen Projekten, um viel zu bloggen. Stattdessen war ich vor allem auf Twitter unterwegs, habe auf dem edulabs-Blog und habe anderswo Gastbeiträge veröffentlicht. So geht allerdings völlig unter, was sich in der Zeit alles entwickelt hat. Ich möchte die Seite auch für den Rückblick nutzen und trage gerade ein paar kurze Notizen aus den letzten beiden Jahren nach. Also nicht wundern, falls plötzlich neue Beiträge aus der Vergangenheit auftauchen - es kommen bald wieder neue 🙂 .
+
+Kurz zum Redesign: Ich habe die Seite von Wordpress auf [Jekyll](https://jekyllrb.com/) umgestellt, damit lädt sie schneller und ich kann die Beiträge nun viel bequemer in einem Code-Editor schreiben. Das Design habe ich so umgestellt, dass es besser mit kurzen Beiträgen funktioniert.

@@ -18,7 +18,7 @@ permalink: "/werbung-ausstellung-urheberrecht/"
 <figure>
     <img src="/assets/img/eule-im-wald.jpg" />
     <figcaption>
-		<em>Bild: Hat wirklich nichts mit der Ausstellung zu tun, lässt sich dafür aber ohne Lizenzgebühren verwenden. <a href="https://commons.wikimedia.org/wiki/File:H%C3%A4ndkakk_2014.JPG">Ireen Trummer, Wikimedia Commons</a>, Lizenz: CC-BY-SA 4.0 </em>
+		Bild: Hat wirklich nichts mit der Ausstellung zu tun, lässt sich dafür aber ohne Lizenzgebühren verwenden. <a href="https://commons.wikimedia.org/wiki/File:H%C3%A4ndkakk_2014.JPG">Ireen Trummer, Wikimedia Commons</a>, Lizenz: CC-BY-SA 4.0
 		</figcaption>
 </figure>
 

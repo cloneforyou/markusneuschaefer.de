@@ -79,4 +79,4 @@ Autogenerierte Bilder sind auch sehr praktisch für lizenzfreie Titelbilder, da 
 <div style="display: inline-block; max-height: 800px"><a class="twitter-timeline" data-width="500" data-height="700" data-dnt="true" data-link-color="#56a9f6" href="https://twitter.com/ccrtdroid">Tweets by ccrtdroid</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 </div>
 
-<p style="text-align: right;"><em>Bild: <a href="https://codepen.io/mhsenkow/pen/OyQOVx">https://codepen.io/mhsenkow/pen/OyQOVx</a> (Screenshot, MIT License)</em>
+<p style="text-align: right;">Bild: <a href="https://codepen.io/mhsenkow/pen/OyQOVx">https://codepen.io/mhsenkow/pen/OyQOVx</a> (Screenshot, MIT License)

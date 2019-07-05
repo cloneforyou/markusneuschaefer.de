@@ -17,7 +17,7 @@ permalink: "/edulabs-oer-sammlung/"
 <figure>
     <img src="assets/img/2017_OER-Filter_preview.png" />
     <figcaption>
-    <em>Bild: Vorschau auf die neue Sammlung für OER-Unterrichtsideen. Quelle: <a href="https://edulabs.de/blog/plattform-fuer-kuratierte-oer-bald-online">edulabs.de</a>. Lizenz: CC-BY 4.0</em>
+    Bild: Vorschau auf die neue Sammlung für OER-Unterrichtsideen. Quelle: <a href="https://edulabs.de/blog/plattform-fuer-kuratierte-oer-bald-online">edulabs.de</a>. Lizenz: CC-BY 4.0
     </figcaption>
 </figure>
 

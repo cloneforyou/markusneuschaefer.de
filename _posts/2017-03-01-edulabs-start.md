@@ -17,7 +17,7 @@ permalink: "/edulabs-projektstart/"
 <figure>
     <img src="assets/img/2017_edulabs_title_img.png" />
     <figcaption>
-    <em>Bild: Titelgrafik von <a href="https://www.edulabs.de">edulabs.de</a> | CC-BY 4.0</em>
+    Bild: Titelgrafik von <a href="https://www.edulabs.de">edulabs.de</a> | CC-BY 4.0
     </figcaption>
 </figure>
 

@@ -225,3 +225,18 @@
   hyphens: auto;
 
 }
+
+.the-content .post .post-content blockquote {
+    margin: 40px 0 40px 0;
+
+}
+
+.the-content .post .post-content .quotecaption {
+		position: relative;
+		top: -40px;
+		text-align: right;
+    color: #aaa;
+    font-size: 13px;
+    font-style: italic;
+    padding-top: 10px;
+}
