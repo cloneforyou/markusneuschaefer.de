@@ -1,14 +1,14 @@
 # General Settings
 name: Dr. Markus Neuschäfer
 
-job_title: Digitale Innovation und offenes Lernen<br>Konzept / Strategie / Projektmanagement
-
+# job_title: Digitale Innovation und offenes Lernen<br>Konzept / Strategie / Projektmanagement
+# job_title: Education Consultant, OER Activist,<br>Project-Linchpin <a class="title-link" href="https://www.linkedin.com/in/markus-neusch%C3%A4fer-5b02076b/">for hire</a>
+job_title: Project Linchpin, Education Consultant,<br>Activist for OER & Open Culture
 email: m.neuschaefer@gmail.com
-
-description: Willkommen auf meiner Seite, hier notiere ich Gedanken und Links zu vielem, das ich spannend finde. Ich freue mich über Gespräche und Anregungen, am besten erreichbar bin ich via <a href='http://twitter.com/mneuschaefer'>Twitter</a> oder <a href='mailto:m.neuschaefer@posteo.de'>Email</a>.
+description: Willkommen auf meiner Seite, hier notiere ich Gedanken und Links zu vielem, das ich spannend finde. Ich freue mich über Gespräche und Anregungen, erreichbar bin ich am besten via <a href='http://twitter.com/mneuschaefer'>Twitter</a> oder <a href='mailto:m.neuschaefer@posteo.de'>Email</a>.
 avatar: /assets/img/mn.jpg
 favicon: /favicon.ico
-twitter_handler: your_handler
+twitter_handler: mneuschaefer
 analytics_code: UA-44236559-1
 # disqus: your_disqus_site
 
