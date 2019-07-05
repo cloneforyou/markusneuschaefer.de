@@ -29,7 +29,7 @@ permalink: "/e-learning-studie/"
 
 ---
 <figure>
-	<img src="/assets/img/schule_früher.jpg" />
+	<img src="/assets/img/2015_schule_frueher.jpg" />
 
 </figure>
 

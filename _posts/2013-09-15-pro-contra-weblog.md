@@ -14,7 +14,7 @@ permalink: "/pro-contra-weblog/"
 
 ---
 <figure>
-	<img src="/assets/img/Felder.JPG" />
+	<img src="/assets/img/2013_Felder.jpg" />
   <figcaption>
   Bild: Satellitenbild von Feldern in Kansas, USA. Quelle: Nasa / Wikipedia, <a title="bit.ly/17whx42" href="http://bit.ly/17whx42">bit.ly/17whx42</a> (Public Domain)
   </figcaption>
