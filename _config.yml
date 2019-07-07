@@ -3,7 +3,8 @@ name: Dr. Markus Neuschäfer
 
 # job_title: Digitale Innovation und offenes Lernen<br>Konzept / Strategie / Projektmanagement
 # job_title: Education Consultant, OER Activist,<br>Project-Linchpin <a class="title-link" href="https://www.linkedin.com/in/markus-neusch%C3%A4fer-5b02076b/">for hire</a>
-job_title: Project Linchpin, Education Consultant,<br>Activist for OER & Open Culture
+# job_title: Project Linchpin, Education Consultant,<br>Activist for OER & Open Culture
+job_title: 💼 Education Consultant, 👷‍♂️ Project Linchpin<br>❤️ OER, Open Culture, Tango, Travel 🌎
 email: m.neuschaefer@gmail.com
 description: Willkommen auf meiner Seite, hier notiere ich Gedanken und Links zu vielem, das ich spannend finde. Ich freue mich über Gespräche und Anregungen, erreichbar bin ich am besten via <a href='http://twitter.com/mneuschaefer'>Twitter</a> oder <a href='mailto:m.neuschaefer@posteo.de'>Email</a>.
 avatar: /assets/img/mn.jpg
@@ -16,7 +17,7 @@ analytics_code: UA-44236559-1
 # description: Ich engagiere mich für digitalen Wandel, Open Culture, e-Learning und zeitgemäße Bildung. Auch entdecke ich gerne neue Musik, vegane Rezepte, Berliner Milongas und Seen. Erreichbar bin ich am besten via <a href='http://twitter.com/mneuschaefer'>Twitter</a> oder per <a href='mailto:m.neuschaefer@posteo.de'>Email</a>.
 plugins:
   - jekyll-redirect-from
-  
+
 # Social Accounts
 social_networks:
 # -  { name: facebook, url: 'https://www.facebook.com/m.neuschaefer' }
