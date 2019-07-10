@@ -1,12 +1,15 @@
 <aside class="user-profile {% if site.fixed_sidebar == 1 %}fixed{% endif %}" role="complementary">
-    <div class="burger">
+
+
+
+    <!-- <div class="burger">
         <input class="trigger hidden" id="toggleBurger" type="checkbox" />
         <label for="toggleBurger">
             <span>Navigation</span>
         </label>
-    </div>
+    </div> -->
 
-    <div class="compact-header">
+    <div class="compact-header" id="navbar">
         <a class="avatar" href="{{ site.baseurl | prepend: site.url }}"><img alt="Avatar" src="{% if site.avatar %}{{site.avatar}}{% else %}{{ site.email | to_gravatar:140 }}{% endif %}" /></a>
         <div class="my-info">
             <strong class="my-name">{{ site.name }}</strong>

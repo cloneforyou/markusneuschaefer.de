@@ -99,9 +99,11 @@ header,nav,section,main,article,aside,figure,footer,iframe,object,svg {
     -o-transition: right 0.3s ease-in-out
 }
 
+/* CHANGED (removed)
 .user-profile.fixed {
     position: fixed
 }
+*/
 
 .user-profile .compact-header .avatar {
     display: block;
@@ -373,7 +375,10 @@ header,nav,section,main,article,aside,figure,footer,iframe,object,svg {
 .the-content .search>div .search-holder {
     width: 100%;
     margin: 0 0 0 34px;
-    background: url(../svg/search-icon.svg) no-repeat left center;
+
+    /* background: url(../svg/search-icon.svg) no-repeat left center; */
+    /* CHANGED (below)*/
+    background: url("../svg/search-icon.svg") no-repeat left center;
     -webkit-background-size: 15px 16px;
     -moz-background-size: 15px 16px;
     -o-background-size: 15px 16px;
@@ -1008,7 +1013,9 @@ header,nav,section,main,article,aside,figure,footer,iframe,object,svg {
     position: relative;
     padding: 0 20px 0 40px;
     text-transform: uppercase;
-    background: url(../svg/share-icon.svg) no-repeat 20px center;
+    /* background: url(../svg/share-icon.svg) no-repeat 20px center; */
+    /* CHANGED to */
+    background: url("../svg/share-icon.svg") no-repeat 20px center;
     border-right: 1px solid #eee;
     -webkit-background-size: 10px 10px;
     -moz-background-size: 10px 10px;
@@ -1305,7 +1312,9 @@ header,nav,section,main,article,aside,figure,footer,iframe,object,svg {
 
     .user-profile .burger {
         display: block !important;
-        position: fixed;
+        /*position: fixed; */
+        /* CHANGED to */
+        position: absolute;
         top: 40px;
         right: 20px;
         z-index: 9999

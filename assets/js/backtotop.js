@@ -1,12 +1,12 @@
 /*
-* Back To Top 
+* Back To Top
 * by Georgi Kalaydzhiev, Web Designer & Front-end Developer http://joro.me/
-* 
+*
 * Copyright (c) 2013.
 * Licensed under the MIT License http://www.opensource.org/licenses/mit-license.php
 *
 * Description: Just scrolls back to top. You can modify button style.
-* 
+*
 * Version: 1.0, 18/11/2013
 * Version: 1.1, 17/12/2013
 * Version: 1.2, 22/11/2017
@@ -15,7 +15,7 @@
 $(document).ready( function() {
 	(function($) {
 		function backToTop(userSettings) {
-			
+
 			var defaultSettings = { backgroundColor: '#000', width: '40px', height: '40px', opacity: '0.2', opacityOnHover: '0.4', positionToAppear: '300' };
 			var settings = $.extend({}, defaultSettings, userSettings);
 
@@ -34,7 +34,7 @@ $(document).ready( function() {
 				'borderRadius' : '50%',
 				'cursor' : 'pointer'
 			};
-			
+
 			$('<span class="backtotop"></span>').css(backToTopStyle).appendTo('body').hide();
 
 			var backToTopButton = $('.backtotop');
@@ -61,10 +61,10 @@ $(document).ready( function() {
 			backToTopButton.on({
 				click: function(e) {
 					var elPos = el.scrollTop();
-				
+
 					if (elPos !== 0)
 					  el.animate({scrollTop: 0}, 300);
-					  
+
 					e.preventDefault();
 				},
 				mouseover: function() {
