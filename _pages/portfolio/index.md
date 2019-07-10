@@ -20,6 +20,8 @@ Kontakt
 
 [Willi Baumeister – ein Kunstbuch in Open Access](https://www.willi-baumeister.org/node/85)
 
+[Das bedingte Selbst. Familie, Identität und Geschichte im zeitgenössischen Generationenroman (PDF)](/wp-content/uploads/Neuschaefer-Das_bedingte_Selbst-CC-BY-SA.pdf)
+
 ## Ehrenamtliches
 
 [Refugee Phrasebook](https://www.refugeephrasebook.de)
