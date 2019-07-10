@@ -20,8 +20,6 @@ Kontakt
 
 [Willi Baumeister – ein Kunstbuch in Open Access](https://www.willi-baumeister.org/node/85)
 
-Das begin
-
 ## Ehrenamtliches
 
 [Refugee Phrasebook](https://www.refugeephrasebook.de)
