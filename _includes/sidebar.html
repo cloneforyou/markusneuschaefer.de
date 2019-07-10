@@ -15,6 +15,12 @@
             <strong class="my-name">{{ site.name }}</strong>
             <span class="my-profile-summary">{{ site.job_title }}</span>
         </div>
+        <div class="burger" id="burgermenu">
+            <input class="trigger hidden" id="toggleBurger" type="checkbox" />
+            <label for="toggleBurger">
+                <span>Navigation</span>
+            </label>
+        </div>
     </div>
 
     {% if site.show_menu == 1 %}

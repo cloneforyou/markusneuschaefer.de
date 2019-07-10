@@ -1316,9 +1316,8 @@ header,nav,section,main,article,aside,figure,footer,iframe,object,svg {
 
     .user-profile .burger {
         display: block !important;
-        /*position: fixed; */
         /* CHANGED to */
-        position: absolute;
+        position: static;
         top: 40px;
         right: 20px;
         z-index: 9999
