@@ -10,16 +10,17 @@ Kontakt
 
 ## Abgeschlossene Projekte (Auswahl)
 
-[edulabs](https://www.edulabs.de){:target="_blank"}
+[edulabs](https://www.edulabs.de)
 
 [Demokratielabore](https://www.demokratielabore.de)
 
 [Handbuch Digital Humanities](http://handbuch.io/w/DH-Handbuch)
 
-[AG Open Science](http://www.ag-openscience.de/)
-[DARIAH-DE](https://de.dariah.eu/)
-
 [Forschungslizenzen.de](http://forschungslizenzen.de/)
+
+[Willi Baumeister – ein Kunstbuch in Open Access](https://www.willi-baumeister.org/node/85)
+
+Das begin
 
 ## Ehrenamtliches
 
