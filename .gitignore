@@ -6,3 +6,4 @@ _site/
 DEPLOY/
 jekylldeploy.sh
 assets/demos/newindex/
+Gemfile.lock

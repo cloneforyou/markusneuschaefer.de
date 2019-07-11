@@ -5,7 +5,7 @@ permalink: "/portfolio/"
 ---
 Hier eine Auswahl abgeschlossener Projekte, veröffentlichter Veröffentlichungen, vorgetragener Vorträge etc. aus den letzten Jahren.
 
-##  Projekte
+##  🚀 Projekte
 
 [Edulabs](https://www.edulabs.de) (Projektleitung, 2017-2019)
 entwickelte digital gestützte Methoden für zeitgemäße Bildung und organisierte Workshops und Netzwerktreffen, bei denen freie Bildungsmaterialien (OER) und neue Lernformate zusammen mit Expertinnen erstellt, evaluiert und verbessert wurden.
@@ -17,7 +17,7 @@ entwickelte Infrastrukturen für mit digitalen Ressourcen und Methoden arbeiten
 
 [Willi Baumeister – ein Kunstbuch in Open Access](https://www.epubli.de/blog/open-access-willi-baumeister) (Projektmanagement, 2014) entstand bei der Self-Publishing-Plattform epubli (Holtzbrinck Publishing Group) als Projekt mit dem Ziel, durch den offenen Zugang mehr Sichtbarkeit und neue Zielgruppen zu erreichen. Das Buch ist im Print-on-Demand und als [PDF mit CC-Lizenz](https://www.willi-baumeister.org/node/85) verfügbar.
 
-## Publikationen
+## 📚 Publikationen
 
 Digitale Mündigkeit gibt es nicht umsonst: Fünf Forderungen aus der Bildungspraxis. [Gastbeitrag](](https://netzpolitik.org/2018/digitale-muendigkeit-gibt-es-nicht-umsonst-fuenf-forderungen-aus-der-bildu)) auf Netzpolitik.org von Nele Hirsch und Markus Neuschäfer (2018).
 
@@ -39,7 +39,7 @@ Werner Heiduczek. In: Killy Literaturlexikon. Autoren und Werke des deutschsprac
 
 Kohärenz aus Ambivalenz in Wolfgang Koeppens »Tauben im Gras«. In: Ambivalenz und Kohärenz. Untersuchungen zur narrativen Sinnbildung. Hrsg. von Julia Abel, Andreas Blödorn und Michael Scheffel. Trier: WVT 2009 (Preprint-[PDF](/wp-content/uploads/08-11-Kohaerenz_preprint.pdf)).
 
-## Interviews, Podiumsdiskussionen und Vorträge (Auswahl)
+## 🎤 Interviews, Podiumsdiskussionen und Vorträge (Auswahl)
 
 Podiumsdiskussion mit Vasili Sofiadellis und Engin Karahan bei der Tagung "[European Societies in digital Age]((https://colloquium-digital-societies.eu/live-stream-convention-european-societies-in-digital-age/))" 2018 ([Video](https://colloquium-digital-societies.eu/live-stream-convention-european-societies-in-digital-age/)).
 
