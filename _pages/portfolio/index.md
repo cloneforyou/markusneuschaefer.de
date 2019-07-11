@@ -68,7 +68,7 @@ Rewiring the Ivory Tower? Digital Universities and the Evolution of Open Science
 
 Self-Publishing-Dienstleistungen für Open-Access-Projekte. Vortrag auf den Open-Access-Tagen 2013 ([Folien](https://open-access.net/fileadmin/oat/oat13/OAT13_OA_und_Verlage_Neuschaefer.pdf)).
 
-Familiengeheimnisse in der Literatur: Generationalität zwischen Text, Kognition und Kultur. Vortrag beim Deutschen Germanistentag am 25.09.2007, Philipps- Universität Marburg ([Manuskript](/wp-content/uploads/2009_Vortrag_Germanistentag.pdf)).
+Familiengeheimnisse in der Literatur: Generationalität zwischen Text, Kognition und Kultur. Vortrag beim Deutschen Germanistentag am 25.9.2007, Philipps- Universität Marburg ([Manuskript](/wp-content/uploads/2009_Vortrag_Germanistentag.pdf)).
 
 
 ## Ehrenamtliches
