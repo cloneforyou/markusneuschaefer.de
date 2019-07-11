@@ -13,6 +13,7 @@ analytics_code: UA-44236559-1
 # description: Ich engagiere mich für digitalen Wandel, Open Culture, e-Learning und zeitgemäße Bildung. Auch entdecke ich gerne neue Musik, vegane Rezepte, Berliner Milongas und Seen. Erreichbar bin ich am besten via <a href='http://twitter.com/mneuschaefer'>Twitter</a> oder per <a href='mailto:m.neuschaefer@posteo.de'>Email</a>.
 plugins:
   - jekyll-redirect-from
+  - jekyll-ftp
 
 # Social Accounts
 social_networks:

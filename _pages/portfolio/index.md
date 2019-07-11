@@ -3,9 +3,7 @@ layout: page
 title:  "Portfolio"
 permalink: "/portfolio/"
 ---
-Kontakt
-* Email: [m.neuschaefer@posteo.de](mailto:m.neuschaefer@posteo.de)
-* Twitter: [@mneuschaefer](http://twitter.com/mneuschaefer)
+Hier eine Auswahl abgeschlossener Projekte, veröffentlichter Veröffentlichungen, vorgetragener Vorträge etc. aus den letzten Jahren.
 
 ##  Projekte
 
@@ -28,6 +26,8 @@ Offene Bildung mit digital gestützten Methoden, edulabs (2018). In: Synergie. F
 Edulabs – Innovationsräume für Bildung in der digitalen Welt (2017). In: Synergie. Fachmagazin für Digitalisierung in der Lehre, [Ausgabe \#04]((https://synergie.blogs.uni-hamburg.de/ausgabe-04-beitrag-kolbe-neuschaefer/)). S. 44-47.
 
 Kunst für alle? Austausch und Sichtbarkeit mit freien Lizenzen. [Gastbeitrag](https://www.monopol-magazin.de/kunst-für-alle) im Monopol-Magazin vom 07.04.2015.
+
+Handbuch Digital Humanities. Mit Helene Hahn, Tibor Kalman, Wibke Kolbmann, Thomas Kollatz, Markus Neuschäfer, Steffen Pielström, Johanna Puhl, Juliane Stiller, Danah Tonne, 2015 ()[TIB-Wiki](https://handbuch.tib.eu/w/DH-Handbuch)).
 
 [Das bedingte Selbst]((https://gso.gbv.de/DB=2.2/SET=1/TTL=1/SHW?FRST=8/PRS=HOL)). Familie, Identität und Geschichte im zeitgenössischen Generationenroman (Dissertation, 2015 \| [PDF](/wp-content/uploads/Neuschaefer-Das_bedingte_Selbst-CC-BY-SA.pdf)).
 
