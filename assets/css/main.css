@@ -1170,14 +1170,24 @@ header,nav,section,main,article,aside,figure,footer,iframe,object,svg {
 }
 
 .the-content .pagination .previous,.the-content .pagination .next {
+    max-width: 35%;
+    hyphens: auto;
+    line-height: 1.5em;
     padding: 14px 20px;
     border: 1px solid #eee;
     background: #fff;
     box-shadow: 0 2px 3px rgba(0,0,0,0.05);
-    text-transform: uppercase;
+    //text-transform: uppercase;
     font-size: 14px;
     font-weight: 900;
     color: #666
+}
+
+.previous-post {
+
+}
+.next-post {
+  text-align: right;
 }
 
 .the-content .pagination .previous:hover,.the-content .pagination .next:hover {
