@@ -1,14 +1,5 @@
 <aside class="user-profile {% if site.fixed_sidebar == 1 %}fixed{% endif %}" role="complementary">
 
-
-
-    <!-- <div class="burger">
-        <input class="trigger hidden" id="toggleBurger" type="checkbox" />
-        <label for="toggleBurger">
-            <span>Navigation</span>
-        </label>
-    </div> -->
-
     <div class="compact-header" id="navbar">
         <a class="avatar" href="{{ site.baseurl | prepend: site.url }}"><img alt="Avatar" src="{% if site.avatar %}{{site.avatar}}{% else %}{{ site.email | to_gravatar:140 }}{% endif %}" /></a>
         <div class="my-info">
@@ -27,11 +18,9 @@
         {% if site.pages %}
         <div class="mainmenu">
             <a href="{{ site.baseurl | prepend: site.url }}" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
-            {% for p in site.pages %}
-                {% if p.layout == 'page' %}
-                    <a href="{{ p.url | prepend: site.baseurl | prepend: site.url }}" {% if p.url == page.url %}class="active"{% endif %}>{{ p.title }}</a>
-                {% endif %}
-            {% endfor %}
+            {% for p in site.pages %}{% if p.layout == 'page' %}
+            <a href="{{ p.url | prepend: site.baseurl | prepend: site.url }}" {% if p.url == page.url %}class="active"{% endif %}>{{ p.title }}</a>
+            {% endif %}{% endfor %}
         </div>
         {% endif %}
     {% endif %}

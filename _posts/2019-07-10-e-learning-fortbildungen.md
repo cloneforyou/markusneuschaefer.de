@@ -1,10 +1,13 @@
 ---
 layout: post
 title: 'E-Learning-Fortbildungen'
+permalink: 'e-learning-fortbildungen'
 date: 2019-07-03 12:00:44.000000000 +01:00
 type: post
 published: true
 status: draft
+twitter-image: /assets/img/2019_crop-circles-medium.jpg
+summary: 'Gerade mache ich einige Online-Fortbildungen. Mit kollaborativen Lernformaten wäre die Wirkung beim E-Learning deutlich höher. '
 categories:
 - Notizen
 tags:
