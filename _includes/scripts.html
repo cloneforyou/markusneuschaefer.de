@@ -24,11 +24,14 @@
         window.onscroll = function() {
             var currentScrollPos = window.pageYOffset;
             if (prevScrollpos > currentScrollPos) {
+              document.getElementById("burgermenu").style.top = "40px";
                 document.getElementById("navbar").style.top = "0px";
-                document.getElementById("burgermenu").style.top = "0px";
+
+
             } else {
                 document.getElementById("navbar").style.top = "-500px";
-                document.getElementById("burgermenu").style.top = "-500px";
+                document.getElementById("burgermenu").style.top = "-540px";
+
             }
             prevScrollpos = currentScrollPos;
         }

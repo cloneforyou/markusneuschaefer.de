@@ -1317,10 +1317,12 @@ header,nav,section,main,article,aside,figure,footer,iframe,object,svg {
     .user-profile .burger {
         display: block !important;
         /* CHANGED to */
-        position: static;
+        position: fixed;
         top: 40px;
         right: 20px;
-        z-index: 9999
+        z-index: 9999;
+        transition: all 1s ease-in;
+        -webkit-transition: all 1s ease-in;
     }
 
     .the-content {
