@@ -3,7 +3,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{% if page.title %}{{ page.title | escape }} |{% endif %} {{ site.name | escape }} {% if site.job_title %}&mdash; {{site.job_title | escape }} {% endif %}</title>
+
+<title>{% if page.title %}{{ page.title | escape }} |{% endif %} {{ site.name | escape }}</title>
     <meta property="og:title" content="{% if page.title %}{{ page.title | escape }} |{% endif %} {{ site.name | escape }} {% if site.job_title %}&mdash; {{site.job_title | escape }} {% endif %}" />
     <!-- <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }} |{% endif %} {{ site.name | escape }} {% if site.job_title %}&mdash; {{site.job_title | escape }} {% endif %}" /> -->
 
@@ -25,8 +26,8 @@
 <meta name="twitter:creator" content="@{{ site.twitter_handler }}">
 <meta name="twitter:title"   content="{{ page.title }}">
 
-{% if page.summary %}
-<meta name="twitter:description" content="{{ page.summary }}">
+{% if page.description %}
+<meta name="twitter:description" content="{{ page.description }}">
 {% else %}
 <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
@@ -41,4 +42,23 @@
 {% endif %}
 <!-- end of Twitter cards -->
 
+<!-- Open Graph -->
+<meta property="og:locale" content="de_DE">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+
+<meta property="og:image" content="{% if page.twitter-image %}{{ site.url }}{{ page.twitter-image }}{% else %}{{ site.url }}{{ site.title-image }}{% endif %}">
+
+<meta property="og:site_name" content="Markus Neuschäfers Blog">
+<meta property="article:publisher" content="https://www.facebook.com/m.neuschaefer" />
+<meta property="article:author" content="https://www.facebook.com/m.neuschaefer" />
+<meta property="article:published_time" content="{{ page.date }}" />
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
+<!-- end of Open Graph -->
+
+<!-- seo tag description at https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md -->
+
+{% seo %}
 </head>

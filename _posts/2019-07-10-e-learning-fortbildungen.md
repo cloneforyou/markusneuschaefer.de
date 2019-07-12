@@ -1,17 +1,18 @@
 ---
 layout: post
-title: 'E-Learning-Fortbildungen'
+title: 'E-Learning-Fortbildungen und kollaborative Methoden'
 permalink: 'e-learning-fortbildungen'
 date: 2019-07-03 12:00:44.000000000 +01:00
 type: post
 published: true
 status: draft
-twitter-image: /assets/img/2019_crop-circles-medium.jpg
-summary: 'Gerade mache ich einige Online-Fortbildungen. Mit kollaborativen Lernformaten wäre die Wirkung beim E-Learning deutlich höher. '
+twitter-image: /assets/img/2019_crop-circles-medium.png
+description: 'Gerade mache ich einige Online-Fortbildungen. Mit kollaborativen Lernformaten wäre die Wirkung beim E-Learning deutlich höher. '
 categories:
 - Notizen
 tags:
-- Meta
+- 'Kollaboratives Lernen'
+- 'E-Learning'
 ---
 Mit dem Abschluss von [edulabs](https://www.edulabs.de/blog/) ist auch mein Vertrag bei der OKF ausgelaufen, bis das nächste Projekt startet, nutze ich die Zeit neben dem Reisen vor allem zum Lernen. Dabei interessiert mich besonders das **IT-Projektmanagement**. Ein "agiler", zielorientierter Ansatz war bei der bisherigen Arbeit eigentlich selbstverständlich, jenseits der NGO-Welt werden zum Nachweis allerdings Zertifikate erwartet. Eine gute Gelegenheit also, neue Begriffe und Werkzeuge kennenzulernen, daher mache ich gerade eine "Digital Business Innovator"-Fortbildung bei dem Anbieter "Karrieretutor", mit den Schwerpunkten [PRINCE2](https://de.wikipedia.org/wiki/PRINCE2), [Scrum](https://de.wikipedia.org/wiki/Scrum), Business Development und einiger explorativer Methoden wie [Design-Thinking](https://de.wikipedia.org/wiki/Design_Thinking). Die Fortbildungen werden als E-Learning angeboten; nachdem wir in den letzten Jahren viel über Methoden und Konzepte zeitgemäßer digitale Bildung diskutiert haben, finde ich es äußerst spannend, nun als Lernender die Methoden eines kommerziellen Anbieters zu erfahren.
 
