@@ -1170,7 +1170,7 @@ header,nav,section,main,article,aside,figure,footer,iframe,object,svg {
 }
 
 .the-content .pagination .previous,.the-content .pagination .next {
-    max-width: 35%;
+    max-width: 39%;
     hyphens: auto;
     line-height: 1.5em;
     padding: 14px 20px;
@@ -1184,10 +1184,13 @@ header,nav,section,main,article,aside,figure,footer,iframe,object,svg {
 }
 
 .previous-post {
+  text-transform: none;
+  text-align: right;
 
 }
 .next-post {
-  text-align: right;
+  text-transform: none;
+
 }
 
 .the-content .pagination .previous:hover,.the-content .pagination .next:hover {
