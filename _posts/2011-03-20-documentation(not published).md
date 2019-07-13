@@ -14,7 +14,11 @@ tags:
 - jekyll
 ---
 
-Note:
+
+
+## Images
+
+image-optim (mac)
 
 ## youtube-iframes:
 
