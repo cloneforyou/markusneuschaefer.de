@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nachtrag und Blog-Redesign'
+title: 'Blog-Redesign, Blog-Nachträge'
 date: 2019-07-03 12:00:44.000000000 +01:00
 type: post
 published: true

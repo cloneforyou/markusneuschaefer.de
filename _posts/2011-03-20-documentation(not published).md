@@ -190,7 +190,7 @@ These are just a few of the *available* **configuration** options. Many configur
 
 #### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="" data-src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
 
 #### Default Code Block
 

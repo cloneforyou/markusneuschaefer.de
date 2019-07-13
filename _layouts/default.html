@@ -1,16 +1,29 @@
 <!DOCTYPE html>
 <html>
-    {% include head.html %}
+{% include head.html %}
 
-    <body>
-        <div class="wrapper">
-            {% include sidebar.html %}
+<!-- defer loading youtube videos, from https://scottdeluzio.com/defer-parsing-javascript-youtube-videos/ -->
+<script>
+  function init() {
+    var vidDefer = document.getElementsByTagName('iframe');
+    for (var i = 0; i < vidDefer.length; i++) {
+      if (vidDefer[i].getAttribute('data-src')) {
+        vidDefer[i].setAttribute('src', vidDefer[i].getAttribute('data-src'));
+      }
+    }
+  }
+  window.onload = init;
+</script>
 
-            <main class="the-content" role="main">
-                {% include search.html %}
-                {{ content }}
-            </main>
-        </div>      
-        {% include scripts.html %}
-    </body>
+<body>
+  <div class="wrapper">
+    {% include sidebar.html %}
+
+    <main class="the-content" role="main">
+      {% include search.html %} {{ content }}
+    </main>
+  </div>
+  {% include scripts.html %}
+</body>
+
 </html>
