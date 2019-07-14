@@ -26,7 +26,7 @@ permalink: "/werbung-ausstellung-urheberrecht/"
 
 <p>Im Hamburger Bahnhof gibt es gerade eine <a href="http://www.smb.museum/museen-und-einrichtungen/hamburger-bahnhof/ausstellungen/ausstellung-detail/michael-beutler.html">Ausstellung zu Michael Beutler</a>, welche ich sehr beeindruckend fand. In der großen Museumshalle herrscht eine ungeheure Betriebsamkeit, mit einfachen Mitteln werden industrielle Produktionsstraßen nachgestellt. Serielle Kreativität! Ich würde gerne ein Bild der Ausstellung posten, durch <a href="/kunst-fuer-alle-austausch-und-sichtbarkeit-mit-freien-lizenzen/">das geltende Urheberrecht und die Verwertungspraxis</a> wäre dies allerdings viel zu teuer und ich habe gerade keine Lust,  die Rechte für meine unscharfen Handyfotos einzeln zu klären. Das Youtube-Video zur Ausstellung lässt sich zum Glück unproblematischer teilen :</p>
 
-<iframe width="560" height="315" src="" data-src="https://www.youtube.com/embed/hFWbAN7RsN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hFWbAN7RsN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>Die urheberrechtliche Problematik lässt sich also umgehen, indem man auf Youtube verweist, statt eigene Bilder einzubinden - von der aktuellen Regelung profitiert einzig Google. <!--more-->
 

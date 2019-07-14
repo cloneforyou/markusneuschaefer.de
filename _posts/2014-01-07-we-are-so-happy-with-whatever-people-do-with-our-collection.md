@@ -29,4 +29,4 @@ permalink: "/we-are-so-happy-with-whatever-people-do-with-our-collection/"
 <p>we are so happy with whatever people do with our collection"</p></blockquote>
 
 
-<iframe width="560" height="315" src="" data-src="https://www.youtube.com/embed/qkoGrEk1QSM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qkoGrEk1QSM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
