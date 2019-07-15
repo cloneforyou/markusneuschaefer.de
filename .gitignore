@@ -7,3 +7,4 @@ DEPLOY/
 jekylldeploy.sh
 assets/demos/newindex/
 Gemfile.lock
+assets/css/old/
