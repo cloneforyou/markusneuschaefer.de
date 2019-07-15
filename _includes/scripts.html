@@ -1,10 +1,10 @@
-<script src="{{ site.baseurl | prepend: site.url }}/assets/js/jquery-1.12.2.min.js"></script>
-<script src="{{ site.baseurl | prepend: site.url }}/assets/js/backtotop.js"></script>
-<script src="{{ site.baseurl | prepend: site.url }}/assets/js/lunr.min.js"></script>
-<script src="{{ site.baseurl | prepend: site.url }}/assets/js/lunr-feed.js"></script>
-<script src="{{ site.baseurl | prepend: site.url }}/assets/js/jquery.fitvids.js"></script>
-<script src="{{ site.baseurl | prepend: site.url }}/assets/js/svg4everybody.min.js"></script>
-<script src="{{ site.baseurl | prepend: site.url }}/assets/js/scripts.js"></script>
+<script src="{{ site.baseurl | prepend: site.url }}/assets/js/jquery-1.12.2.min.js" defer></script>
+<script src="{{ site.baseurl | prepend: site.url }}/assets/js/backtotop.js" defer></script>
+<script src="{{ site.baseurl | prepend: site.url }}/assets/js/lunr.min.js" defer></script>
+<script src="{{ site.baseurl | prepend: site.url }}/assets/js/lunr-feed.js" defer></script>
+<script src="{{ site.baseurl | prepend: site.url }}/assets/js/jquery.fitvids.js" defer></script>
+<script src="{{ site.baseurl | prepend: site.url }}/assets/js/svg4everybody.min.js" defer></script>
+<script src="{{ site.baseurl | prepend: site.url }}/assets/js/scripts.js" defer></script>
 
 
 
@@ -39,3 +39,10 @@
     </script>
 
 {% endif %}
+
+<!-- defer loading all youtube video iframes
+change all "src="https://www.youtube.com" to "src='' data-src='https://www.youtube.com'
+see https://scottdeluzio.com/defer-parsing-javascript-youtube-videos/
+FIXME - breaks navbar somehow-->
+
+<script src="{{ site.baseurl | prepend: site.url }}/assets/js/youcover.js"></script>
