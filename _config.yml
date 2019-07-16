@@ -52,7 +52,7 @@ show_categories: 0
 show_tags: 0
 show_email: 1
 show_rss: 1
-show_comments: 0
+show_comments: 1
 show_menu: 1
 fixed_sidebar: 0
 
@@ -73,7 +73,7 @@ baseurl: ""
 include: ["_pages"]
 
 # Outputting
-permalink: /:categories/:title.html
+permalink: /:title.html
 category_dir: categories
 
 # Pagination

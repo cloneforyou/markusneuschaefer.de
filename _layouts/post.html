@@ -57,7 +57,8 @@ https://blog.webjeda.com/jekyll-toc/#step-3-call-toc-in-the-layout>
   });
   </script> -->
 
-<!-- page comments (currently unavailable) -->
+
+<!-- page comments (currently unavailable)
 {% if page.comments and site.show_comments == 1 %}
 <aside class="comments" role="complementary">
     <div id="disqus_thread"></div>
@@ -76,10 +77,10 @@ https://blog.webjeda.com/jekyll-toc/#step-3-call-toc-in-the-layout>
         })();
     </script>
 </aside>
-{% endif %}
+{% endif %} -->
 
 
-<!-- pagination experiment -->
+<!-- pagination  -->
 
 <div class="pagination{% if paginator.next_page == 2 %} next{% endif %}" role="navigation" aria-label="pagination">
 
@@ -91,5 +92,11 @@ https://blog.webjeda.com/jekyll-toc/#step-3-call-toc-in-the-layout>
   {% if page.previous.url %}
       <a href="{{ page.previous.url }}" class="previous" id="previous-button">{{page.previous.title}} &raquo; </a>
   {% endif %}
-
 </div>
+
+{% if page.comments and site.show_comments == 1 %}
+<aside class="comments" role="complementary">
+  <div id="commento"></div>
+  <script src="https://cdn.commento.io/js/commento.js"></script>
+</aside>
+{% endif %}
