@@ -11,6 +11,9 @@ tags:
 - eLearning
 - H5P
 description: "Übungsformate wie Multiple-Choice-Tests oder Lückentexte gelten didaktisch als nicht mehr zeitgemäß. Dennoch ist kooperatives und kollaboratives Lernen mit diesen Formaten möglich, wenn Lernende diese selber gestalten"
+permalink: "/aktives-lernen-trotz-multiple-choice/"
+redirect_from:
+  - /essays/aktives-lernen-trotz-multiple-choice.html
 ---
 <figure>
     <img src="/assets/img/2019-07-multiple-choice.png" />
