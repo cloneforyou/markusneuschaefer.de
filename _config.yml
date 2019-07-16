@@ -9,8 +9,7 @@ twitter_handler: mneuschaefer
 analytics_code: UA-44236559-1
 title_image: /assets/img/2019_crop-circles-medium.png
 lang: de_DE
-# disqus: your_disqus_site
-
+# disqus: https://markusneuschaefer-de.disqus.com
 
 # description: Ich engagiere mich für digitalen Wandel, Open Culture, e-Learning und zeitgemäße Bildung. Auch entdecke ich gerne neue Musik, vegane Rezepte, Berliner Milongas und Seen. Erreichbar bin ich am besten via <a href='http://twitter.com/mneuschaefer'>Twitter</a> oder per <a href='mailto:m.neuschaefer@posteo.de'>Email</a>.
 plugins:
@@ -53,7 +52,7 @@ show_categories: 0
 show_tags: 0
 show_email: 1
 show_rss: 1
-show_comments: 1
+show_comments: 0
 show_menu: 1
 fixed_sidebar: 0
 

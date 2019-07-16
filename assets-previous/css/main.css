@@ -565,7 +565,7 @@ header,nav,section,main,article,aside,figure,footer,iframe,object,svg {
 }
 
 .the-content .post .post-content blockquote {
-    margin: 40px 0;
+    margin: 40px 0 20px 0 ;
     padding-left: 30px;
     font-style: italic;
     border-left: 3px solid #aaa
@@ -1417,7 +1417,7 @@ header,nav,section,main,article,aside,figure,footer,iframe,object,svg {
 }
 
 .the-content .post .post-content blockquote {
-    margin: 40px 0 40px 0;
+    margin: 40px 0 20px 0;
 }
 
 .the-content .post .post-content .quotecaption {
