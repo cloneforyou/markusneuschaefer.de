@@ -24,7 +24,7 @@ redirect_from:
         {{ post.excerpt }}
 
         {% if post.excerpt != post.content %}
-            <p><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" role="button">Read More</a></p>
+            <p><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" role="button">Weiterlesen</a></p>
         {% endif %}
     </div>
 
@@ -48,17 +48,17 @@ redirect_from:
 </article>
 {% endfor %}
 
-<!-- {% if paginator.total_pages > 1 %}
+{% if paginator.total_pages > 1 %}
 
 <div class="pagination{% if paginator.next_page == 2 %} next{% endif %}" role="navigation" aria-label="pagination">
     {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous">&laquo; vor</a>
+        <a href="{{ paginator.previous_page_path }}" class="previous" id="previous-button">&laquo; vor</a>
     {% endif %}
 
     <span class="page_number">Seite {{ paginator.page }} von {{ paginator.total_pages }}</span>
 
     {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">zurück &raquo;</a>
+        <a href="{{ paginator.next_page_path }}" class="next" id="next-button">zurück &raquo;</a>
     {% endif %}
 </div>
-{% endif %} -->
+{% endif %}

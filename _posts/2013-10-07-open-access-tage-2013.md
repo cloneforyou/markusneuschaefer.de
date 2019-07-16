@@ -22,7 +22,6 @@ permalink: "/open-access-tage-2013/"
   </figcaption>
 </figure>
 
-</dl>
 <p>Bei den <a style="font-size: 1rem; line-height: 1.714285714;" href="http://open-access.net/?id=358">Open Access-Tagen 2013</a><span style="font-size: 1rem; line-height: 1.714285714; color: #444444;"><span style="font-size: 1rem; line-height: 1.714285714; color: #444444;"> in Hamburg habe ich diesmal als Vertreter einer Self-Publishing-Plattform teilgenommen. Bei einer Tagung über Open-Access sind Verlage in einer schwierigen Position, steht in diesem Rahmen doch ihr gewohntes Geschäftsmodell zur Debatte.</span></span></p>
 <p><!--more--></p>
 <h2>Unzufriedenheit mit den Verlagen</h2>

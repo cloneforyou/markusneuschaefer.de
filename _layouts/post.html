@@ -20,6 +20,8 @@ layout: default
     </header>
 
     <div class="post-content">
+        <!-- insert TOC
+        <div id="toc"></div>-->
         {{ page.content }}
     </div>
 
@@ -41,6 +43,19 @@ layout: default
         {% endif %}
     </footer>
 </article>
+
+<!-- TOC <script
+https://blog.webjeda.com/jekyll-toc/#step-3-call-toc-in-the-layout>
+
+</script>
+
+    <script src="{{ site.baseurl | prepend: site.url }}/assets/js/toc.js"></script>
+
+    <script type="text/javascript">
+      $(document).ready(function() {
+    $('#toc').toc();
+  });
+  </script> -->
 
 <!-- page comments (currently unavailable)
 {% if page.comments and site.show_comments == 1 %}
@@ -69,18 +84,12 @@ layout: default
 <div class="pagination{% if paginator.next_page == 2 %} next{% endif %}" role="navigation" aria-label="pagination">
 
   {% if page.next.url %}
-      <a href="{{ page.next.url }}" class="next next-post">&laquo; {{page.next.title}}</a>
+      <a href="{{ page.next.url }}" class="next" id="next-button">&laquo; {{page.next.title}}</a>
   {% endif %}
 
 
   {% if page.previous.url %}
-      <a href="{{ page.previous.url }}" class="previous previous-post">{{page.previous.title}} &raquo; </a>
+      <a href="{{ page.previous.url }}" class="previous" id="previous-button">{{page.previous.title}} &raquo; </a>
   {% endif %}
-
-
-
-
-
-
 
 </div>
