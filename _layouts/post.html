@@ -58,30 +58,8 @@ https://blog.webjeda.com/jekyll-toc/#step-3-call-toc-in-the-layout>
   </script> -->
 
 
-<!-- page comments (currently unavailable)
-{% if page.comments and site.show_comments == 1 %}
-<aside class="comments" role="complementary">
-    <div id="disqus_thread"></div>
-    <script>
-        var disqus_config = function () {
-            this.page.url = '{{ page.url | prepend: site.baseurl | prepend: site.url }}';
-            this.page.identifier = '{{ page.date | date: "%-m/%-d/%Y" }}';
-        };
-        (function() {
-            var d = document, s = d.createElement('script');
-
-            s.src = '//{{site.disqus}}.disqus.com/embed.js';
-
-            s.setAttribute('data-timestamp', +new Date());
-            (d.head || d.body).appendChild(s);
-        })();
-    </script>
-</aside>
-{% endif %} -->
-
 
 <!-- pagination  -->
-
 <div class="pagination{% if paginator.next_page == 2 %} next{% endif %}" role="navigation" aria-label="pagination">
 
   {% if page.next.url %}
@@ -93,10 +71,10 @@ https://blog.webjeda.com/jekyll-toc/#step-3-call-toc-in-the-layout>
       <a href="{{ page.previous.url }}" class="previous" id="previous-button">{{page.previous.title}} &raquo; </a>
   {% endif %}
 </div>
-
+<!--
 {% if page.comments and site.show_comments == 1 %}
 <aside class="comments" role="complementary">
   <div id="commento"></div>
   <script src="https://cdn.commento.io/js/commento.js"></script>
 </aside>
-{% endif %}
+{% endif %} -->
