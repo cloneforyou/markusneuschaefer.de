@@ -1,5 +1,5 @@
 ---
-layout: no-title-post
+layout: post
 title: "Change-Management und Maschinenöl"
 date: 2019-07-17 19:58:06.000000000 +01:00
 type: post
@@ -11,7 +11,7 @@ tags:
 - Changemanagement
 - Benjamin
 twitter-image: /assets/img/2019-07-17_change-management.png
-description: "Gedanken zu Innovation und Changemanagement: Wie gelingen Veränderungen in Organisationen, in der alles zu sehr um das Tagesgeschäft rotiert, um sich schnell umzustellen?"
+description: "Gedanken zu Innovation und Change-Management: Wie gelingen Veränderungen in Organisationen, in der alles zu sehr um das Tagesgeschäft rotiert, um sich schnell umzustellen?"
 permalink: "/organisationen-change-management-maschinenoel/"
 redirect_from:
   - /essays/aktives-lernen-trotz-multiple-choice.html

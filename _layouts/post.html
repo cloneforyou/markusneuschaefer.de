@@ -5,7 +5,13 @@ layout: default
 <article class="post single" role="article" itemscope itemtype="http://schema.org/BlogPosting">
     <header class="post-header">
         <ul>
-            <li><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b, %Y" }}</time></li>
+          <li>
+            <a href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
+            <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b, %Y" }}</time>
+            </a>
+          </li>
+
+            <!-- <li><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b, %Y" }}</time></li> -->
             {% if site.show_categories == 1 and page.category %}
                 {% if page.category %}
                 <li class="cats">
