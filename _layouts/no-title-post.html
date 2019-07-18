@@ -2,12 +2,37 @@
 layout: default
 ---
 
+
+
 <article class="post single" role="article" itemscope itemtype="http://schema.org/BlogPosting">
     <header class="post-header">
         <ul>
           <li>
-            <a href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
+            <!-- <a href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
             <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b, %Y" }}</time>
+            </a> -->
+
+            <a href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
+            <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+            <!-- Whitespace added for readability -->
+            {% assign m = page.date | date: "%-m" %}
+            {{ page.date | date: "%-d" }}.
+            {% case m %}
+              {% when '1' %}Januar
+              {% when '2' %}Februar
+              {% when '3' %}M&auml;rz
+              {% when '4' %}April
+              {% when '5' %}Mai
+              {% when '6' %}Juni
+              {% when '7' %}Juli
+              {% when '8' %}August
+              {% when '9' %}September
+              {% when '10' %}Oktober
+              {% when '11' %}November
+              {% when '12' %}Dezember
+            {% endcase %}
+            {{ page.date | date: "%Y" }}
+            </time>
             </a>
           </li>
             {% if site.show_categories == 1 and page.category %}
