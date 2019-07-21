@@ -69,53 +69,28 @@ layout: default
     </footer>
 </article>
 
-<!-- TOC <script
-https://blog.webjeda.com/jekyll-toc/#step-3-call-toc-in-the-layout>
-
-</script>
-
-    <script src="{{ site.baseurl | prepend: site.url }}/assets/js/toc.js"></script>
-
-    <script type="text/javascript">
-      $(document).ready(function() {
-    $('#toc').toc();
-  });
-  </script> -->
-
-
 
 <!-- pagination  -->
-<div class="pagination{% if paginator.next_page == 2 %} next{% endif %}" role="navigation" aria-label="pagination">
+<div class="no-print pagination{% if paginator.next_page == 2 %} next{% endif %}" role="navigation" aria-label="pagination">
 
   {% if page.next.url %}
-      <a href="{{ page.next.url }}" class="next" id="next-button">&laquo; {{page.next.title}}</a>
+      <a href="{{ page.next.url }}" class="next no-print" id="next-button">&laquo; {{page.next.title}}</a>
   {% endif %}
 
 
   {% if page.previous.url %}
-      <a href="{{ page.previous.url }}" class="previous" id="previous-button">{{page.previous.title}} &raquo; </a>
+      <a href="{{ page.previous.url }}" class="previous no-print" id="previous-button">{{page.previous.title}} &raquo; </a>
   {% endif %}
 </div>
 
 {% if page.comments and site.show_comments == 1 %}
-<aside class="comments" role="complementary">
+<aside class="comments no-print" role="complementary">
+
+  <div class="comments-block" id="disqus-comments-block">
+      <button id="show-comments-btn" onclick="disqus();return false;">Disqus-Kommentare laden*</button><br><br>*<a id="disqus-statement" href="https://help.disqus.com/customer/portal/articles/466259-privacy-policy">Datenschutzerklärung von Disqus</a>
+  </div>
 
   <div id="disqus_thread"></div>
-  <script>
-
-  var disqus_config = function () {
-  this.page.url = 'https://markusneuschaefer.de';  // Replace PAGE_URL with your page's canonical URL variable
-  this.page.identifier = 'markusneuschaefer'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-  };
-
-  (function() { // DON'T EDIT BELOW THIS LINE
-  var d = document, s = d.createElement('script');
-  s.src = 'https://markusneuschaefer.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-  })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 </aside>
 {% endif %}

@@ -85,20 +85,12 @@ layout: default
 
 {% if page.comments and site.show_comments == 1 %}
 <aside class="comments" role="complementary">
-    <div id="disqus_thread"></div>
-    <script>
-        var disqus_config = function () {
-            this.page.url = '{{ page.url | prepend: site.baseurl | prepend: site.url }}';
-            this.page.identifier = '{{ page.date | date: "%-m/%-d/%Y" }}';
-        };
-        (function() {
-            var d = document, s = d.createElement('script');
 
-            s.src = '//{{site.disqus}}.disqus.com/embed.js';
+  <div class="comments-block" id="disqus-comments-block">
+      <button id="show-comments-btn" onclick="disqus();return false;">Disqus-Kommentare laden*</button><br><br>*<a id="disqus-statement" href="https://help.disqus.com/customer/portal/articles/466259-privacy-policy">Datenschutzerklärung von Disqus</a>
+  </div>
 
-            s.setAttribute('data-timestamp', +new Date());
-            (d.head || d.body).appendChild(s);
-        })();
-    </script>
+  <div id="disqus_thread"></div>
+
 </aside>
 {% endif %}

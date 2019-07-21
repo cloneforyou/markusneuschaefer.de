@@ -1,4 +1,4 @@
-<aside class="user-profile {% if site.fixed_sidebar == 1 %}fixed{% endif %}" role="complementary">
+<aside class="user-profile no-print {% if site.fixed_sidebar == 1 %}fixed{% endif %}" role="complementary">
 
     <div class="compact-header" id="navbar">
         <a class="avatar" href="{{ site.baseurl | prepend: site.url }}"><img alt="Avatar" src="{% if site.avatar %}{{site.avatar}}{% else %}{{ site.email | to_gravatar:140 }}{% endif %}" /></a>
@@ -48,5 +48,6 @@
     <br>
     Eigene Texte <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
   </p>
+
 
 </aside>

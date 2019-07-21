@@ -17,6 +17,7 @@ plugins:
   - jekyll-ftp
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-toc
 
 # Social Accounts
 social_networks:
@@ -55,6 +56,16 @@ show_rss: 1
 show_comments: 1
 show_menu: 1
 fixed_sidebar: 0
+
+# TOC Settings
+toc:
+  min_level: 1
+  max_level: 6
+  no_toc_section_class: no_toc_section
+  list_class: section-nav
+  sublist_class: ''
+  item_class: toc-entry
+  item_prefix: toc-
 
 # Defaults
 defaults:
