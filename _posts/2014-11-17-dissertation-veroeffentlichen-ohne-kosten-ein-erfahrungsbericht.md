@@ -112,7 +112,7 @@ Verlagskalkulation 2 (Namen und Marke geschwärzt). <a href="/assets/img/Verlags
 
 <figure>
 		<a href="/assets/img/Angebot-Neuschaefer-Korrektorat_geschw.pdf">
-    <img src="/assets/img/angebot-Neuschaefer-Korrektorat_geschw.pdf" /></a>
+    <img src="/assets/img/angebot-Neuschaefer-Korrektorat_geschw.png" /></a>
     <figcaption>
 	Ein professionelles Korrektorat lohnt sich, passende Angebote findet man bei zahlreichen Buchprofi-Freelancern.
 		</figcaption>
