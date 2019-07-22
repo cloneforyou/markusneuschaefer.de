@@ -25,7 +25,7 @@ redirect_from:
 *TL;DR: Übungsformate wie Multiple-Choice-Tests oder Lückentexte gelten didaktisch als nicht mehr zeitgemäß. Dennoch ist kooperatives und kollaboratives Lernen mit diesen Formaten möglich, wenn Lernende diese selber gestalten*
 
 [Oliver Tacke](https://www.olivertacke.de) berichtet in seinem aktuellen [Blogpost](https://www.olivertacke.de/2019/07/15/symptomatische-schnellere-pferde/) von einer Diskussion zum Einsatz von [H5P](https://h5p.org/), einer freien Software mit der man interaktive Lerninhalte wie Multiple-Choice-Tests, Lückentexte, Zeitstrahlen, VR-Präsentationen oder Memory-Spiele erstellen kann. Auch wenn sich diese Formate dank H5P nun wunderbar einfach erstellen und sogar remixen lassen, gelten sie didaktisch als wenig interessant und **nicht mehr zeitgemäß** – zumindest, wenn man sie nur der/die Lehrende nutzt.
-<!--more-->
+<!-- more -->
 
 > Aus technischer Sicht ist so etwas wie H5P Essay eher langweilig. Da wird ein Text geparsed. Wow. Ja, es sind einige Kniffe drin. Es gibt etwas wie „Unschärfe“, damit Tippfehler oder unterschiedliche Wortendungen nicht dazu führen, dass ein Begriff nicht erkannt wird. In Summe war die Erstellung dennoch eher Fleißarbeit. Für die TeilnehmerInnen waren die Möglichkeiten allerdings völlig neu und vielleicht ein wenig wie Magie – und daher sehr interessant.
 >

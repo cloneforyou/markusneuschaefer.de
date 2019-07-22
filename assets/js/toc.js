@@ -1,98 +1,223 @@
-// https://github.com/ghiculescu/jekyll-table-of-contents
-(function($){
-  $.fn.toc = function(options) {
-    var defaults = {
-      noBackToTopLinks: false,
-      title: '<i>Jump to...</i>',
-      minimumHeaders: 3,
-      headers: 'h1, h2, h3, h4, h5, h6',
-      listType: 'ol', // values: [ol|ul]
-      showEffect: 'show', // values: [show|slideDown|fadeIn|none]
-      showSpeed: 'slow', // set to 0 to deactivate effect
-      classes: { list: '',
-                 item: ''
-               }
-    },
-    settings = $.extend(defaults, options);
+/*
+ * toc-script.js
+ *
+ * script from Go Make Things email.
+ *
+ */
 
-    function fixedEncodeURIComponent (str) {
-      return encodeURIComponent(str).replace(/[!'()*]/g, function(c) {
-        return '%' + c.charCodeAt(0).toString(16);
-      });
-    }
+// Revealing Module Pattern
+var myPlugin = (function() {
 
-    function createLink (header) {
-      var innerText = (header.textContent === undefined) ? header.innerText : header.textContent;
-      return "<a href='#" + fixedEncodeURIComponent(header.id) + "'>" + innerText + "</a>";
-    }
+  'use strict';
 
-    var headers = $(settings.headers).filter(function() {
-      // get all headers with an ID
-      var previousSiblingName = $(this).prev().attr( "name" );
-      if (!this.id && previousSiblingName) {
-        this.id = $(this).attr( "id", previousSiblingName.replace(/\./g, "-") );
+  // Public APIs
+  var publicAPIs = {};
+  var settings;
+
+
+  // Defaults
+  var defaults = {
+    // Selectors
+    selectorHeaders: 'h2, h3, h4, h5, h6',
+    selectorTocs: '[data-toc]',
+
+    primaryHeaderLevels: [1,2,3],
+
+    // Classes
+    initClass: 'js-toc',
+  };
+
+
+
+  /**
+   * Private functions - only accessible within plugin's script.
+   */
+
+  /**
+   * [runScript description]
+   * @return {[type]} [description]
+   */
+  var runScript = function() {
+
+    // Get all of the headings
+    var headings = document.querySelectorAll(settings.selectorHeaders);
+    if (headings.length < 1)
+      return;
+
+    // Add placeholder for for current heading level
+    var level = 0;
+    var newLevel;
+
+
+    // Create the links
+    var links = '';
+    for (var i = 0; i < headings.length; i++) {
+
+      // Get heading level
+      newLevel = parseInt(headings[i].tagName.slice(1), 10);
+      console.log(`newLevel: ${newLevel}.`);
+
+      // If the heading has no ID, give it one
+      if (!headings[i].id) {
+
+        // Convert heading text to valid ID
+        // Regex pattern: http://stackoverflow.com/a/9635698/1293256
+        headings[i].id = headings[i].innerHTML.replace( /^[^a-z]+|[^\w:.-]+/gi, '_' ).toLowerCase();
       }
-      return this.id;
-    }), output = $(this);
-    if (!headers.length || headers.length < settings.minimumHeaders || !output.length) {
-      $(this).hide();
+
+      // Creat list item with link
+      // if ( newLevel > level ) {
+      if ( newLevel > level && settings.primaryHeaderLevels.indexOf(newLevel) !== -1 ) {
+        links += '<ul><li>';
+        console.log(`A: Lvl: ${newLevel}, val: ${headings[i].textContent}.`);
+      } else if ( newLevel < level ) {
+        links += '</li></ul></li><li>';
+        console.log(`B: Lvl: ${newLevel}, val: ${headings[i].textContent}.`);
+      } else {
+        links += '</li><li>';
+        console.log(`C: Lvl: ${newLevel}, val: ${headings[i].textContent}.`);
+      }
+
+      links += '<a href="#' + headings[i].id + '">' + toTitleCase(headings[i].innerHTML) + '</a>';
+
+      // Update the current level
+      level = newLevel;
+
+    }
+
+    links += '</li></ul>';
+
+    // Get TOC container
+    var toc = document.querySelector(settings.selectorTocs);
+    if (!toc)
+      return;
+
+    // Inject TOC into the DOM
+    toc.innerHTML = '<h2>Table of Contents</h2>' + links;
+
+  };
+
+
+  var addInitializationClass = function() {
+    document.documentElement.className += settings.initClass;
+  };
+
+
+  var removeInitializationClass = function() {
+    if (document.documentElement.classList.contains(settings.initClass)) {
+      document.documentElement.classList.remove(settings.initClass);
+    }
+  };
+
+
+  // Merge two or more objects together
+  var extend = function () {
+
+    // Variables
+    var extended = {};
+    var deep = false;
+    var i = 0;
+
+    // Check if a deep merge
+    if ( Object.prototype.toString.call( arguments[0] ) === '[object Boolean]' ) {
+        deep = arguments[0];
+        i++;
+    }
+
+    // Merge the object into the extended object
+    var merge = function (obj) {
+      for (var prop in obj) {
+        if (obj.hasOwnProperty(prop)) {
+          // If property is an object, merge properties
+          if (deep && Object.prototype.toString.call(obj[prop]) === '[object Object]') {
+              extended[prop] = extend(extended[prop], obj[prop]);
+          } else {
+              extended[prop] = obj[prop];
+          }
+        }
+      }
+    };
+
+    // Loop through each object and conduct a merge
+    for (; i < arguments.length; i++) {
+      var obj = arguments[i];
+      merge(obj);
+    }
+
+    return extended;
+  };
+
+  /*!
+   * Convert a string to title case
+   * source: https://gist.github.com/SonyaMoisset/aa79f51d78b39639430661c03d9b1058#file-title-case-a-sentence-for-loop-wc-js
+   * @param  {String} str The string to convert to title case
+   * @return {String}     The converted string
+   */
+  var toTitleCase = function (str) {
+    str = str.toLowerCase().split(' ');
+    for (var i = 0; i < str.length; i++) {
+      str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1);
+    }
+    return str.join(' ');
+  };
+
+
+
+  /**
+   * Public functions - accessible by other scripts outside plugin.
+   */
+
+  // Initialize our plugin
+  // - feature testing (omitted)
+  // - event listeners (omitted)
+  // - initialization class
+  publicAPIs.init = function(options) {
+
+    // Good practice to destroy before initializing in case
+    // it exists already
+    publicAPIs.destroy();
+
+
+    // Merge user options with the defaults
+    settings = extend(defaults, options || {});
+
+
+    // run script
+    runScript();
+
+    // initialization class
+    addInitializationClass();
+
+    // console.log(`defaults: ${defaults}.`);
+    // console.log(`settings: ${settings}.`);
+  };
+
+  publicAPIs.destroy = function() {
+    // only run is settings is set
+    if(!settings) {
       return;
     }
 
-    if (0 === settings.showSpeed) {
-      settings.showEffect = 'none';
-    }
+    // remove event listeners
+    // …
 
-    var render = {
-      show: function() { output.hide().html(html).show(settings.showSpeed); },
-      slideDown: function() { output.hide().html(html).slideDown(settings.showSpeed); },
-      fadeIn: function() { output.hide().html(html).fadeIn(settings.showSpeed); },
-      none: function() { output.html(html); }
-    };
+    // remove plugin code
+    var toc = document.querySelector(settings.selectorTocs);
+    if (!toc)
+      return;
 
-    var get_level = function(ele) { return parseInt(ele.nodeName.replace("H", ""), 10); };
-    var highest_level = headers.map(function(_, ele) { return get_level(ele); }).get().sort()[0];
-    var return_to_top = '<i class="icon-arrow-up back-to-top"> </i>';
+    // Inject TOC into the DOM
+    toc.innerHTML = '';
 
-    var level = get_level(headers[0]),
-      this_level,
-      html = settings.title + " <" +settings.listType + " class=\"" + settings.classes.list +"\">";
-    headers.on('click', function() {
-      if (!settings.noBackToTopLinks) {
-        window.location.hash = this.id;
-      }
-    })
-    .addClass('clickable-header')
-    .each(function(_, header) {
-      this_level = get_level(header);
-      if (!settings.noBackToTopLinks && this_level === highest_level) {
-        $(header).addClass('top-level-header').after(return_to_top);
-      }
-      if (this_level === level) // same level as before; same indenting
-        html += "<li class=\"" + settings.classes.item + "\">" + createLink(header);
-      else if (this_level <= level){ // higher level than before; end parent ol
-        for(var i = this_level; i < level; i++) {
-          html += "</li></"+settings.listType+">"
-        }
-        html += "<li class=\"" + settings.classes.item + "\">" + createLink(header);
-      }
-      else if (this_level > level) { // lower level than before; expand the previous to contain a ol
-        for(i = this_level; i > level; i--) {
-          html += "<" + settings.listType + " class=\"" + settings.classes.list +"\">" +
-                  "<li class=\"" + settings.classes.item + "\">"
-        }
-        html += createLink(header);
-      }
-      level = this_level; // update for the next one
-    });
-    html += "</"+settings.listType+">";
-    if (!settings.noBackToTopLinks) {
-      $(document).on('click', '.back-to-top', function() {
-        $(window).scrollTop(0);
-        window.location.hash = '';
-      });
-    }
+    // remove initialization class
+    removeInitializationClass();
 
-    render[settings.showEffect]();
-  };
-})(jQuery);
+    // reset settings
+    settings = null;
+
+  }
+
+  // Return
+  return publicAPIs;
+
+})();// end myPlugin

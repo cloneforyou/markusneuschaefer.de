@@ -28,7 +28,7 @@ permalink: "/werbung-ausstellung-urheberrecht/"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hFWbAN7RsN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p>Die urheberrechtliche Problematik lässt sich also umgehen, indem man auf Youtube verweist, statt eigene Bilder einzubinden - von der aktuellen Regelung profitiert einzig Google. <!--more-->
+<p>Die urheberrechtliche Problematik lässt sich also umgehen, indem man auf Youtube verweist, statt eigene Bilder einzubinden - von der aktuellen Regelung profitiert einzig Google. <!-- more -->
 
 Auf diesen Punkt weist auch Leonhard Dobusch von <a href="http://rechtaufremix.de">rechtaufremix.de</a> in seinem sehenswerten <a href="https://www.youtube.com/watch?v=SvVm9ceN1jw">re:publica-Beitrag zur Urheberrechtsdebatte </a>hin. Mit Creative-Commons-Lizenzen allein wird das Problem nicht gelöst, das Urheberrecht lässt sich fairer gestalten:</p>
 

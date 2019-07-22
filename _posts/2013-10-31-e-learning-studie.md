@@ -34,7 +34,7 @@ permalink: "/e-learning-studie/"
 
 <p>
 				E-Learning ist kein Ersatz für die herkömmliche Lehre, sondern eröffnet neue Möglichkeiten. Wenn es gut geht, werden Dozenten und Lehrer von der reinen Wissensvermittlung entlastet. Die Wirklichkeit sieht anders aus, wie sich in einer aktuellen <a href="http://www.uni-rostock.de/detailseite/news-artikel/studie-entzaubert-e-learning/">Studie </a>zeigt:</p>
-<p><!--more--></p>
+<p><!-- more --></p>
 <blockquote><p>E-Learning-Studierende erreichen nicht die gleichen fachlichen Leistungen wie die konventionell unterrichteten Studierenden. Gleichzeitig sind sie wesentlich unzufriedener als ihre Kommilitonen.</p></blockquote>
 <p><a href="http://www.uni-rostock.de/detailseite/news-artikel/studie-entzaubert-e-learning/">http://www.uni-rostock.de/detailseite/news-artikel/studie-entzaubert-e-learning/</a></p>
 <p>Dieser Befund erinnert an die Mahnung von Neil Butcher, nach dem die Möglichkeiten der Digitialisierung <a href="http://werkstatt.bpb.de/2013/09/veraltete-bildungssysteme/">in veralteten Bildungssystemen</a> nicht genutzt werden können. Solange Bildung noch immer als "Wissensvermittlung" zu passiven Schülern trainiert wird, wirkt e-Learning als Überforderung.Es genügt nicht, Schulbücher einfach nur durch e-Books und Online-Angebote zu ersetzen. Durch den Medienwechsel wird das Lernen nicht automatisch spannender.</p>

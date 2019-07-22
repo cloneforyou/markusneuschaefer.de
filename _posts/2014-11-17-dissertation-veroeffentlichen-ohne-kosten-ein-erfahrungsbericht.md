@@ -5,7 +5,7 @@ date: 2014-11-17 15:12:27.000000000 +01:00
 type: post
 published: true
 status: publish
-toc: true
+insert-toc: true
 categories:
 - Essays
 tags:
@@ -25,15 +25,10 @@ permalink: "/dissertation-veroeffentlichen-ohne-kosten-ein-erfahrungsbericht/"
 
 _Wissenschaftsverlage fordern zwischen 2.535 € und 7.500 €, um eine Dissertation zu veröffentlichen. Mit Self-Publishing und Open Access ist es deutlich günstiger; es gibt allerdings weniger Glamour. Bei der Veröffentlichung lohnt es sich, nicht beim Korrektorat zu sparen und die Arbeit gut zu vernetzen (<a href="{{ page.url | prepend: site.baseurl | prepend: site.url }}#checkliste">Checkliste </a>unten)._
 
-<!--more-->
+<!-- more -->
 
-<style>
 
-</style>
-
-  {% toc %}
-
-<p class="p1">Ende 2012 wollte ich meine Dissertation veröffentlichen, für eine teure Publikation in einem Wissenschaftsverlag fehlten mir damals aber die Mittel. Nach einem Forschungsaufenthalt in Harvard, Russischkursen in Moskau und einer Trennung  war ich frisch in Berlin angekommen. Ich suchte gerade eine Wohnung, beruflich zeichneten sich bereits neue Wege jenseits der Wissenschaft ab: Ich arbeitete als freier Online-Redakteur und lernte die Berliner Startup-Welt kennen. Ich hatte zu einem aktuellen Thema der Gegenwartsliteratur promoviert, zu den Ergebnissen der Arbeit gab es in der Germanistik bereits <a href="http://www.iaslonline.lmu.de/index.php?vorgang_id=3434">positive Reaktionen</a>. <strong>Umso wichtiger war es mir, dass die Ergebnisse schnell veröffentlicht wurden und von anderen Forschern genutzt werden konnten</strong>. Bisher hatte ich mich vorwiegend mit Inhalten beschäftigt, nun ging es um andere Fragen: Welcher Verlag würde meine Dissertation veröffentlichen und wie ließe sich das finanzieren?<!--more--></p>
+<p class="p1">Ende 2012 wollte ich meine Dissertation veröffentlichen, für eine teure Publikation in einem Wissenschaftsverlag fehlten mir damals aber die Mittel. Nach einem Forschungsaufenthalt in Harvard, Russischkursen in Moskau und einer Trennung  war ich frisch in Berlin angekommen. Ich suchte gerade eine Wohnung, beruflich zeichneten sich bereits neue Wege jenseits der Wissenschaft ab: Ich arbeitete als freier Online-Redakteur und lernte die Berliner Startup-Welt kennen. Ich hatte zu einem aktuellen Thema der Gegenwartsliteratur promoviert, zu den Ergebnissen der Arbeit gab es in der Germanistik bereits <a href="http://www.iaslonline.lmu.de/index.php?vorgang_id=3434">positive Reaktionen</a>. <strong>Umso wichtiger war es mir, dass die Ergebnisse schnell veröffentlicht wurden und von anderen Forschern genutzt werden konnten</strong>. Bisher hatte ich mich vorwiegend mit Inhalten beschäftigt, nun ging es um andere Fragen: Welcher Verlag würde meine Dissertation veröffentlichen und wie ließe sich das finanzieren?<!-- more --></p>
 <h2> Digital, gedruckt oder beides?</h2>
 <p class="p1">Durch meine guten Erfahrungen mit digitalen Texten wollte ich meine Dissertation nicht nur als gedrucktes Buch veröffentlichen, sondern auch im Internet. Bei den meisten Verlagen war dies auch Mitte 2013 noch nicht selbstverständlich: Während meiner Tätigkeit an der Uni hatte ich bereits mehrere Aufsätze in einschlägigen Wissenschaftsverlagen <a title="Publikationen" href="https://markusneuschaefer.de/publikationen/">publiziert</a>. Diese Texte waren im Netz <strong>praktisch unsichtbar</strong>. Selbst die Auffindbarkeit über die Google-Buchsuche wurde erst nach hartnäckigen Anfragen per Email und über die öffentliche Facebookseite des Verlages ermöglicht.</p>
 <p class="p1">Mit solchen Bedingungen konnte ich mich nicht anfreunden. Bei verschiedenen Auslandsaufenthalten hatte ich mir angewöhnt, mit digital verfügbaren Texten zu arbeiten. Mit Hilfe eines Einzugscanners hatte ich die komplette Sekundärliteratur zu Beginn der Schreibphase in handliche PDF-Dateien. Pro Aufsatz dauerte dies weniger als eine Minute. Durch die <strong>digitale Verfügbarkeit</strong> ergaben sich <strong>erweiterte Perspektiven auf das Material</strong>. So wurden mit der Software „<a href="http://www.devontechnologies.com/de/loesungen/forscher.html">DevonThinkPro</a>“ neue Verknüpfungen sichtbar, über die semantische Suche fand sich zu jedem Stichwort stets der passende Aufsatz. Die Digitalisierung sämtlicher Materialien ermöglichte ein ortsunabhängiges Arbeiten ohne störendes Übergepäck aus Papier.</p>
@@ -112,7 +107,7 @@ Verlagskalkulation 2 (Namen und Marke geschwärzt). <a href="/assets/img/Verlags
 
 <figure>
 		<a href="/assets/img/Angebot-Neuschaefer-Korrektorat_geschw.pdf">
-    <img src="/assets/img/angebot-Neuschaefer-Korrektorat_geschw.png" /></a>
+    <img src="/assets/img/Angebot-Neuschaefer-Korrektorat_geschw.png" /></a>
     <figcaption>
 	Ein professionelles Korrektorat lohnt sich, passende Angebote findet man bei zahlreichen Buchprofi-Freelancern.
 		</figcaption>

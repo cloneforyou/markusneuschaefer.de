@@ -25,7 +25,7 @@ permalink: "/wahlberichterstattung-signal-und-rauschen/"
 
 <p>
 				Die Wahlurnen zur Bundestagswahl 2013 sind noch eine Stunde geöffnet, die ersten Hochrechnungen werden um 18 Uhr erwartet. Wie alle Ereignisse mit kurzfristigen Wendungen eignen sich besonders Wahlen für neue Formate: Wer sich informieren möchte, findet neben zahlreichen<a href="http://event.faz.net/event/bundestagswahl/live/"> Life-Tickern</a> auch Angebote des Datenjournalismus, allen voran das Wahl-Portal von Google. Eigentlich ließe sich all dies getrost ignorieren. Warum ist es so interessant, die Entwicklungen zu verfolgen?<br />
-<!--more--></p>
+<!-- more --></p>
 <p>Nach der Abgabe der eigenen Stimme, lässt sich nichts mehr beeinflussen, und bis sich die Wahl auf den Alltag auswirkt, wird einige Zeit vergehen. So betrachtet, handelt es sich um irrelevante Informationen. Um es mit einem Bild aus der Akustik zu beschreiben; das <a href="http://de.wikipedia.org/wiki/Signal-Rausch-Verhältnis">Verhältnis von "Signal" und "Rauschen"</a> ist hier zugunsten von Störgeräuschen verschoben. Von der Perspektive der Informationsqualität her betrachtet, ist Wahlberichterstattung am Wahltag ähnlich gehaltvoll wie eine Liveübertragung des Eurovision Song Contest.  Was macht die Wahlberichterstattung so spannend?</p>
 <p><strong>Blick auf die Gleise</strong></p>
 <p><a href="https://markusneuschaefer.de/wp-content/uploads/2013_Bahnfahrt.jpg.jpg"><img src="{{ site.baseurl }}/assets/img/2013_Bahnfahrt.jpg.jpg" alt="train_driver" width="638" height="279" /></a></p>

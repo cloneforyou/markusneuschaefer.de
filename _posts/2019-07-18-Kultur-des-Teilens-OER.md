@@ -22,7 +22,7 @@ Apropos OER:
 Physics Propels Ukrainian Teacher To YouTube Fame | Radio Free Europe</a>
 </figcaption>
 
-<!--more-->
+<!-- more -->
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fRpM4rLIaGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

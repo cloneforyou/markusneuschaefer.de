@@ -21,7 +21,7 @@ permalink: "/refugeephrasebook/"
 				<em>As the collaboration on this project involves friends from many countries, this blog post is in English. Writing in a different language seems to foster brevity as well.</em></p>
 <p>My blog has become very quiet during the last months. A few things have changed. I found a new apartment, renovated the old one. Instead the planned exploration of Prenzlauer Berg, I got involved in a little side project, <a href="http://www.refugeephrasebook.de">refugeephrasebook.de</a> which quickly proceeded to fill the remaining free time.</p>
 
-<!--more-->
+<!-- more -->
 
 <p>At its heart, refugee phrasebook consists of a set of tables, currently organized in google docs. Volunteer translators fill in the gaps in their language, while designers and developers use the data to create booklets and apps. I heard about the project from a colleague on facebook, when I offered to help with the website the tables in the medical, juridical and general docs were already populated with many phrases. Thankfully the document owners decided it was best to publish the data with a Creative Commons license (CC0), so everyone is free use it for other refugee support projects as well.</p>
 <p>Creating the website did not make everyone equally happy. This seems to be quite common in refugee help projects; within flat hierarchies, visiblility is a factor to be balanced. Suddenly what started as a community effort was visible to the public. Thanks to German <em>Impressumspflicht</em>, website coordinators and document owners had to be mentioned by name<em>. </em>To emphasize the community ownership of the data, we added a section to the website with a continuously updated list of names of everyone involved.</p>
