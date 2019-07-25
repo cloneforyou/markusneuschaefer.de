@@ -94,6 +94,10 @@ paginate_path: "/page:num/"
 markdown: kramdown
 excerpt_separator: <!-- more -->
 
+kramdown:
+  auto_ids: true
+  auto_id_stripping: true
+
 # Assets Settings
 sass:
   sass_dir: assets/partials
