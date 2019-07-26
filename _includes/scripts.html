@@ -7,7 +7,7 @@
 <script src="{{ site.baseurl | prepend: site.url }}/assets/js/svg4everybody.min.js" defer></script>
 <script src="{{ site.baseurl | prepend: site.url }}/assets/js/scripts.js" defer></script>
 
-{% if site.analytics_code != null %}
+<!-- {% if site.analytics_code != null %} -->
 
 
     <script>
@@ -38,10 +38,62 @@
         }
     </script>
 
-    <!-- opt out analytics -->
+
     <script>
+      // check for cookies
+      // https://stackoverflow.com/questions/5968196/check-cookie-if-cookie-exists
+
+      var optOutDisplay = false;
+
+      function getCookie(name) {
+          var dc = document.cookie;
+          var prefix = name + "=";
+          var begin = dc.indexOf("; " + prefix);
+          if (begin == -1) {
+              begin = dc.indexOf(prefix);
+              if (begin != 0) return null;
+          }
+          else
+          {
+              begin += 2;
+              var end = document.cookie.indexOf(";", begin);
+              if (end == -1) {
+              end = dc.length;
+              }
+          }
+          // because unescape has been deprecated, replaced with decodeURI
+          //return unescape(dc.substring(begin + prefix.length, end));
+          return decodeURI(dc.substring(begin + prefix.length, end));
+      }
+
+      // check if opt-out-cookie is set, then add confirmation text
+      function checkForGaCookie() {
+          var myCookie = getCookie("ga-disable-UA-44236559-1");
+
+          if (myCookie == null) {
+              // do cookie doesn't exist stuff;
+              return;
+          }
+          else {
+
+            if (optOutDisplay === false){
+              // do cookie exists stuff
+              var optoutText = "Google Analytics ist deaktiviert";
+              document.getElementById('ga-optout-sidebar').innerHTML = optoutText;
+              document.getElementById('ga-optout-impressum').innerHTML = optoutText;
+              document.getElementById('ga-optout-datenschutz').innerHTML = optoutText;
+              optOutDisplay = true;
+              console.log("cookies deactivated");
+
+            } else return;
+          }
+      }
+
+
+
+  // opt out from google analytics
     // Set to the same value as the web property used on the site
-    var gaProperty = '{{site.analytics_code}}';
+    var gaProperty = 'UA-44236559-1';
 
     // Disable tracking if the opt-out cookie exists.
     var disableStr = 'ga-disable-' + gaProperty;
@@ -51,13 +103,21 @@
 
     // Opt-out function
     function gaOptout() {
+
       document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
       window[disableStr] = true;
-      console.log("ga-optout");
+      checkForGaCookie();
+
+
     }
+
+checkForGaCookie();
+
     </script>
 
-{% endif %}
+
+
+<!-- {% endif %} -->
 
 <!-- defer loading all youtube video iframes
 change all "src="https://www.youtube.com" to "src='' data-src='https://www.youtube.com'
