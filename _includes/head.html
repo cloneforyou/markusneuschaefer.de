@@ -5,9 +5,7 @@
 
 
 <title>{% if page.title %}{{ page.title | escape }} |{% endif %} {{ site.name | escape }}</title>
-    <meta property="og:title" content="{% if page.title %}{{ page.title | escape }} |{% endif %} {{ site.name | escape }} {% if site.job_title %}&mdash; {{site.job_title | escape }} {% endif %}" />
-    <!-- <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }} |{% endif %} {{ site.name | escape }} {% if site.job_title %}&mdash; {{site.job_title | escape }} {% endif %}" /> -->
-    <meta property='og:image' content='{% if page.twitter-image %}{{ site.url }}{{ page.twitter-image }}{% endif %}'>
+
 
     <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     <meta name="description" property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
@@ -16,50 +14,38 @@
     {% if {{site.favicon != blank}} %}
     <link href="{{ site.favicon }}" rel="shortcut icon" type="image/x-icon" />
     {% endif %}
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl | prepend: site.url}}">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.url | prepend: site.baseurl}}">
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
+
     <!-- Twitter cards -->
-<meta name="twitter:site"    content="@{{ site.twitter_handler }}">
-<meta name="twitter:creator" content="@{{ site.twitter_handler }}">
-<meta name="twitter:title"   content="{{ page.title }}">
+    <meta name="twitter:site"    content="@mneuschaefer">
+    <meta name="twitter:creator" content="@mneuschaefer">
+    <meta name="twitter:title"   content="{{ page.title }}">
 
-{% if page.description %}
-<meta name="twitter:description" content="{{ page.description }}">
-{% else %}
-<meta name="twitter:description" content="{{ site.description }}">
-{% endif %}
+    {% if page.description %}
+    <meta name="twitter:description" content="{{ page.description }}">
+    {% else %}
+    <meta name="twitter:description" content="{{ site.description }}">
+    {% endif %}
 
-{% if page.image %}
-<meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}{{ page.twitter-image }}">
-{% else %}
-<meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="{{ site.url }}{{ site.title_image }}">
+    {% if page.twitter-image %}
+    <meta name="twitter:card"  content="summary">
+    <meta name="twitter:image" content="{{ site.url }}{{ page.twitter-image }}">
+    {% else if page.twitter-large-image %}
+    <meta name="twitter:card"  content="summary_large_image">
+    <meta name="twitter:image" content="{{ site.url }}{{ page.twitter-large-image }}">
+    {% else %}
+    <meta name="twitter:card"  content="summary">
+    <meta name="twitter:image" content="{{ site.title_image }}">
+    {% endif %}
 
-{% endif %}
 <!-- end of Twitter cards -->
 
-<!-- Open Graph -->
-<meta property="og:locale" content="de_DE">
-<meta property="og:type" content="article">
-<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-<meta property="og:url" content="{{ site.url }}{{ page.url }}">
-
-<meta property="og:image" content="{% if page.twitter-image %}{{ site.url }}{{ page.twitter-image }}{% else %}{{ site.url }}{{ site.title-image }}{% endif %}">
-
-<meta property="og:site_name" content="Markus Neuschäfers Blog">
-<meta property="article:publisher" content="https://www.facebook.com/m.neuschaefer" />
-<meta property="article:author" content="https://www.facebook.com/m.neuschaefer" />
-<meta property="article:published_time" content="{{ page.date }}" />
-<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-
-<!-- end of Open Graph -->
-
+<!-- Jekyll SEO Tags -->
 <!-- seo tag description at https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md -->
-
 {% seo %}
 </head>

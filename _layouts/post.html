@@ -91,4 +91,15 @@ layout: default
   <div id="disqus_thread"></div>
 
 </aside>
+
+{% endif %}
+
+<!-- check if excerpt-separator exists,
+scroll to id="markdown-toc" if available -->
+{% if page.content contains site.excerpt_separator %}
+
+<script>
+  document.getElementById('markdown-toc').scrollIntoView({block: 'start', behavior: 'smooth'});
+</script>
+
 {% endif %}

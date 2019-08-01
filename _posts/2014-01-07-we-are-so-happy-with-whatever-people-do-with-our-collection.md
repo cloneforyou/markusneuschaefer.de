@@ -23,7 +23,10 @@ permalink: "/we-are-so-happy-with-whatever-people-do-with-our-collection/"
 </figure>
 
 
-<p>While most museums and academics still prefer the noncommercial flavour of the Creative Commons Licence (if they use it at all), Rijksmuseum data manager Lizzy Jongma presented a different mindset: Consciously offering digital reproductions in high quality to encourage re-use. <!-- more -->Some quotes from her talk at the conference „Zugang gestalten“:</p>
+<p>While most museums and academics still prefer the noncommercial flavour of the Creative Commons Licence (if they use it at all), Rijksmuseum data manager Lizzy Jongma presented a different mindset: Consciously offering digital reproductions in high quality to encourage re-use. <!-- more -->
+
+
+Some quotes from her talk at the conference „Zugang gestalten“:</p>
 <blockquote><p>"one of our tasks of a museum is to inspire artists to create new art. [...]</p>
 <p>If they want to have a Vermeer on their toilet paper, I’d rather have a very high-quality image of Vermeer on toilet paper than a very bad reproduction” (<a href="http://www.nytimes.com/2013/05/29/arts/design/museums-mull-public-use-of-online-art-images.html?_r=0">Taco Dibbits</a>) [...]</p>
 <p>we are so happy with whatever people do with our collection"</p></blockquote>

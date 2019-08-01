@@ -41,11 +41,11 @@ Kohärenz aus Ambivalenz in Wolfgang Koeppens »Tauben im Gras«. In: Ambivalenz
 
 ## 🎤 Interviews, Podiumsdiskussionen und Vorträge (Auswahl)
 
-Podiumsdiskussion mit Vasili Sofiadellis und Engin Karahan bei der Tagung "[European Societies in digital Age]((https://colloquium-digital-societies.eu/live-stream-convention-european-societies-in-digital-age/))" 2018 ([Video](https://colloquium-digital-societies.eu/live-stream-convention-european-societies-in-digital-age/)).
-
 Podiumsdiskussion zum [1. Forum Open Education (2018)](https://education.forum-open.de/2018/) mit Marja-Liisa Völlers (MdB), Tankred Schipanski (MdB), Gabriele Lonz und Marcus Richter ([Video]((https://media.ccc.de/v/forumoe-4-podiumsdiskussion)).
 
-[Edusprints: Community Events to Create OER]((https://ccglobalsummit2018.sched.com/m.neuschaefer). Vortrag über das edusprint-Format zum Creative Commons Global Summit 2018 ([Folien](https://www.slideshare.net/mneuschaefer/edusprints-community-events-to-create-oer)).
+Podiumsdiskussion mit Vasili Sofiadellis und Engin Karahan bei der Tagung "[European Societies in digital Age]((https://colloquium-digital-societies.eu/live-stream-convention-european-societies-in-digital-age/))" 2018 ([Video](https://colloquium-digital-societies.eu/live-stream-convention-european-societies-in-digital-age/)).
+
+[Edusprints: Community Events to Create OER](https://ccglobalsummit2018.sched.com/m.neuschaefer). Vortrag über das edusprint-Format zum Creative Commons Global Summit 2018 ([Folien](https://www.slideshare.net/mneuschaefer/edusprints-community-events-to-create-oer)).
 
 Die Zukunft des Lernens mit offenen Bildungsmaterialien und open educational resources
 (OER). Workshop mit Christine Kolbe bei der Konferenz "Baustelle Bildung – Befähigung für die digitale Zukunft " der Heinrich-Böll-Stiftung Berlin am 13.9.2018 ([Folien](https://docs.google.com/presentation/d/12R5EujN0BWcGcaZS7q-LiyLYVTt0Yog1xmwpYTEb8nQ/edit)).

@@ -23,7 +23,9 @@ permalink: "/open-access-tage-2013/"
 </figure>
 
 <p>Bei den <a style="font-size: 1rem; line-height: 1.714285714;" href="http://open-access.net/?id=358">Open Access-Tagen 2013</a><span style="font-size: 1rem; line-height: 1.714285714; color: #444444;"><span style="font-size: 1rem; line-height: 1.714285714; color: #444444;"> in Hamburg habe ich diesmal als Vertreter einer Self-Publishing-Plattform teilgenommen. Bei einer Tagung über Open-Access sind Verlage in einer schwierigen Position, steht in diesem Rahmen doch ihr gewohntes Geschäftsmodell zur Debatte.</span></span></p>
-<p><!-- more --></p>
+<p><!-- more -->
+</p>
+
 <h2>Unzufriedenheit mit den Verlagen</h2>
 <p>Zu Beginn der Session „Verlage und Open Access“ wurden besonders die großen Wissenschaftsverlage scharf kritisiert. In Verhandlungen werde von den Forschern weiterhin verlangt, die <a href="http://open-access.net/de/allgemeines/rechtsfragen/urheberrecht/">Verwertungsrechte</a> für ihre Publikationen komplett aus der Hand zu geben. Dies widerspreche nicht nur den Anforderungen moderner wissenschaftlicher Praxis, auch die Kosten erschienen nicht mehr tragbar: Für die reine Verbreitung von Forschungsergebnissen werden Verlage schlicht nicht mehr benötigt.</p>
 <p>Mit der „<a href="http://edition-open-access.de/">Edition Open Access</a>“ der Max Planck Research Library wurde eine andere Lösung vorgestellt: Sämtliche Bände lassen sich vollständig kostenlos als PDF-Datei herunterladen und werden in der Online-Ausgabe durch zusätzliche Dienstleistungen und Informationen ergänzt.</p>

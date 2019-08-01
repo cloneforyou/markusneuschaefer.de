@@ -79,9 +79,9 @@
             if (optOutDisplay === false){
               // do cookie exists stuff
               var optoutText = "Google Analytics ist deaktiviert";
-              document.getElementById('ga-optout-sidebar').innerHTML = optoutText;
-              document.getElementById('ga-optout-impressum').innerHTML = optoutText;
-              document.getElementById('ga-optout-datenschutz').innerHTML = optoutText;
+              if (document.getElementById('ga-optout-sidebar')) {document.getElementById('ga-optout-sidebar').innerHTML = optoutText;}
+              if (document.getElementById('ga-optout-impressum')) {document.getElementById('ga-optout-impressum').innerHTML = optoutText;}
+              if (document.getElementById('ga-optout-datenschutz')) {document.getElementById('ga-optout-datenschutz').innerHTML = optoutText;}
               optOutDisplay = true;
               console.log("cookies deactivated");
 
