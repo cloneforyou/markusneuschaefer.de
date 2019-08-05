@@ -48,7 +48,11 @@ Was mit automatisch generierten Grafiken alles möglich ist, zeigt sich bei der 
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 <br><br>
-Leider lassen sich diese Grafiken nur begrenzt einsetzen; der Browser wird sonst zu langsam. Mit etwas Zufall wirken Wordpress- und andere Seiten aber weniger langweilig. Die Effekte lassen sich relativ einfach mit einfachen `<div>`-Elementen und etwas Javascript einfügen, ein Tutorial dazu findet sich z.B. [hier](https://www.godaddy.com/garage/3-ways-to-insert-javascript-into-wordpress-pages-or-posts/).
+Leider lassen sich diese Grafiken nur begrenzt einsetzen; der Browser wird sonst zu langsam. Mit etwas Zufall wirken Wordpress- und andere Seiten aber weniger langweilig.
+
+Eine hübsche Kombination ist auch die Polygonisierung von Stockphotos (z.B. bei <a href="https://www.unsplash.com">unsplash.com</a>) mit dem kostenlosen Tool <a href="https://umeecorn.com/Polyvia/image.html">Polyvia</a>, ich habe diese Technik bereits für einige <a href="/podcast-empfehlungen">Titelbilder</a> verwendet.
+
+Die Effekte lassen sich relativ einfach mit einfachen `<div>`-Elementen und etwas Javascript einfügen, ein Tutorial dazu findet sich z.B. [hier](https://www.godaddy.com/garage/3-ways-to-insert-javascript-into-wordpress-pages-or-posts/).
 
 Weitere Beispiele für autogenerierte Grafiken:
 
@@ -80,3 +84,4 @@ Autogenerierte Bilder sind auch sehr praktisch für lizenzfreie Titelbilder, da 
 </div>
 
 <p style="text-align: right;">Bild: <a href="https://codepen.io/mhsenkow/pen/OyQOVx">https://codepen.io/mhsenkow/pen/OyQOVx</a> (Screenshot, MIT License)
+<br><br>

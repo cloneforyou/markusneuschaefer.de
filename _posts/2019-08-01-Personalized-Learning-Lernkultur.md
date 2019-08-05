@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "\"The Messy Reality\": Personalisiertes Lernen und Lernkultur"
+title: "The Messy Reality: Personalisiertes Lernen und Lernkultur"
 date: 2019-08-01 11:40:06.000000000 +01:00
 type: post
 published: true
 status: publish
 description: 'Personalisiertes Lernen setzt nicht nur die entsprechende Technik, sondern auch eine bestimmte Lernumgebung voraus, um überhaupt wirksam zu sein. '
-permalink: "/podcast-empfehlungen"
 image: "/assets/img/2019-08-personalized-learning.png"
 twitter-large-image: "/assets/img/2019-08-personalized-learning.png"
 # large image = 2:1 ratio (w:h)
@@ -16,6 +15,7 @@ categories:
 tags:
 - 'Personalized Learning'
 - 'e-Learning'
+permalink: "/personalized-learning-lernkultur"
 ---
 <figure class="aligncenter">
 	<img width="200" src="/assets/img/2019-08-personalized-learning.png" alt ="Bild: Person vor dem Computer"/>
@@ -66,4 +66,4 @@ Ein Curriculum ohne Wahlmöglichkeiten schränkt personalisiertes Lernen sehr ei
 
 <figcaption><a href="https://www.newyorker.com/news/dispatch/the-messy-reality-of-personalized-learning">The Messy Reality of Personalized Learning (2019)</a> [abger. 1.8.2019]</figcaption>
 
-Je diverser die Zielgruppe, desto mehr Vorteile bieten personalisiertes Lernangebote. Dies gelingt aber nur wenn die Methoden und Strukturen mit dem Ziel verbunden sind, unterschiedliche Voraussetzungen von Lernenden für erfolgreiche Lernreisen zu integrieren. Häufig die Gestaltung der Lernangebote aber vorrangig dem Ziel, möglichst viel Personal einzusparen ("[offered as a balm for budget austerity](https://www.newyorker.com/news/dispatch/the-messy-reality-of-personalized-learning)"), profitieren höchstens diejenigen Lernenden, bei denen die Selbststeuerungskompetenz bereits vorhanden ist.
+Je diverser die Zielgruppe, desto mehr Vorteile bieten personalisiertes Lernangebote. Dies gelingt aber nur wenn die Methoden und Strukturen mit dem Ziel verbunden sind, unterschiedliche Voraussetzungen von Lernenden für erfolgreiche Lernreisen zu integrieren. Häufig die Gestaltung der Lernangebote aber vorrangig dem Ziel, möglichst viel Personal einzusparen ("[offered as a balm for budget austerity](https://www.newyorker.com/news/dispatch/the-messy-reality-of-personalized-learning)"), profitieren höchstens diejenigen Lernenden, bei denen die Selbststeuerungs&shy;kompetenz bereits vorhanden ist.
