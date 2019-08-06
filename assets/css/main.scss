@@ -1,6 +1,7 @@
 ---
 ---
 
+
 @import "vars", "reset", "mixins";
 
 .wrapper { max-width: $default-width; margin: 0 auto; padding: 60px 20px; }
@@ -243,12 +244,16 @@ body {
   }
 
   .wrapper {
-      padding: 120px 20px 50px;
+      padding: 120px 8px 50px;
       transition: padding 0.3s ease-in-out;
       -moz-transition: padding 0.3s ease-in-out;
       -webkit-transition: padding 0.3s ease-in-out;
       -o-transition: padding 0.3s ease-in-out
   }
+
+	.the-content .post.page {
+    padding: 40px 15px;
+	}
 
   .wrapper.active {
       padding: 30px 20px
@@ -579,3 +584,23 @@ h1, h2, h3, h4, h5, h6 {		 -moz-hyphens: auto;
 		 -ms-hyphens: auto;
 		 hyphens: auto !important;
 	 }
+
+// mermaid css
+.mermaid .actor, polygon.labelBox {
+	     stroke: #ffffff;
+	     fill: #1abc9c;
+}
+
+
+// table css
+table{
+	border-collapse: collapse;
+	table-layout: fixed;
+	width: 100%;
+}
+
+th,td{
+	border: 1px solid #e3e3e3;
+	padding: 5px 10px;
+	word-break: break-word;
+}

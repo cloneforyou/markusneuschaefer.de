@@ -1,12 +1,17 @@
 ---
 layout: page
 title:  "Portfolio"
+twitter-large-image: "/assets/img/symbolbild_sichtbarkeit_twitter.png"
 permalink: "/portfolio/"
 ---
-Hier eine Auswahl abgeschlossener Projekte, veröffentlichter Veröffentlichungen, vorgetragener Vorträge etc. aus den letzten Jahren.
+Eine Auswahl an Projekten, Veröffentlichungen und Vorträgen aus den letzten Jahren:
+
+
+
+* TOC
+{:toc}
 
 ##  🚀 Projekte
-
 [Edulabs](https://www.edulabs.de) (Projektleitung, 2017-2019)
 entwickelte digital gestützte Methoden für zeitgemäße Bildung und organisierte Workshops und Netzwerktreffen, bei denen freie Bildungsmaterialien (OER) und neue Lernformate zusammen mit Expertinnen erstellt, evaluiert und verbessert wurden.
 
@@ -16,6 +21,12 @@ entwickelte digital gestützte Methoden für zeitgemäße Bildung und organis
 entwickelte Infrastrukturen für mit digitalen Ressourcen und Methoden arbeitende Geistes-und Kulturwissenschaftler*innen; die Open Knowledge Foundation unterstützte das Verbundprojekt in den Bereichen Community-Building, e-Learning, Kommunikation und freie Lizenzen.
 
 [Willi Baumeister – ein Kunstbuch in Open Access](https://www.epubli.de/blog/open-access-willi-baumeister) (Projektmanagement, 2014) entstand bei der Self-Publishing-Plattform epubli (Holtzbrinck Publishing Group) als Projekt mit dem Ziel, durch den offenen Zugang mehr Sichtbarkeit und neue Zielgruppen zu erreichen. Das Buch ist im Print-on-Demand und als [PDF mit CC-Lizenz](https://www.willi-baumeister.org/node/85) verfügbar.
+
+Weitere Projekte mit meiner Beteiligung (selbständig):
+
+[Deutsches Archäologisches Institut](https://www.dainst.org): Konzeption und Entwicklung einer [Lernplattform](https://www.forschungslizenzen.de) zu Creative-Commons-Lizenzen, Aufbau einer [Netzwerkplattform](http://www.archernet.org/en/) zum Kulturerhalt
+
+[Wikimedia Deutschland e.V.](https://www.wikimedia.de/): Implementierung kollaborativer Wissensressourcen für das Fellowship-Programm Open Science
 
 ## 📚 Publikationen
 
@@ -39,7 +50,7 @@ Werner Heiduczek. In: Killy Literaturlexikon. Autoren und Werke des deutschsprac
 
 Kohärenz aus Ambivalenz in Wolfgang Koeppens »Tauben im Gras«. In: Ambivalenz und Kohärenz. Untersuchungen zur narrativen Sinnbildung. Hrsg. von Julia Abel, Andreas Blödorn und Michael Scheffel. Trier: WVT 2009 (Preprint-[PDF](/wp-content/uploads/08-11-Kohaerenz_preprint.pdf)).
 
-## 🎤 Interviews, Podiumsdiskussionen und Vorträge (Auswahl)
+## 🎤 Interviews, Podiumsdiskussionen und Vorträge
 
 Podiumsdiskussion zum [1. Forum Open Education (2018)](https://education.forum-open.de/2018/) mit Marja-Liisa Völlers (MdB), Tankred Schipanski (MdB), Gabriele Lonz und Marcus Richter ([Video]((https://media.ccc.de/v/forumoe-4-podiumsdiskussion)).
 
@@ -71,6 +82,6 @@ Self-Publishing-Dienstleistungen für Open-Access-Projekte. Vortrag auf den Open
 Familiengeheimnisse in der Literatur: Generationalität zwischen Text, Kognition und Kultur. Vortrag beim Deutschen Germanistentag am 25.9.2007, Philipps- Universität Marburg ([Manuskript](/wp-content/uploads/2009_Vortrag_Germanistentag.pdf)).
 
 
-## Ehrenamtliches
+## 🌻 Ehrenamtliches
 
 [Refugee Phrasebook](https://www.refugeephrasebook.de) (Webdesign / Projektmanagement 2015-2016, seither ehrenamtliche Betreuung) koordiniert Übersetzungen und Orientierungshilfen für Geflüchtete.

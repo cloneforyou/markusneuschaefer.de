@@ -14,6 +14,7 @@ gem 'rake-contrib'
 gem 'jekyll-ftp'
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
+# gem 'jekyll-mermaid'
 # gem 'jekyll-toc'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

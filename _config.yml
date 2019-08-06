@@ -17,6 +17,10 @@ plugins:
   - jekyll-ftp
   - jekyll-seo-tag
   - jekyll-sitemap
+  # - jekyll-mermaid
+
+# mermaid:
+#   src: '/assets/js/mermaid.min.js'
 
 # Social Accounts
 social_networks:

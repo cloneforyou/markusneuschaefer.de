@@ -93,7 +93,7 @@ var myPlugin = (function() {
       return;
 
     // Inject TOC into the DOM
-    toc.innerHTML = '<h2>Table of Contents</h2>' + links;
+    toc.innerHTML = '<h2>Inhalt</h2>' + links;
 
   };
 
