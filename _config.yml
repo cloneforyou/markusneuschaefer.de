@@ -14,7 +14,7 @@ disqus: markusneuschaefer
 # description: Ich engagiere mich für digitalen Wandel, Open Culture, e-Learning und zeitgemäße Bildung. Auch entdecke ich gerne neue Musik, vegane Rezepte, Berliner Milongas und Seen. Erreichbar bin ich am besten via <a href='http://twitter.com/mneuschaefer'>Twitter</a> oder per <a href='mailto:mail@markusneuschaefer.de'>Email</a>.
 plugins:
   - jekyll-redirect-from
-  - jekyll-ftp
+  # - jekyll-ftp
   - jekyll-seo-tag
   - jekyll-sitemap
   # - jekyll-mermaid

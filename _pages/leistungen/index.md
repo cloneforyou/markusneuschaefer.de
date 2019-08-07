@@ -13,7 +13,7 @@ Seit 2010 entwickle und gestalte ich digitale [Projekte](/portfolio) mit NGOs, w
 </figure>
 - Entwicklung von **kollaborativen Lernformaten** und **digital gestützter Weiterbildung**
 - Beratung zum Einsatz von **Offenen Lizenzen** (Open Source / Creative Commons)
-- Aufbau von **e-Learning**- und digitalen **Bildungsprojekten**
+- Konzeption, Planung und Umsetzung von **e-Learning**- und digitalen **Bildungsprojekten**
 
 ### Strategie, Produkt- und Projektmanagement
 <figure class="aligncenter">
@@ -21,7 +21,7 @@ Seit 2010 entwickle und gestalte ich digitale [Projekte](/portfolio) mit NGOs, w
 </figure>
 
 - **Produktmanagement** für Digitalprojekte
-- Implementierung von **Scrum**, **PRINCE2** und **agilem Projektmanagement**
+- **Agiles Projektmanagement** (Scrum / Kanban / PRINCE2)
 - **Strategieberatung** für die digitale Transformation
 
 Bei Interesse an einem Angebot schreiben Sie mir einfach eine <a href="mailto:mail@markusneuschaefer.de">Email</a> oder melden sich unter der Nummer <a href="tel:+4917672947925">0176 7294 7925</a>. Ich freue mich auf die Zusammenarbeit.

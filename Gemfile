@@ -9,13 +9,6 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.8.4"
-gem 'rake-contrib'
-gem 'jekyll-ftp'
-gem 'jekyll-seo-tag'
-gem 'jekyll-sitemap'
-# gem 'jekyll-mermaid'
-# gem 'jekyll-toc'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -24,5 +17,15 @@ gem 'jekyll-sitemap'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
     gem "jekyll-paginate", "~> 1.1.0"
+    gem 'sassc'
+    # gem 'jekyll-sass-converter', git: 'https://github.com/jekyll/jekyll-sass-converter', branch: 'master'
 gem 'jekyll-redirect-from'
+gem "jekyll", "3.8.6"
+gem 'rake-contrib'
+# gem 'jekyll-toc'
+# gem 'jekyll-ftp'
+gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
+gem 'json'
+# gem 'jekyll-mermaid'
 end
