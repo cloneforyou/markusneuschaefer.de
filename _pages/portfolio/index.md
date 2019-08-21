@@ -4,9 +4,12 @@ title:  "Portfolio"
 twitter-large-image: "/assets/img/symbolbild_sichtbarkeit_twitter.png"
 permalink: "/portfolio/"
 ---
-Eine Auswahl an Projekten, Veröffentlichungen und Vorträgen aus den letzten Jahren:
+Seit 2012 entwickle und gestalte ich Projekte mit Unternehmen, wissenschaftlichen Einrichtungen und NGOs.
+Dabei interessiert mich besonders, wie Zusammenarbeit, Sichtbarkeit und Lernen im Digitalen gelingt.
 
+Vorher studierte ich Germanistik und lernte, Geschichten und Kulturen besser zu verstehen. Nebenbei fand ich zum Programmieren und gestaltete Websites. Nach der Promotion zog ich nach Berlin und arbeitete erst im Verlagswesen, dann als freier Berater und als Projektleiter bei der Open Knowledge Foundation. Nun geht es darum, digitale Gegenwart zu gestalten.
 
+In den letzten Jahren sind einige Projekte und Publikationen zusammengekommen, eine Auswahl habe ich hier zusammnegestellt:
 
 * TOC
 {:toc}
