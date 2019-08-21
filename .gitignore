@@ -8,3 +8,4 @@ jekylldeploy.sh
 assets/demos/newindex/
 Gemfile.lock
 assets/css/old/
+_mdwriter.cson

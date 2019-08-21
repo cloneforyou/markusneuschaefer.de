@@ -60,6 +60,13 @@ show_comments: 1
 show_menu: 1
 fixed_sidebar: 0
 
+# do not show future posts
+# to show, build with jekyll serve --future
+future: false
+# do not show drafts (in drafts folder)
+# to show, build with jekyll serve --drafts
+show_drafts: false
+
 # TOC Settings
 # toc:
 #   min_level: 1
