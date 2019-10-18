@@ -9,3 +9,5 @@ assets/demos/newindex/
 Gemfile.lock
 assets/css/old/
 _mdwriter.cson
+.gitignore
+_drafts/

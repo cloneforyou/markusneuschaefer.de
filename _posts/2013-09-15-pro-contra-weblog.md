@@ -14,7 +14,7 @@ permalink: "/pro-contra-weblog/"
 
 ---
 <figure>
-	<img src="/assets/img/2013_Felder.jpg" />
+	<img src="/assets/img/2013/2013_Felder.jpg" />
   <figcaption>
   Bild: Satellitenbild von Feldern in Kansas, USA. Quelle: Nasa / Wikipedia, <a title="bit.ly/17whx42" href="http://bit.ly/17whx42">bit.ly/17whx42</a> (Public Domain)
   </figcaption>
@@ -27,7 +27,7 @@ Wozu eine eigene Webseite, einen eigenen Blog? <a title="Gründe" href="http://w
 <p>Viele Blogs sind leider sehr langweilig. Ich finde sie meist, wenn ich ein Problem habe und dazu Antworten suche. Dies mag daran liegen, dass man den eigenen „Internetauftritt“ vorwiegend im beruflichen Kontext nutzt, zumal eine eigene Seite die Visitenkarte so praktisch ergänzt. Wie ändert man die index.php-Datei im Wordpress-Template? Ein Template-Designer erklärt mir, wie das geht. Gegen solches <a href="http://de.wikipedia.org/wiki/Content_Marketing">Content-Marketing</a> ist im Prinzip ja nichts einzuwenden, denn nun weiß ich ja von dem Template-Designer, für das nächste Projekt. Doch haftet solchen Gründen nicht etwas durchschaubar Kleinliches an, wenn das abendelange Basteln an Wordpress-Templates, Plugins und Links auf nichts Interessanteres hinauslaufen soll, als die Ladenfront der Ich-AG mit einem Schaufenster auszustatten?</p>
 <p>Durch die finstere Skeptiker-Brille betrachtet, erscheint noch das seltsamste Katzenvideo von Berechnung schattiert, zumal interessante Blogs auch gelesen werden, teils sogar Werbung schalten. Wer die Internetlandschaft nur aus dieser Perspektive betrachten kann, dem ist  mit dem besten Werbeblocker nicht zu helfen. Vielleicht ist es die Tradition der deutschen Romantik, in der die Innerlichkeit so streng betont wird: „Im Dunkel wird mir wohler sein“ (Müller/Schubert); in diesem Fall also Licht aus und das Internet vorsichtshalber nur anschauen.</p>
 <p>Wenn man auf jede Äußerung im Netz verzichtet, lässt sich dies  ebenfalls als cleverer Marketing-Schachzug werten, um sich zum Beispiel als besonders authentisch oder geheimnisvoll zu inszenieren. Auf diese Weise wird man allerdings nicht in Frage gestellt, und das wäre langweilig. In diesem Sinne; für eine buntere Welt, die Gelegenheit für neue Anregungen.</p>
-<p><a href="https://markusneuschaefer.de/wp-content/uploads/IMAG0375.jpg"><img src="{{ site.baseurl }}/assets/img/IMAG0375-1024x579.jpg" alt="Prinzessinnengarten, Berlin" width="625" height="353" /></a></p>
+<p><a href="https://markusneuschaefer.de/wp-content/uploads/IMAG0375.jpg"><img src="{{ site.baseurl }}/assets/img/2019/09/IMAG0375-1024x579.jpg" alt="Prinzessinnengarten, Berlin" width="625" height="353" /></a></p>
 <p>Besser als das Schaufenster gefällt mir das Bild eines ertragreich verwilderten Gartens, in dem sich sowohl Zier- als auch Nutzpflanzen finden - ein lebendiger Ort, der die Wohnung mit der Straße verbindet. Ein Platz zum Nachdenken und Grübeln, für Gespräche vielleicht oder schlicht ein Anlass, sich in neue Umgebung zu bewegen, und sei es mitunter der Baumarkt.</p>
 <h1>Experimentieren und Lernen</h1>
 <p>Ein zweiter Grund gegen ein Blog ist Perfektionismus. Manchmal ist der größte Fehler der, jedwegen Fehler zu vermeiden: Glaubt man einer Studie, die verschiedene Kulturen auf ihre Fehlertoleranz hin vergleicht, landet Deutschland auf dem zweitletzten Platz, gleich hinter Singapur. Eine solche Haltung ist im Internet nicht sehr hilfreich, zumal das Risiko bei halbwegs intaktem common sense äußerst gering ist, vor allem zu Beginn. Schlimmstenfalls wird man ignoriert, bestenfalls mit Inhalten sichtbar.</p>

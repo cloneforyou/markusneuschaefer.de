@@ -1,18 +1,15 @@
 # General Settings
 name: Dr. Markus Neuschäfer
-# job_title: 💼 Education Consultant 👷‍♂️ Project Manager 🌎 OER & Open Culture ❤️
-# job_title: 🖥️e-Learning 👷Co-Creation 🌐Open Culture 💼Beratung & Projektmanagement
-job_title: e-Learning / Co-Creation / Open Culture<br> Beratung & Projektmanagement
+job_title:   ✅Projekte 💡Lernen ❤️Open Culture
 email: m.neuschaefer@gmail.com
 description: "Willkommen auf meiner Seite, hier notiere ich Gedanken und Links zu vielem, das ich spannend finde. Ich freue mich über Gespräche und Anregungen, erreichbar bin ich am besten via <a href='http://twitter.com/mneuschaefer'>Twitter</a> oder <a href='mailto:mail@markusneuschaefer.de'>Email</a>."
-avatar: /assets/img/mn.jpg
+avatar: /assets/img/2019/09/mn.jpg
 favicon: /favicon.ico
 twitter_handler: mneuschaefer
 analytics_code: UA-44236559-1
-title_image: /assets/img/2019_crop-circles-medium.png
+title_image: /assets/img/2019/09/2019_crop-circles-medium.png
 lang: de_DE
 disqus: markusneuschaefer
-
 # description: Ich engagiere mich für digitalen Wandel, Open Culture, e-Learning und zeitgemäße Bildung. Auch entdecke ich gerne neue Musik, vegane Rezepte, Berliner Milongas und Seen. Erreichbar bin ich am besten via <a href='http://twitter.com/mneuschaefer'>Twitter</a> oder per <a href='mailto:mail@markusneuschaefer.de'>Email</a>.
 plugins:
   - jekyll-redirect-from
@@ -20,6 +17,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   # - jekyll-mermaid
+  
 
 # mermaid:
 #   src: '/assets/js/mermaid.min.js'

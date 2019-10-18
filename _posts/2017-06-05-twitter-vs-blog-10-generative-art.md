@@ -15,7 +15,7 @@ tags:
 permalink: "/twitter-vs-blog-10-generative-art/"
 ---
 <figure>
-    <img src="/assets/img/codepen-example.png" />
+    <img src="/assets/img/2019/09/codepen-example.png" />
     <figcaption>
     Bild: <a href="https://codepen.io/mhsenkow/pen/OyQOVx">https://codepen.io/mhsenkow/pen/OyQOVx</a> (Screenshot, MIT License)</em>
     </figcaption>

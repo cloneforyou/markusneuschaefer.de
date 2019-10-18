@@ -15,7 +15,7 @@ tags:
 permalink: "/digitalisierung-auf-reiseflughoehe/"
 ---
 <figure>
-	<img src="/assets/img/flugzeug_fuzzy.jpg" />
+	<img src="/assets/img/2019/09/flugzeug_fuzzy.jpg" />
 </figure>
 
 <p>

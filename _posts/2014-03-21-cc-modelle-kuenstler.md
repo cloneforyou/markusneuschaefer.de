@@ -26,7 +26,7 @@ permalink: "/cc-modelle-kuenstler/"
 
 
 <figure class="alignright">
-	<img width="250" src="/assets/img/2014_KevinKellySF.png" />
+	<img width="250" src="/assets/img/2014/2014_KevinKellySF.png" />
     <figcaption>Bild: <a href="http://en.wikipedia.org/wiki/File:KevinKellySF.png">Aeranis</a>, <a href="http://creativecommons.org/licenses/by/3.0/deed.en">CC-BY</a></figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ permalink: "/cc-modelle-kuenstler/"
 </ul>
 
 <figure class="alignright">
-	<img width="250" src="/assets/img/2014_FredWilsonJI1.jpg" />
+	<img width="250" src="/assets/img/2014/2014_FredWilsonJI1.jpg" />
     <figcaption>Fred Wilson (Investor). Bild: <a href="http://en.wikipedia.org/wiki/File:FredWilsonJI1.jpg">Wikipedia</a>, Lizenz: <a href="https://creativecommons.org/licenses/by/3.0/de/">CC-BY</a></figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ permalink: "/cc-modelle-kuenstler/"
 <h2>Kostenlos 1: Direkte Quersubventionen (Anbieter - Nutzer)</h2>
 
 <figure>
-	<img src="/assets/img/kostenlos1-Mobile.png" />
+	<img src="/assets/img/2019/09/kostenlos1-Mobile.png" />
     <figcaption>
     </a> Grafik nach Chris Anderson: <a href="http://www.amazon.de/Free-Kostenlos-Gesch%C3%A4ftsmodelle-Herausforderungen-Internets/dp/3593390884">Free – Kostenlos</a>. Lizenz: <a href="https://creativecommons.org/licenses/by/3.0/de/">CC-BY</a>
     </figcaption>
@@ -78,7 +78,7 @@ Der Anbieter stellt ein Produkt kostenlos zur Verfügung, damit der Nutzer spät
 
 <h2>Kostenlos 2: Drei-Parteien-Markt (Anbieter - Nutzer - Vermarkter)</h2>
 <figure>
-    <img src="/assets/img/kostenlos2-Mobile.png" />
+    <img src="/assets/img/2019/09/kostenlos2-Mobile.png" />
     <figcaption>
     Grafik nach Chris Anderson: <a href="http://www.amazon.de/Free-Kostenlos-Gesch%C3%A4ftsmodelle-Herausforderungen-Internets/dp/3593390884">Free – Kostenlos</a>. Lizenz: <a href="https://creativecommons.org/licenses/by/3.0/de/">CC-BY</a>
 		</figcaption>
@@ -95,7 +95,7 @@ Der Anbieter stellt ein Produkt kostenlos zur Verfügung, damit der Nutzer spät
 <h2>Kostenlos 3: Freemium</h2>
 
 <figure>
-	<img src="/assets/img/kostenlos3-Mobile.png" />
+	<img src="/assets/img/2019/09/kostenlos3-Mobile.png" />
     <figcaption>
     </a> Grafik nach Chris Anderson:<a href="http://www.amazon.de/Free-Kostenlos-Gesch%C3%A4ftsmodelle-Herausforderungen-Internets/dp/3593390884"> Free – Kostenlos</a>. Lizenz:<a href="https://creativecommons.org/licenses/by/3.0/de/"> CC-BY</a>
     </figcaption>
@@ -111,7 +111,7 @@ Der Anbieter stellt ein Produkt kostenlos zur Verfügung, damit der Nutzer spät
 <h2>Kostenlos 4: Nichtmonetäre Märkte</h2>
 
 <figure>
-	<img src="/assets/img/kostenlos4-Mobile.png" />
+	<img src="/assets/img/2019/09/kostenlos4-Mobile.png" />
     <figcaption>
     </a> Grafik nach Chris Anderson: <a href="http://www.amazon.de/Free-Kostenlos-Gesch%C3%A4ftsmodelle-Herausforderungen-Internets/dp/3593390884">Free – Kostenlos</a>. Lizenz: <a href="https://creativecommons.org/licenses/by/3.0/de/">CC-BY</a>
     </figcaption>

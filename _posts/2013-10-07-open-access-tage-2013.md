@@ -16,7 +16,7 @@ permalink: "/open-access-tage-2013/"
 
 ---
 <figure>
-	<img src="/assets/img/2013_OA-Tage2013.jpg" />
+	<img src="/assets/img/2013/2013_OA-Tage2013.jpg" />
   <figcaption>
   Bild: Podiumsdiskussion bei den Open-Access-Tagen 2013
   </figcaption>
@@ -32,7 +32,7 @@ permalink: "/open-access-tage-2013/"
 
 <h2>Modulare Dienstleister</h2>
 <figure>
-    <img alt="Publikationsmanagement früher und heute" src="/assets/img/Publikationsmanagement.png" />
+    <img alt="Publikationsmanagement früher und heute" src="/assets/img/2019/09/Publikationsmanagement.png" />
     <figcaption>
     Publikationsmanagement früher und heute
 </figure>

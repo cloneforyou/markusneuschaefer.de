@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Leistungen"
-twitter-large-image: "/assets/img/symbolbild_workshops_twitter.png"
+twitter-large-image: "/assets/img/2019/09/symbolbild_workshops_twitter.png"
 description: 'Beratung und Projektmanagement zu digitaler Transformation, Bildung und e-Learning, Wissensmanagement und Contentmarketing'
 published: true
 permalink: "/leistungen/"
@@ -10,7 +10,7 @@ Seit 2012 entwickle und gestalte ich digitale Projekte mit Unternehmen, wissensc
 
 ### Kollaboratives Lernen und Arbeiten
 <figure class="aligncenter">
-	<img src="/assets/img/symbolbild_workshops.png" alt ="Bild: Zusammenarbeit mit Laptops"/>
+	<img src="/assets/img/2019/09/symbolbild_workshops.png" alt ="Bild: Zusammenarbeit mit Laptops"/>
 </figure>
 - Entwicklung von kollaborativen Lernformaten und digital gestützter Weiterbildung
 - Beratung zum Einsatz von Offenen Lizenzen (Open Source / Creative Commons)
@@ -18,7 +18,7 @@ Seit 2012 entwickle und gestalte ich digitale Projekte mit Unternehmen, wissensc
 
 ### Produkt- und Projektmanagement
 <figure class="aligncenter">
-	<img width="200" src="/assets/img/symbolbild_projekte.png" alt ="Bild: Kollaboratives Arbeiten mit Post-its"/>
+	<img width="200" src="/assets/img/2019/09/symbolbild_projekte.png" alt ="Bild: Kollaboratives Arbeiten mit Post-its"/>
 </figure>
 
 - Produktmanagement für Digitalprojekte

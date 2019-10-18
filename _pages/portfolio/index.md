@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Portfolio"
-twitter-large-image: "/assets/img/symbolbild_sichtbarkeit_twitter.png"
+twitter-large-image: "/assets/img/2019/09/symbolbild_sichtbarkeit_twitter.png"
 permalink: "/portfolio/"
 ---
 Seit 2012 entwickle und gestalte ich Projekte mit Unternehmen, wissenschaftlichen Einrichtungen und NGOs.
@@ -33,17 +33,17 @@ Weitere Projekte mit meiner Beteiligung (selbständig):
 
 ## 📚 Publikationen
 
-Digitale Mündigkeit gibt es nicht umsonst: Fünf Forderungen aus der Bildungspraxis. [Gastbeitrag](](https://netzpolitik.org/2018/digitale-muendigkeit-gibt-es-nicht-umsonst-fuenf-forderungen-aus-der-bildu)) auf Netzpolitik.org von Nele Hirsch und Markus Neuschäfer (2018).
+Digitale Mündigkeit gibt es nicht umsonst: Fünf Forderungen aus der Bildungspraxis. [Gastbeitrag](https://netzpolitik.org/2018/digitale-muendigkeit-gibt-es-nicht-umsonst-fuenf-forderungen-aus-der-bildu) auf Netzpolitik.org von Nele Hirsch und Markus Neuschäfer (2018).
 
-Offene Bildung mit digital gestützten Methoden, edulabs (2018). In: Synergie. Fachmagazin für Digitalisierung in der Lehre. Projekte der BMBF-Förderung OERinfo 2017/2018 ([Sonderband]((https://doi.org/10.25592/978.3.924330.64.4))). S. 222-231
+Offene Bildung mit digital gestützten Methoden, edulabs (2018). In: Synergie. Fachmagazin für Digitalisierung in der Lehre. Projekte der BMBF-Förderung OERinfo 2017/2018 [Sonderband](https://doi.org/10.25592/978.3.924330.64.4). S. 222-231
 
-Edulabs – Innovationsräume für Bildung in der digitalen Welt (2017). In: Synergie. Fachmagazin für Digitalisierung in der Lehre, [Ausgabe \#04]((https://synergie.blogs.uni-hamburg.de/ausgabe-04-beitrag-kolbe-neuschaefer/)). S. 44-47.
+Edulabs – Innovationsräume für Bildung in der digitalen Welt (2017). In: Synergie. Fachmagazin für Digitalisierung in der Lehre, [Ausgabe \#04](https://synergie.blogs.uni-hamburg.de/ausgabe-04-beitrag-kolbe-neuschaefer/). S. 44-47.
 
 Kunst für alle? Austausch und Sichtbarkeit mit freien Lizenzen. [Gastbeitrag](https://www.monopol-magazin.de/kunst-für-alle) im Monopol-Magazin vom 07.04.2015.
 
-Handbuch Digital Humanities. Mit Helene Hahn, Tibor Kalman, Wibke Kolbmann, Thomas Kollatz, Markus Neuschäfer, Steffen Pielström, Johanna Puhl, Juliane Stiller, Danah Tonne, 2015 ()[TIB-Wiki](https://handbuch.tib.eu/w/DH-Handbuch)).
+Handbuch Digital Humanities. Mit Helene Hahn, Tibor Kalman, Wibke Kolbmann, Thomas Kollatz, Markus Neuschäfer, Steffen Pielström, Johanna Puhl, Juliane Stiller, Danah Tonne, 2015 [TIB-Wiki](https://handbuch.tib.eu/w/DH-Handbuch).
 
-[Das bedingte Selbst]((https://gso.gbv.de/DB=2.2/SET=1/TTL=1/SHW?FRST=8/PRS=HOL)). Familie, Identität und Geschichte im zeitgenössischen Generationenroman (Dissertation, 2015 \| [PDF](/wp-content/uploads/Neuschaefer-Das_bedingte_Selbst-CC-BY-SA.pdf)).
+[Das bedingte Selbst](https://gso.gbv.de/DB=2.2/SET=1/TTL=1/SHW?FRST=8/PRS=HOL). Familie, Identität und Geschichte im zeitgenössischen Generationenroman (Dissertation, 2015 \| [PDF](/wp-content/uploads/Neuschaefer-Das_bedingte_Selbst-CC-BY-SA.pdf)).
 
 Vom doppelten Fortschreiben der Geschichte: Familiengeheimnisse im Generationenroman. In:  Literaturwissenschaftliche Beiträge zur Generationsforschung. Göttinger Studien zur Generationsforschung. Veröffentlichungen des DFG-Graduiertenkollegs »Generationengeschichte« (hg. von Bernd Weisbrod); Bd. 3. Göttingen: Wallstein 2010 ([Preprint-PDF](https://markusneuschaefer.de/wp-content/uploads/Familiengeheimnisse_Neuschaefer_preprint.pdf)).
 
@@ -55,9 +55,9 @@ Kohärenz aus Ambivalenz in Wolfgang Koeppens »Tauben im Gras«. In: Ambivalenz
 
 ## 🎤 Interviews, Podiumsdiskussionen und Vorträge
 
-Podiumsdiskussion zum [1. Forum Open Education (2018)](https://education.forum-open.de/2018/) mit Marja-Liisa Völlers (MdB), Tankred Schipanski (MdB), Gabriele Lonz und Marcus Richter ([Video]((https://media.ccc.de/v/forumoe-4-podiumsdiskussion)).
+Podiumsdiskussion zum [1. Forum Open Education (2018)](https://education.forum-open.de/2018/) mit Marja-Liisa Völlers (MdB), Tankred Schipanski (MdB), Gabriele Lonz und Marcus Richter ([Video](https://media.ccc.de/v/forumoe-4-podiumsdiskussion)).
 
-Podiumsdiskussion mit Vasili Sofiadellis und Engin Karahan bei der Tagung "[European Societies in digital Age]((https://colloquium-digital-societies.eu/live-stream-convention-european-societies-in-digital-age/))" 2018 ([Video](https://colloquium-digital-societies.eu/live-stream-convention-european-societies-in-digital-age/)).
+Podiumsdiskussion mit Vasili Sofiadellis und Engin Karahan bei der Tagung "[European Societies in digital Age](https://colloquium-digital-societies.eu/live-stream-convention-european-societies-in-digital-age/))" 2018 ([Video](https://colloquium-digital-societies.eu/live-stream-convention-european-societies-in-digital-age/)).
 
 [Edusprints: Community Events to Create OER](https://ccglobalsummit2018.sched.com/m.neuschaefer). Vortrag über das edusprint-Format zum Creative Commons Global Summit 2018 ([Folien](https://www.slideshare.net/mneuschaefer/edusprints-community-events-to-create-oer)).
 
@@ -70,7 +70,7 @@ Digitales Ehrenamt fördern mit offenem Wissen. Mehr Reichweite für Bildungsang
 
 [Gestalten lernen: Offenes Wissen und digitale Partizipation](https://www.oer-at-rlp.de/auftaktveranstaltung/). Keynote zur Auftaktveranstaltung „Digital und offen?! – Wie Digitalisierung Bildung verändert" des Verbundprojekts OER@RLP in Mainz am 26.06.2017.
 
-[Edulabs – Open Educational Resources. Interview]((https://detektor.fm/digital/wer-nicht-fragt-bleibt-dumm-edulabs)) auf detektor-fm vom 23.05.2017.
+[Edulabs – Open Educational Resources. Interview](https://detektor.fm/digital/wer-nicht-fragt-bleibt-dumm-edulabs)) auf detektor-fm vom 23.05.2017.
 
 Partizipation in der Schule mit digital gestützten Methoden und OER. Workshop mit Dejan Mihajlovic bei der Fachtagung "Bildung in der digitalisierten Welt" in Berlin am 06.09.2016 ([Folien](https://de.slideshare.net/mneuschaefer/partizipation-in-der-schule-mit-digital-gestutzten-methoden-und-oer)).
 

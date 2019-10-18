@@ -16,7 +16,7 @@ redirect_from:
   - /essays/aktives-lernen-trotz-multiple-choice.html
 ---
 <figure>
-    <img src="/assets/img/2019-07-multiple-choice.png" />
+    <img src="/assets/img/2019/07/2019-07-multiple-choice.png" />
     <figcaption>
     <a href="https://h5p.org/multichoice/">Beispiel für ein Multiple-Choice-Modul in H5P</a>
     </figcaption>

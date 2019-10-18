@@ -16,7 +16,7 @@ tags:
 permalink: "/we-are-so-happy-with-whatever-people-do-with-our-collection/"
 ---
 <figure>
-	<img src="/assets/img/jongma1.png" />
+	<img src="/assets/img/2019/09/jongma1.png" />
     <figcaption>
     Image: Lizzy Jongma at “Zugang Gestalten”, Berlin 2013 (<a href="http://vimeo.com/80582891">Video</a>)
     </figcaption>

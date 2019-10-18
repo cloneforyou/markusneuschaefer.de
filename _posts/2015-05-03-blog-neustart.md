@@ -15,7 +15,7 @@ tags:
 permalink: "/blog-neustart/"
 ---
 <figure>
-    <img src="/assets/img/Echinacea_flower.jpg" />
+    <img src="/assets/img/2019/09/Echinacea_flower.jpg" />
     <figcaption>Bild: <a class="external text" href="http://commons.wikimedia.org/wiki/User:Poco%20a%20poco">Diego Delso</a>, <a href="https://commons.wikimedia.org/wiki/File:Echinacea_purpurea,_Jard%C3%ADn_Bot%C3%A1nico,_M%C3%BAnich,_Alemania,_2013-09-08,_DD_01.jpg">Echinacea purpurea</a>, Wikimedia Commons, License <a class="external text" href="http://creativecommons.org/licenses/by-sa/3.0/legalcode" rel="nofollow">CC-BY-SA 3.0</a></figcaption>
 </figure>
 

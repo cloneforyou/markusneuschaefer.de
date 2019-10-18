@@ -26,7 +26,7 @@ permalink: "/skizzen-zur-buchmesse/"
 
 ---
 <figure>
-	<img src="/assets/img/Einbahnstrasse.jpg" />
+	<img src="/assets/img/2019/09/Einbahnstrasse.jpg" />
 </figure>
 <p>
 				Die klassische Buchbranche ist eine Welt der Extreme:  Der Markt wird noch immer von einzelnen Bestsellern bestimmt, die regelmäßig den Umsatz retten. Wie geht die Branche damit um, und wie können Self-Publishing-Autoren davon lernen?<!-- more -->

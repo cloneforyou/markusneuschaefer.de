@@ -18,7 +18,7 @@ tags:
 permalink: "/dissertation-veroeffentlichen-ohne-kosten-ein-erfahrungsbericht/"
 ---
 <figure class="aligncenter">
-	<img width="200" src="/assets/img/Bleisatz_im_Winkelhaken.jpg" alt ="Bild: Bleisatz im Winkelhaken"/>
+	<img width="200" src="/assets/img/2019/09/Bleisatz_im_Winkelhaken.jpg" alt ="Bild: Bleisatz im Winkelhaken"/>
 	<figcaption>Bild: Wilhei, Wikimedia Commons (CC-BY). <a href="http://bit.ly/1yJClTZ">http://bit.ly/1yJClTZ</a></figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ Gleichzeitig war mir bewusst, dass <strong>reine Internetpublikationen in den G
 Während der Abschlussphase erkundigte ich mich zuerst bei Freunden und Kollegen, wo ich meine Dissertation veröffentlichen könnte. In meinem <a href="http://www.generationengeschichte.uni-goettingen.de/">Graduiertenkolleg</a> gab es eine eigene Schriftenreihe, die in einem bekannten Göttinger Verlag erschien. Bei dem Kostenvoranschlag des Verlages ergaben sich für mich <strong>Publikationskosten in Höhe von 7.377,41 €</strong>:
 
 <figure>
-    <img src="/assets/img/Verlagskalkulation1_geschw.jpg" />
+    <img src="/assets/img/2019/09/Verlagskalkulation1_geschw.jpg" />
     <figcaption>
 		Verlagskalkulation für eine Dissertation in einem Wissenschaftsverlag (Namen und Marke geschwärzt)
 		</figcaption>
@@ -57,14 +57,14 @@ Bei einer Veröffentlichung in dieser Reihe zahlte das Kolleg einen Zuschuss in
 </blockquote>
 Drei Jahre Wartezeit für das Recht, die Dissertation ins Internet zu stellen, die <strong>Ankündigung von Makulatur</strong>, Kosten in Höhe von 4877,41 € (inkl. 2.500 € für das Kolleg) – unter diesen Bedingungen erschien mir eine Publikation in der Schriftenreihe des Kollegs leider <strong>nicht tragbar</strong>. Nach den vielen Umzügen wünschte ich mir vor allem einen festen Job in Berlin. Allein für die Bewerbungen wäre eine zeitnahe Veröffentlichung sehr praktisch. Vor allem aber hatte ich mehrere Jahre in dieses Buch investiert und wünschte mir, dass die Ergebnisse etwas zu der Diskussion beitragen konnten. Ich fragte bei einem anderen Verlag an und erhielt einen zweiten Kostenvoranschlag:
 
-<a href="/assets/img/Verlagskalkulation2_geschw.jpg"><img class="size-full wp-image-306" src="{{ site.baseurl }}/assets/img/Verlagskalkulation2_geschw.jpg" alt="Zweite Verlagskalkulation (Namen und Marke geschwärzt)" width="1240" height="1755" /></a>
+<a href="/assets/img/2019/09/Verlagskalkulation2_geschw.jpg"><img class="size-full wp-image-306" src="{{ site.baseurl }}/assets/img/2019/09/Verlagskalkulation2_geschw.jpg" alt="Zweite Verlagskalkulation (Namen und Marke geschwärzt)" width="1240" height="1755" /></a>
 
-Verlagskalkulation 2 (Namen und Marke geschwärzt). <a href="/assets/img/Verlagskalkulation2_geschw.pdf" target="\_blank">Komplettes Angebot als PDF-Datei  </a>(168 KB)
+Verlagskalkulation 2 (Namen und Marke geschwärzt). <a href="/assets/img/2019/09/Verlagskalkulation2_geschw.pdf" target="\_blank">Komplettes Angebot als PDF-Datei  </a>(168 KB)
 
 Die Druckkosten wurden in Höhe von 3.016,65 € (brutto) veranschlagt, bei einem Verkaufspreis von 44,90 €. Ob eine Bibliothek das Buch zu einem solchen Preis anschaffen würde? Eine <strong>Bereitstellung im Open Access sollte hier zusätzlich 5.000€</strong> kosten, insgesamt wären Kosten in Höhe von 7.535 € angefallen:
 
 <figure>
-    <img alt="5.000 € für eine Bereitstellung als Open Access - das müssen teure Server sein" src="/assets/img/Verlagskalkulation2_OA.png" />
+    <img alt="5.000 € für eine Bereitstellung als Open Access - das müssen teure Server sein" src="/assets/img/2019/09/Verlagskalkulation2_OA.png" />
     <figcaption>
 		</a> "Pauschale" von 5.000 € für eine Bereitstellung im Open Access
 		</figcaption>
@@ -80,7 +80,7 @@ Wäre mein Ziel noch immer eine Karriere als Wissenschaftler gewesen, hätte ich
 Ich werde den Verdacht nicht los, dass sich die hohen Preise bei wissenschaftlichen Publikationen auch mit der Kaufkraft von Akademikerfamilien erklären (wen das nicht so interessiert, kann <a href="https://markusneuschaefer.de/dissertation-veroeffentlichen-ohne-kosten-ein-erfahrungsbericht/#hier">hier </a>weiterlesen). <strong>Akademischer Erfolg hängt in Deutschland stark von der sozialen Herkunft ab.</strong> Laut der <a href="http://www.sozialerhebung.de/erhebung_20/soz_20_haupt" target="\_blank">20. Sozialerhebung des Deutschen Studentenwerks</a> von 2012<b> </b>zeigt sich dieser Zusammenhang bereits im Erststudium:
 
 <figure>
-    <img alt="quelle: 20. Sozialerhebung des deutschen Studentenwerkes" src="/assets/img/bildungsherkunft_studierende.png" />
+    <img alt="quelle: 20. Sozialerhebung des deutschen Studentenwerkes" src="/assets/img/2019/09/bildungsherkunft_studierende.png" />
     <figcaption>
 		</a> Quelle: 20. Sozialerhebung des deutschen Studentenwerkes, S. 77 (<a href="http://www.sozialerhebung.de/download/20/soz20_hauptbericht_gesamt.pdf" target="\_blank">PDF-Datei</a>)
 		</figcaption>
@@ -89,7 +89,7 @@ Ich werde den Verdacht nicht los, dass sich die hohen Preise bei wissenschaftlic
 Diese Entwicklung hat sich im letzten Jahrzehnt verstärkt. Im internationalen Vergleich gibt es <strong>in Deutschland nur wenige feste Stellen</strong> im sogenannten Mittelbau jenseits der Professur:
 
 <figure>
-    <img alt="Quelle: Robert Kreckel, &quot;Zur Kooperation verpflichtet&quot;, in: Forschung und Lehre, Heft 5 (2009), Seite 33. Zit. nach: Michael Blume: Das Templiner Manifest für den akademischen Mittelbau. Scilogs.de vom 9.3.2011" src="/assets/img/akadem_Mittelbau.png" />
+    <img alt="Quelle: Robert Kreckel, &quot;Zur Kooperation verpflichtet&quot;, in: Forschung und Lehre, Heft 5 (2009), Seite 33. Zit. nach: Michael Blume: Das Templiner Manifest für den akademischen Mittelbau. Scilogs.de vom 9.3.2011" src="/assets/img/2019/09/akadem_Mittelbau.png" />
     <figcaption>
 		Quelle: Robert Kreckel, "Zur Kooperation verpflichtet", in: Forschung und Lehre, Heft 5 (2009), Seite 33. Zit. nach: Michael Blume: Das Templiner Manifest für den akademischen Mittelbau. Scilogs.de vom 9.3.2011 (<a href="http://www.scilogs.de/natur-des-glaubens/das-templiner-manifest-f-r-den-universit-ren-mittelbau/" target="\_blank">Link</a>
 		</figcaption>
@@ -105,7 +105,7 @@ Schnell merkte ich, dass eine Veröffentlichung im Selbstverlag mit einigem <str
 Bei der Open-Access-Veröffentlichung entschied ich mich für eine <a href="https://de.creativecommons.org/index.php/was-ist-cc/" target="\_blank">Creative-Commons-Lizenz</a> mit einem <strong>nichtkommerziellen Lizenzmodul</strong> (CC-BY-NC-SA). Dies stellte sich später als <strong>ungünstig</strong> heraus, <a href="http://irights.info/2012/05/02/folgen-risiken-und-nebenwirkungen-von-nc/4002" target="\_blank">Dateien mit einer NC-Lizenz können leider auf den meisten Seiten nicht angeboten werden.</a> Für eine Änderung auf dem Dissertationsserver war es zu spät, auf meiner eigenen Seite habe ich die Dissertation daher mit einer Lizenz eingestellt, mit der man die Datei besser teilen kann (<a title="Publikationen" href="https://markusneuschaefer.de/publikationen/">CC-BY-SA</a>). Dazu genügte es, den Lizenzhinweis im Impressum folgendermaßen zu ändern:
 
 <figure>
-    <img alt="Impressum_CC-BY" src="/assets/img/Impressum_CC-BY.png" />
+    <img alt="Impressum_CC-BY" src="/assets/img/2019/09/Impressum_CC-BY.png" />
 
 </figure>
 
@@ -116,8 +116,8 @@ Bei der Open-Access-Veröffentlichung entschied ich mich für eine <a href="ht
 Ein erster Probedruck der Dissertation sah angenehm hochwertig aus, übrig blieb noch das Korrektorat. Mit dem Berufseinstieg in der Berliner Startup-Welt war ich bereits ausreichend beschäftigt, also holte ich ein Angebot für ein externes Korrektorat ein:
 
 <figure>
-		<a href="/assets/img/Angebot-Neuschaefer-Korrektorat_geschw.pdf">
-    <img src="/assets/img/Angebot-Neuschaefer-Korrektorat_geschw.png" /></a>
+		<a href="/assets/img/2019/09/Angebot-Neuschaefer-Korrektorat_geschw.pdf">
+    <img src="/assets/img/2019/09/Angebot-Neuschaefer-Korrektorat_geschw.png" /></a>
     <figcaption>
 	Ein professionelles Korrektorat lohnt sich, passende Angebote findet man bei zahlreichen Buchprofi-Freelancern.
 		</figcaption>
@@ -127,7 +127,7 @@ Die <strong>Kosten für Korrektorat</strong> und Dissertation veröffentlichen w
 Von diesem 100%-Do-it-yourself-Verfahren zum Dissertation veröffentlichen kann ich nur abraten: <strong>Das Korrektorat von längeren Texten ist ein empfindlicher Punkt</strong> bei wissenschaftlichen Veröffentlichungen, besonders in einer geisteswissenschaftlichen Fakultät. Bei der eigenen Dissertation sieht man die Sätze oft noch so vor Augen, wie man sie formuliert hatte, vor allem nach einem langen Arbeitstag. Nach 23 Uhr sollte man generell keine Korrekturen mehr vornehmen, mit zunehmender Müdigkeit nimmt die Genauigkeit ab. Empfehlen kann ich zudem die Anschaffung einer externen Tastatur, bei der sämtliche Tasten einwandfrei funktionieren. Zwischendurch streikte meine Laptop-Festplatte, zum Glück konnte ich das Problem selbst beheben:
 
 <figure>
-    <img src="/assets/img/laptop-reparatur.jpg" />
+    <img src="/assets/img/2019/09/laptop-reparatur.jpg" />
     <figcaption>
 		Wichtig: Die Dissertation regelmäßig sichern, z.b. auf einer externen Festplatte oder bei Cloud-Diensten wie <a href="https://spideroak.com/" target="\_blank">SpiderOak</a> (und keinesfalls eine Zange verwenden).
 		</figcaption>

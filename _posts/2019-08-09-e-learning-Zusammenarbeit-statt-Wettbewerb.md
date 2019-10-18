@@ -6,8 +6,8 @@ type: post
 published: true
 status: publish
 description: 'Lernwettbewerbe können den Lernerfolg mindern; bei kollaborativen Formaten kommt es auf die gemeinsame Verantwortung an.'
-image: "/assets/img/2019-08-Wettbewerb.png"
-twitter-large-image: "/assets/img/2019-08-Wettbewerb.png"
+image: "/assets/img/2019/08/2019-08-Wettbewerb.png"
+twitter-large-image: "/assets/img/2019/08/2019-08-Wettbewerb.png"
 # large image = 2:1 ratio (w:h)
 insert-toc: true
 categories:
@@ -19,7 +19,7 @@ tags:
 permalink: "/lernwettbewerbe-kollaboration-lernerfolg"
 ---
 <figure class="aligncenter">
-	<img width="200" src="/assets/img/2019-08-Wettbewerb.png" alt ="Bild: Zwei Hockeyspieler mit Schiedrichter"/>
+	<img width="200" src="/assets/img/2019/08/2019-08-Wettbewerb.png" alt ="Bild: Zwei Hockeyspieler mit Schiedrichter"/>
 	<figcaption>Bild: <a href="https://unsplash.com/photos/HRo2pfbVulQ">Jerry Yu auf unsplash.com</a>, bearb. mit <a href="http://snapbuilder.com/code_snippet_generator/triangulator_triangulation_image_generator/">triangulator</a></figcaption>
 </figure>
 
