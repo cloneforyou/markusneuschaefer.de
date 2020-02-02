@@ -1,18 +1,17 @@
 ---
-layout: post
 title: e-Learning und Schule 1.0
-date: 2013-10-31 21:11:05.000000000 +01:00
-type: post
-parent_id: '0'
-published: true
-
-status: publish
+date: 2013-10-31 20:11:05 Z
+permalink: "/e-learning-studie/"
 categories:
 - Notizen
 tags:
 - e-Learning
 - OER
 - Wissensgesellschaft
+layout: post
+type: post
+parent_id: '0'
+status: publish
 meta:
   _edit_last: '1'
   _wp_old_slug: e-learning-entzaubert
@@ -25,9 +24,8 @@ author:
   display_name: MN
   first_name: Markus
   last_name: Neuschäfer
-permalink: "/e-learning-studie/"
-
 ---
+
 <figure>
 	<img src="/assets/img/2015/2015_schule_frueher.jpg" />
 </figure>

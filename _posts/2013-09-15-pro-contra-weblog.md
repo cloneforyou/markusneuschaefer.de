@@ -1,18 +1,15 @@
 ---
-layout: post
 title: 'Garten statt Schaufenster: Gründe für ein Blog'
-date: 2013-09-15 13:23:02.000000000 +02:00
-type: post
-parent_id: '0'
-published: true
-
-status: publish
+date: 2013-09-15 11:23:02 Z
+permalink: "/pro-contra-weblog/"
 categories:
 - Notizen
-tags: []
-permalink: "/pro-contra-weblog/"
-
+layout: post
+type: post
+parent_id: '0'
+status: publish
 ---
+
 <figure>
 	<img src="/assets/img/2013/2013_Felder.jpg" />
   <figcaption>

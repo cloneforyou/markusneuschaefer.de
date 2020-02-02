@@ -1,23 +1,23 @@
 ---
-layout: post
-title: "Zusammenarbeit oder Lernwettbewerb"
-date: 2019-08-09 11:40:06.000000000 +01:00
-type: post
-published: true
-status: publish
-description: 'Lernwettbewerbe können den Lernerfolg mindern; bei kollaborativen Formaten kommt es auf die gemeinsame Verantwortung an.'
-image: "/assets/img/2019/08/2019-08-Wettbewerb.png"
-twitter-large-image: "/assets/img/2019/08/2019-08-Wettbewerb.png"
-# large image = 2:1 ratio (w:h)
-insert-toc: true
+title: Zusammenarbeit oder Lernwettbewerb
+date: 2019-08-09 10:40:06 Z
+permalink: "/lernwettbewerbe-kollaboration-lernerfolg"
 categories:
 - Notizen
 tags:
-- 'Kollaboration'
-- 'Bildung'
-- 'e-Learning'
-permalink: "/lernwettbewerbe-kollaboration-lernerfolg"
+- Kollaboration
+- Bildung
+- e-Learning
+layout: post
+type: post
+status: publish
+description: Lernwettbewerbe können den Lernerfolg mindern; bei kollaborativen Formaten
+  kommt es auf die gemeinsame Verantwortung an.
+image: "/assets/img/2019/08/2019-08-Wettbewerb.png"
+twitter-large-image: "/assets/img/2019/08/2019-08-Wettbewerb.png"
+insert-toc: true
 ---
+
 <figure class="aligncenter">
 	<img width="200" src="/assets/img/2019/08/2019-08-Wettbewerb.png" alt ="Bild: Zwei Hockeyspieler mit Schiedrichter"/>
 	<figcaption>Bild: <a href="https://unsplash.com/photos/HRo2pfbVulQ">Jerry Yu auf unsplash.com</a>, bearb. mit <a href="http://snapbuilder.com/code_snippet_generator/triangulator_triangulation_image_generator/">triangulator</a></figcaption>

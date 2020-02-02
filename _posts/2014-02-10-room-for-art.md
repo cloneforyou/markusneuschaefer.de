@@ -1,16 +1,16 @@
 ---
-layout: post
 title: room for art
-date: 2014-02-10 19:17:08.000000000 +01:00
-type: post
-published: true
-status: publish
+date: 2014-02-10 18:17:08 Z
+permalink: "/room-for-art/"
 categories:
 - Notizen
 tags:
 - Ukraine
-permalink: "/room-for-art/"
+layout: post
+type: post
+status: publish
 ---
+
 <p>
 	During the Kiew protests, wearing a mask seems very reasonable - after all, the regime is known to target individuals. And in the midst of this chaotic situation, behind a barricade made of sacks filled with ice, it feels both necessary and natural to create music, to play.<br />
 

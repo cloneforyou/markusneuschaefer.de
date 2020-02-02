@@ -1,19 +1,18 @@
 ---
-layout: post
 title: Update
-date: 2015-05-03 00:25:29.000000000 +02:00
-type: post
-parent_id: '0'
-published: true
-
-status: publish
+date: 2015-05-02 22:25:29 Z
+permalink: "/blog-neustart/"
 categories:
 - Notizen
 tags:
 - Blog
 - Projekte
-permalink: "/blog-neustart/"
+layout: post
+type: post
+parent_id: '0'
+status: publish
 ---
+
 <figure>
     <img src="/assets/img/2019/09/Echinacea_flower.jpg" />
     <figcaption>Bild: <a class="external text" href="http://commons.wikimedia.org/wiki/User:Poco%20a%20poco">Diego Delso</a>, <a href="https://commons.wikimedia.org/wiki/File:Echinacea_purpurea,_Jard%C3%ADn_Bot%C3%A1nico,_M%C3%BAnich,_Alemania,_2013-09-08,_DD_01.jpg">Echinacea purpurea</a>, Wikimedia Commons, License <a class="external text" href="http://creativecommons.org/licenses/by-sa/3.0/legalcode" rel="nofollow">CC-BY-SA 3.0</a></figcaption>

@@ -1,10 +1,7 @@
 ---
-layout: post
 title: '"We are so happy with whatever people do with our collection"'
-date: 2014-01-07 15:35:48.000000000 +01:00
-type: post
-published: true
-status: publish
+date: 2014-01-07 14:35:48 Z
+permalink: "/we-are-so-happy-with-whatever-people-do-with-our-collection/"
 categories:
 - Notizen
 tags:
@@ -13,8 +10,11 @@ tags:
 - Kunst
 - Lizenzen
 - Open Access
-permalink: "/we-are-so-happy-with-whatever-people-do-with-our-collection/"
+layout: post
+type: post
+status: publish
 ---
+
 <figure>
 	<img src="/assets/img/2019/09/jongma1.png" />
     <figcaption>

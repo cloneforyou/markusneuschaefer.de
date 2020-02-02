@@ -1,10 +1,7 @@
 ---
-layout: post
 title: 'Plattformpolitik: Online-Communities und Initiativen mit eigener Website'
-date: 2016-06-21 14:53:59.000000000 +02:00
-type: post
-published: true
-status: publish
+date: 2016-06-21 12:53:59 Z
+permalink: "/websites-fuer-projekte-und-initiativen/"
 categories:
 - Essays
 tags:
@@ -15,8 +12,11 @@ tags:
 - PR
 - Social Media
 - Webdesign
-permalink: "/websites-fuer-projekte-und-initiativen/"
+layout: post
+type: post
+status: publish
 ---
+
 Eine interessante Tendenz bei Initiativen der Flüchtlingshilfe ist die zunehmende Nutzung von eigenen Projektseiten:  Letztes Jahr waren viele Initiativen lediglich auf Facebook aktiv, um sich mit Geflüchteten und Helfern zu vernetzen. Gruppen wie "<a href="http://syrischeshaus.de/">Syrisches Haus</a>", "<a href="http://areyousyrious.org/">Are you Syrious?</a>", "<a href="http://moabit-hilft.com/">Moabit hilft</a>" oder der <a href="http://www.startupaid.io/#!migration-hub/ncnnm">Migration Hub</a> unterhalten nun ebenfalls eine Website; ähnlich die Entwicklung in unserem <a href="http://refugeephrasebook.de">Phrasebook</a>-Projekt. Die meisten Aktivitäten lassen sich in den sozialen Netzwerken beobachten, die Updates auf den Projektseiten sind deutlich seltener. Wo liegen die Vorteile einer eigenen Homepage?
 
 <!-- more -->

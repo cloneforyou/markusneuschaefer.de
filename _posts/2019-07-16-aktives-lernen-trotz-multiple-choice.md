@@ -1,20 +1,23 @@
 ---
-layout: post
-title: "Lehren und lernen lassen: Ko&shy;operatives Lernen mit Multiple Choice- und Quizformaten"
-date: 2019-07-16 11:40:06.000000000 +01:00
-type: post
-published: true
-status: publish
+title: 'Lehren und lernen lassen: Ko&shy;operatives Lernen mit Multiple Choice- und
+  Quizformaten'
+date: 2019-07-16 10:40:06 Z
+permalink: "/aktives-lernen-trotz-multiple-choice/"
 categories:
 - Essays
 tags:
 - eLearning
 - H5P
-description: "Übungsformate wie Multiple-Choice-Tests oder Lückentexte gelten didaktisch als nicht mehr zeitgemäß. Dennoch ist kooperatives und kollaboratives Lernen mit diesen Formaten möglich, wenn Lernende diese selber gestalten"
-permalink: "/aktives-lernen-trotz-multiple-choice/"
+layout: post
+type: post
+status: publish
+description: Übungsformate wie Multiple-Choice-Tests oder Lückentexte gelten didaktisch
+  als nicht mehr zeitgemäß. Dennoch ist kooperatives und kollaboratives Lernen mit
+  diesen Formaten möglich, wenn Lernende diese selber gestalten
 redirect_from:
-  - /essays/aktives-lernen-trotz-multiple-choice.html
+- "/essays/aktives-lernen-trotz-multiple-choice.html"
 ---
+
 <figure>
     <img src="/assets/img/2019/07/2019-07-multiple-choice.png" />
     <figcaption>

@@ -1,20 +1,18 @@
 ---
-layout: post
 title: Open Access Tage 2013
-date: 2013-10-07 23:21:20.000000000 +02:00
-type: post
-parent_id: '0'
-published: true
-
-status: publish
+date: 2013-10-07 21:21:20 Z
+permalink: "/open-access-tage-2013/"
 categories:
 - Notizen
 tags:
 - e-Publishing
 - Open Access
-permalink: "/open-access-tage-2013/"
-
+layout: post
+type: post
+parent_id: '0'
+status: publish
 ---
+
 <figure>
 	<img src="/assets/img/2013/2013_OA-Tage2013.jpg" />
   <figcaption>

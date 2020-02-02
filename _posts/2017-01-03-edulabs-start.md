@@ -1,17 +1,16 @@
 ---
-layout: post
-title: 'Projektstart edulabs.de'
-date: 2017-01-03 18:29:44.000000000 +01:00
-type: post
-published: true
-status: publish
+title: Projektstart edulabs.de
+date: 2017-01-03 17:29:44 Z
+permalink: "/edulabs-projektstart/"
 categories:
 - Notizen
 tags:
 - Bildung
 - OER
 - Projekte
-permalink: "/edulabs-projektstart/"
+layout: post
+type: post
+status: publish
 ---
 
 <figure>

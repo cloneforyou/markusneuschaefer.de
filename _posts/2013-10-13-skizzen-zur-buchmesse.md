@@ -1,16 +1,15 @@
 ---
-layout: post
 title: 'Skizzen zur Buchmesse: Verlag und Risiko'
-date: 2013-10-13 17:25:26.000000000 +02:00
-type: post
-parent_id: '0'
-published: true
-
-status: publish
+date: 2013-10-13 15:25:26 Z
+permalink: "/skizzen-zur-buchmesse/"
 categories:
 - Notizen
 tags:
 - Projekte
+layout: post
+type: post
+parent_id: '0'
+status: publish
 meta:
   _edit_last: '1'
   _thumbnail_id: '140'
@@ -22,9 +21,8 @@ author:
   display_name: MN
   first_name: Markus
   last_name: Neuschäfer
-permalink: "/skizzen-zur-buchmesse/"
-
 ---
+
 <figure>
 	<img src="/assets/img/2019/09/Einbahnstrasse.jpg" />
 </figure>

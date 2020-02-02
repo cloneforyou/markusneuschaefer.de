@@ -1,12 +1,7 @@
 ---
-layout: post
 title: Creative Commons-Geschäftsmodelle für Künstler
-date: 2014-03-21 08:24:12.000000000 +01:00
-type: post
-parent_id: '0'
-published: true
-
-status: publish
+date: 2014-03-21 07:24:12 Z
+permalink: "/cc-modelle-kuenstler/"
 categories:
 - Essays
 tags:
@@ -15,7 +10,10 @@ tags:
 - Kunst
 - Marketing
 - Self-Publishing
-permalink: "/cc-modelle-kuenstler/"
+layout: post
+type: post
+parent_id: '0'
+status: publish
 ---
 
 <p>Es ist nicht einfach, als Künstlerin oder als Künstler zu leben. Die meisten Schriftsteller halten sich mit Kolumnen, Brotjobs und gelegentlichen Stipendien über Wasser; jungen Malern und Musikern geht es nicht besser. <a href="https://de.creativecommons.org/index.php/was-ist-cc/">Creative Commons Lizenzen</a> werden daher von Kreativen noch immer skeptisch bewertet. Die Zeit für Kreativität ist begrenzt, warum sollte man seine Inhalte gratis abgeben? Vier Modelle aus der Digitalwirtschaft zeigen, warum sich Gratis-Angebote und freie Lizenzen lohnen, um dauerhaft eine Existenz als KünstlerIn zu sichern. <!-- more -->

@@ -1,11 +1,7 @@
 ---
-layout: post
 title: refugeephrasebook
-date: 2015-11-08 23:45:50.000000000 +01:00
-type: post
-parent_id: '0'
-published: true
-status: publish
+date: 2015-11-08 22:45:50 Z
+permalink: "/refugeephrasebook/"
 categories:
 - Notizen
 tags:
@@ -15,8 +11,12 @@ tags:
 - Open Data
 - projects
 - refugeeswelcome
-permalink: "/refugeephrasebook/"
+layout: post
+type: post
+parent_id: '0'
+status: publish
 ---
+
 <p>
 				<em>As the collaboration on this project involves friends from many countries, this blog post is in English. Writing in a different language seems to foster brevity as well.</em></p>
 <p>My blog has become very quiet during the last months. A few things have changed. I found a new apartment, renovated the old one. Instead the planned exploration of Prenzlauer Berg, I got involved in a little side project, <a href="http://www.refugeephrasebook.de">refugeephrasebook.de</a> which quickly proceeded to fill the remaining free time.</p>

@@ -1,9 +1,10 @@
 ---
-layout: page
-title:  "Portfolio"
-twitter-large-image: "/assets/img/2019/09/symbolbild_sichtbarkeit_twitter.png"
+title: Portfolio
 permalink: "/portfolio/"
+layout: page
+twitter-large-image: "/assets/img/2019/09/symbolbild_sichtbarkeit_twitter.png"
 ---
+
 Seit 2012 entwickle und gestalte ich digitale Projekte mit Unternehmen, wissenschaftlichen Einrichtungen und NGOs. Dabei interessiert mich besonders, wie Zusammenarbeit, Sichtbarkeit und Lernen im Digitalen (besser?) gelingt.
 
 Im Studium studierte ich zuerst Germanistik und lernte, Geschichten und Kulturen besser zu verstehen. Nebenbei fand ich zum Programmieren und gestaltete Websites. Nach der Promotion zog ich nach Berlin und war erst im Verlagswesen tätig, später als Projektleiter bei der Open Knowledge Foundation und als Berater. Seit Ende 2019 arbeite ich nun als Senior Projektmanager Digital Learning bei der Cornelsen eCademy GmbH. 

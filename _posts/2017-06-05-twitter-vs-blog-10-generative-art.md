@@ -1,10 +1,7 @@
 ---
-layout: post
 title: Bewegte Bilder&#58; Generative Art im Webdesign
-date: 2017-06-05 20:33:10.000000000 +02:00
-type: post
-published: true
-status: publish
+date: 2017-06-05 18:33:10 Z
+permalink: "/twitter-vs-blog-10-generative-art/"
 categories:
 - Notizen
 tags:
@@ -12,8 +9,11 @@ tags:
 - generative art
 - Social Media
 - Webdesign
-permalink: "/twitter-vs-blog-10-generative-art/"
+layout: post
+type: post
+status: publish
 ---
+
 <figure>
     <img src="/assets/img/2019/09/codepen-example.png" />
     <figcaption>

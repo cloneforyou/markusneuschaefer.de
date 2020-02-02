@@ -1,22 +1,20 @@
 ---
-layout: "post"
-# "post" oder "no-title-post" (keine Überschrift)
-title: "Erste Schritte mit Deep Learning"
-date: "2019-09-24 15:05"
-description: 'Deep-Learning-Grundlagen mit praktischen Anwendungen: Schon mit einfachen Tutorials lassen sich brauchbare Prognosen entwickeln'
+title: Erste Schritte mit Deep Learning
+date: 2019-09-24 15:05:00 Z
+permalink: "/deep-learning-basics-neural-networks"
+categories:
+- Essays
+tags:
+- Deep Learning
+- Machine Learning
+- Tutorials
+- Weiterbildung
+layout: post
+description: 'Deep-Learning-Grundlagen mit praktischen Anwendungen: Schon mit einfachen
+  Tutorials lassen sich brauchbare Prognosen entwickeln'
 image: "/assets/img/2019/09/2019-09-Neural-Network-Homer.png"
 twitter-large-image: "/assets/img/2019/09/2019-09-Neural-Network-Homer.png"
-# large image = 2:1 ratio (w:h)
 insert-toc: true
-categories:
-- 'Essays'
-tags:
-- 'Deep Learning'
-- 'Machine Learning'
-- 'Tutorials'
-- 'Weiterbildung'
-permalink: "/deep-learning-basics-neural-networks"
-published: true
 ---
 
 <figure class="aligncenter">

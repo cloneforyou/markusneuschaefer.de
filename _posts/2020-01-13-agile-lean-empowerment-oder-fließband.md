@@ -1,19 +1,16 @@
 ---
-layout: "post"
-# "post" oder "no-title-post" (keine Überschrift)
-title: "Wissensarbeit wie am Fließband? Agile Methoden als Befähigung oder Belastung"
-date: "2020-01-13 16:17"
+title: Wissensarbeit wie am Fließband? Agile Methoden als Befähigung oder Belastung
+date: 2020-01-13 16:17:00 Z
+permalink: "/agile-empowerment-oder-fliessband"
+categories:
+- Notizen
+tags:
+- Bildung
+layout: post
 description: ''
 image: "/assets/img/2019/11/2019-11-modern-times-machine.png"
 twitter-large-image: "/assets/img/img.jpg"
-# large image = 2:1 ratio (w:h)
 insert-toc: false
-categories:
-- 'Notizen'
-tags:
-- 'Bildung'
-permalink: "/agile-empowerment-oder-fliessband"
-published: true
 ---
 
 <figure class="aligncenter">

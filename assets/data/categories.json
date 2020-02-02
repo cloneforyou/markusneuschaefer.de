@@ -1,6 +1,7 @@
 ---
-layout: null
+layout: 
 ---
+
 {
     "categories": [
         {% for category in site.categories %}

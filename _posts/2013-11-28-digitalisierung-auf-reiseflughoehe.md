@@ -1,19 +1,19 @@
 ---
-layout: post
 title: 'Zugang gestalten: Digitalisierung auf Reiseflughöhe'
-date: 2013-11-28 21:55:19.000000000 +01:00
-type: post
-parent_id: '0'
-published: true
-status: publish
+date: 2013-11-28 20:55:19 Z
+permalink: "/digitalisierung-auf-reiseflughoehe/"
 categories:
 - Notizen
 tags:
 - Digitalisierung
 - Internet
 - Wissensgesellschaft
-permalink: "/digitalisierung-auf-reiseflughoehe/"
+layout: post
+type: post
+parent_id: '0'
+status: publish
 ---
+
 <figure>
 	<img src="/assets/img/2019/09/flugzeug_fuzzy.jpg" />
 </figure>

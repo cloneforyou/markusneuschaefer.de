@@ -1,17 +1,17 @@
 ---
-layout: post
 title: Smartphones are not evil
-date: '2019-08-25 11:26'
-description: 'Die Zeit in der Bahn lässt sich auch gut zum Schreiben nutzen. Nicht das Smartphone ist das Problem, sondern das Konsumieren.'
-twitter-image: /assets/img/2019/09/2019_crop-circles-medium.png
-insert-toc: false
+date: 2019-08-25 11:26:00 Z
+permalink: "/smartphone-kreativ"
 categories:
-  - Notizen
+- Notizen
 tags:
-  - Smartphone
-  - unterwegs
-permalink: /smartphone-kreativ
-published: true
+- Smartphone
+- unterwegs
+layout: post
+description: Die Zeit in der Bahn lässt sich auch gut zum Schreiben nutzen. Nicht
+  das Smartphone ist das Problem, sondern das Konsumieren.
+twitter-image: "/assets/img/2019/09/2019_crop-circles-medium.png"
+insert-toc: false
 ---
 
 Jeden Tag verbringe ich mindestens eine Stunde in der Bahn. Währenddessen lese ich gerne etwas oder höre Podcasts. Die Zeit ließe sich aber auch produktiver nutzen. Der Blogger TCJX beschreibt ein spannendes [Experiment](https://tjcx.me/posts/consumption-distraction/): Das Telefon einen Monat lang in Bus und Bahn nur zum Schreiben nutzen, auch wenn das Ergebnis erstmal nicht besonders gut lesbar ist.

@@ -1,17 +1,16 @@
 ---
-layout: post
-title: 'edulabs-Sammlung für kuratierte Unterrichtsmaterialien'
-date: 2017-11-01 19:29:44.000000000 +01:00
-type: post
-published: true
-status: publish
+title: edulabs-Sammlung für kuratierte Unterrichtsmaterialien
+date: 2017-11-01 18:29:44 Z
+permalink: "/edulabs-oer-sammlung/"
 categories:
 - Notizen
 tags:
 - Bildung
 - OER
 - Projekte
-permalink: "/edulabs-oer-sammlung/"
+layout: post
+type: post
+status: publish
 ---
 
 <figure>

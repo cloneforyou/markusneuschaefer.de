@@ -1,21 +1,18 @@
 ---
-layout: post
 title: 'Berichte zur Wahl: Signal und Rauschen'
-date: 2013-09-22 17:56:21.000000000 +02:00
-type: post
-parent_id: '0'
-published: true
-
-status: publish
+date: 2013-09-22 15:56:21 Z
+permalink: "/wahlberichterstattung-signal-und-rauschen/"
 categories:
 - Notizen
 tags:
 - Datenjournalismus
 - Nachrichten
-
-permalink: "/wahlberichterstattung-signal-und-rauschen/"
-
+layout: post
+type: post
+parent_id: '0'
+status: publish
 ---
+
 <figure>
 	<img alt="Kinderbücher in einer Prager Buchhandlung" src="/assets/img/2013/2013_cz-buchhandlung.jpg" />
   <figcaption>

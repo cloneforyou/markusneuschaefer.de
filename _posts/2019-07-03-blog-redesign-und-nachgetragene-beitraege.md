@@ -1,14 +1,13 @@
 ---
-layout: post
-title: 'Nachtrag und Blog-Redesign'
-date: 2019-07-03 12:00:44.000000000 +01:00
-type: post
-published: true
-status: publish
+title: Nachtrag und Blog-Redesign
+date: 2019-07-03 11:00:44 Z
 categories:
 - Notizen
 tags:
 - Meta
+layout: post
+type: post
+status: publish
 ---
 
 In den letzten Monaten habe ich mich mal wieder mehr mit Projekten beschäftigt als mit dem Blog. Stattdessen war ich vor allem auf Twitter unterwegs. So geht allerdings völlig unter, was sich in der Zeit alles entwickelt hat. Ich möchte die Seite auch für den Rückblick nutzen und trage gerade ein paar kurze Notizen aus den letzten beiden Jahren nach. Also nicht wundern, falls plötzlich neue Beiträge aus der Vergangenheit auftauchen - es kommen bald wieder neue 🙂 .

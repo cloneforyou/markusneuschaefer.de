@@ -1,21 +1,23 @@
 ---
-layout: post
-title: "Change-Management und Maschinenöl"
-date: 2019-07-17 19:58:06.000000000 +01:00
-type: post
-published: true
-status: publish
+title: Change-Management und Maschinenöl
+date: 2019-07-17 18:58:06 Z
+permalink: "/organisationen-change-management-maschinenoel/"
 categories:
 - Notizen
 tags:
 - Changemanagement
 - Benjamin
-twitter-image: /assets/img/2019/09/2019-07-17_change-management.png
-description: "Gedanken zu Innovation und Change-Management: Wie gelingen Veränderungen in Organisationen, in der alles zu sehr um das Tagesgeschäft rotiert, um sich schnell umzustellen?"
-permalink: "/organisationen-change-management-maschinenoel/"
+layout: post
+type: post
+status: publish
+twitter-image: "/assets/img/2019/09/2019-07-17_change-management.png"
+description: 'Gedanken zu Innovation und Change-Management: Wie gelingen Veränderungen
+  in Organisationen, in der alles zu sehr um das Tagesgeschäft rotiert, um sich schnell
+  umzustellen?'
 redirect_from:
-  - /essays/aktives-lernen-trotz-multiple-choice.html
+- "/essays/aktives-lernen-trotz-multiple-choice.html"
 ---
+
 <div style='position:relative; padding-bottom:calc(75.00% + 44px)'><iframe src='https://gfycat.com/ifr/DefinitiveImpressionableGerenuk' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/definitiveimpressionablegerenuk-engineering-mechanics-physics-device">via Gfycat</a></p>
 
 Das folgende Zitat von Walter Benjamin bezieht sich auf Meinungen in der Gesellschaft, ich finde das Bild aber auch anregend für das Thema Change Management. Wo beginnt man damit am Besten in Organisationen, in der alles zu sehr um das Tagesgeschäft rotiert, um sich schnell umzustellen?

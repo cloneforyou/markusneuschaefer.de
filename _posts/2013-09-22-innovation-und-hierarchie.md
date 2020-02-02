@@ -1,12 +1,7 @@
 ---
-layout: post
 title: 'Open Educational Resources: Innovation und Hierarchie'
-date: 2013-09-22 15:44:04.000000000 +02:00
-type: post
-parent_id: '0'
-published: true
-
-status: publish
+date: 2013-09-22 13:44:04 Z
+permalink: "/innovation-und-hierarchie/"
 categories:
 - Notizen
 tags:
@@ -14,8 +9,12 @@ tags:
 - e-Learning
 - OER
 - Wissensgesellschaft
-permalink: "/innovation-und-hierarchie/"
+layout: post
+type: post
+parent_id: '0'
+status: publish
 ---
+
 <figure>
 	<img src="/assets/img/2013/2013_OER-konf.jpg" />
 </figure>

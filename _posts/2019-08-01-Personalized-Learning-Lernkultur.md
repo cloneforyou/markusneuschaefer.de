@@ -1,22 +1,22 @@
 ---
-layout: post
-title: "The Messy Reality: Personalisiertes Lernen und Lernkultur"
-date: 2019-08-01 11:40:06.000000000 +01:00
-type: post
-published: true
-status: publish
-description: 'Personalisiertes Lernen setzt nicht nur die entsprechende Technik, sondern auch eine bestimmte Lernumgebung voraus, um überhaupt wirksam zu sein. '
-image: "/assets/img/2019/08/2019-08-personalized-learning.png"
-twitter-large-image: "/assets/img/2019/08/2019-08-personalized-learning.png"
-# large image = 2:1 ratio (w:h)
-insert-toc: true
+title: 'The Messy Reality: Personalisiertes Lernen und Lernkultur'
+date: 2019-08-01 10:40:06 Z
+permalink: "/personalized-learning-lernkultur"
 categories:
 - Notizen
 tags:
-- 'Personalized Learning'
-- 'e-Learning'
-permalink: "/personalized-learning-lernkultur"
+- Personalized Learning
+- e-Learning
+layout: post
+type: post
+status: publish
+description: 'Personalisiertes Lernen setzt nicht nur die entsprechende Technik, sondern
+  auch eine bestimmte Lernumgebung voraus, um überhaupt wirksam zu sein. '
+image: "/assets/img/2019/08/2019-08-personalized-learning.png"
+twitter-large-image: "/assets/img/2019/08/2019-08-personalized-learning.png"
+insert-toc: true
 ---
+
 <figure class="aligncenter">
 	<img width="200" src="/assets/img/2019/08/2019-08-personalized-learning.png" alt ="Bild: Person vor dem Computer"/>
 	<figcaption>Bild: <a href="https://unsplash.com/photos/4-EeTnaC1S4">Wes Hicks bei unsplash.com</a>, bearbeitet mit <a href="https://umeecorn.com/Polyvia/image.html">Polyvia</a></figcaption>

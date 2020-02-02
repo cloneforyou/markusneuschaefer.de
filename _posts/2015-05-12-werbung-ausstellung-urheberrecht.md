@@ -1,11 +1,7 @@
 ---
-layout: post
 title: Werbung für eine Berliner Ausstellung und faires Urheberrecht
-date: 2015-05-12 22:09:09.000000000 +02:00
-type: post
-parent_id: '0'
-published: true
-status: publish
+date: 2015-05-12 20:09:09 Z
+permalink: "/werbung-ausstellung-urheberrecht/"
 categories:
 - Notizen
 tags:
@@ -13,8 +9,12 @@ tags:
 - Kunst
 - Lizenzen
 - Open GLAM
-permalink: "/werbung-ausstellung-urheberrecht/"
+layout: post
+type: post
+parent_id: '0'
+status: publish
 ---
+
 <figure>
     <img src="/assets/img/2019/09/eule-im-wald.jpg" />
     <figcaption>

@@ -1,14 +1,13 @@
 ---
-layout: page
-title:  "Themen"
-twitter-large-image: "/assets/img/2019/09/symbolbild_workshops_twitter.png"
-description: 'Beratung und Projektmanagement zu digitaler Transformation, Bildung und e-Learning, Wissensmanagement und Contentmarketing'
-published: true
+title: Themen
 permalink: "/themen/"
+layout: page
+twitter-large-image: "/assets/img/2019/09/symbolbild_workshops_twitter.png"
+description: Beratung und Projektmanagement zu digitaler Transformation, Bildung und
+  e-Learning, Wissensmanagement und Contentmarketing
 redirect_from:
-  - /leistungen.html
+- "/leistungen.html"
 ---
-
 
 Aktuell lese/schreibe/lerne ich vor allem zu den folgenden Themen:
 

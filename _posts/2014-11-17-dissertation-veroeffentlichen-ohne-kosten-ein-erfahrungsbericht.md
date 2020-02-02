@@ -1,11 +1,7 @@
 ---
-layout: post
 title: Dissertation veröffentlichen ohne Kosten? Ein Erfahrungsbericht
-date: 2014-11-17 15:12:27.000000000 +01:00
-type: post
-published: true
-status: publish
-insert-toc: true
+date: 2014-11-17 14:12:27 Z
+permalink: "/dissertation-veroeffentlichen-ohne-kosten-ein-erfahrungsbericht/"
 categories:
 - Essays
 tags:
@@ -15,8 +11,12 @@ tags:
 - Self-Publishing
 - VG Wort
 - Wissenschaftliches Publizieren
-permalink: "/dissertation-veroeffentlichen-ohne-kosten-ein-erfahrungsbericht/"
+layout: post
+type: post
+status: publish
+insert-toc: true
 ---
+
 <figure class="aligncenter">
 	<img width="200" src="/assets/img/2019/09/Bleisatz_im_Winkelhaken.jpg" alt ="Bild: Bleisatz im Winkelhaken"/>
 	<figcaption>Bild: Wilhei, Wikimedia Commons (CC-BY). <a href="http://bit.ly/1yJClTZ">http://bit.ly/1yJClTZ</a></figcaption>

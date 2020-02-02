@@ -1,10 +1,7 @@
 ---
-layout: post
 title: Kunst für alle? Austausch und Sichtbarkeit mit freien Lizenzen
-date: 2015-05-01 17:18:06.000000000 +02:00
-type: post
-published: true
-status: publish
+date: 2015-05-01 15:18:06 Z
+permalink: "/kunst-fuer-alle-austausch-und-sichtbarkeit-mit-freien-lizenzen/"
 categories:
 - Essays
 tags:
@@ -13,8 +10,11 @@ tags:
 - Lizenzen
 - Open Access
 - Open GLAM
-permalink: "/kunst-fuer-alle-austausch-und-sichtbarkeit-mit-freien-lizenzen/"
+layout: post
+type: post
+status: publish
 ---
+
 Die Auseinandersetzung mit Kunst im Netz findet in einer rechtlichen Grauzone statt. Eine offene Bildpolitik mit freien Lizenzen bietet neue Möglichkeiten für Künstler und Kuratoren, die Chancen der Digitalisierung zu nutzen. (Gastkommentar im <a href="http://www.monopol-magazin.de/kunst-f%C3%BCr-alle">Monopol-Magazin</a>).
 
 <p>Mit seiner Ausstellung "<a href="http://www.adk.de/de/programm/aktuell/index.htm?we_objectID=34147">Kunst für alle</a>" an der Berliner Akademie der Künste möchte der Grafiker, Sammler und Akademiepräsident Klaus Staeck den Menschen wieder Mut machen, von ihrer Kreativität Gebrauch zu machen. Die ausgestellten "Multiples" zielen auf eine Befreiung der Kunst aus dem bürgerlichen Ghetto, eine Öffnung des geschlossenen Kunstsystems nach dem Motto von Joseph Beuys: "Ich bin interessiert an der Verbreitung von physischen Vehikeln in Form von Editionen, weil ich an der Verbreitung von Ideen interessiert bin."</p>

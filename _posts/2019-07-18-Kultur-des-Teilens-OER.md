@@ -1,17 +1,17 @@
 ---
-layout: no-title-post
-title: ""
-date: 2019-07-18 11:40:06.000000000 +01:00
-type: post
-published: true
-status: publish
-description: 'Schönes Beispiel für Offene Bildung: Ein Lehrer aus Odessa teilt seine Unterrichtsstunden per Youtube'
+title: ''
+date: 2019-07-18 10:40:06 Z
 permalink: "/kultur-des-teilens-oer"
 categories:
 - Notizen
 tags:
-- 'Open Educational Resources'
-- 'Offene Bildung'
+- Open Educational Resources
+- Offene Bildung
+layout: no-title-post
+type: post
+status: publish
+description: 'Schönes Beispiel für Offene Bildung: Ein Lehrer aus Odessa teilt seine
+  Unterrichtsstunden per Youtube'
 ---
 
 Apropos OER:
