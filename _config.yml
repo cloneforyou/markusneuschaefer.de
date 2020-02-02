@@ -14,7 +14,7 @@ defaults:
     type: posts
   values:
     comments: 'true'
-name: Dr. Markus Neuschäfer
+name: Markus Neuschäfer
 job_title: "✅Projekte \U0001F4A1Lernen ❤️Open Culture"
 email: m.neuschaefer@gmail.com
 description: Willkommen auf meiner Seite, hier notiere ich Gedanken und Links zu vielem,
@@ -49,7 +49,7 @@ fixed_sidebar: 0
 future: false
 show_drafts: false
 url: https://markusneuschaefer.de
-baseurl: ''
+baseurl: 
 include:
 - _pages
 permalink: "/:title.html"
