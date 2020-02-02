@@ -1,16 +1,16 @@
 ---
 title: Wissensarbeit wie am Fließband? Agile Methoden als Befähigung oder Belastung
-date: 2020-01-13 16:17:00 Z
+date: 2020-01-13 17:17:00 +01:00
 permalink: "/agile-empowerment-oder-fliessband"
 categories:
 - Notizen
 tags:
 - Bildung
-layout: post
-description: ''
+description: 
 image: "/assets/img/2019/11/2019-11-modern-times-machine.png"
 twitter-large-image: "/assets/img/img.jpg"
 insert-toc: false
+layout: post
 ---
 
 <figure class="aligncenter">
@@ -19,7 +19,7 @@ insert-toc: false
 </figcaption>
 </figure>
 
-Das Thema *Change Management* beschäftigt mich schon länger: Viele Organisationen bemühen sich zur Zeit - nicht nur im IT-Bereich - Prozesse und Strukturen möglichst *agil* und *lean* zu gestalten. Dies geht allerdings nicht immer gut. Jede Veränderung eingespielter Abläufe kann auf Widerstand stoßen und Stress erzeugen, was die kurzfristigen Steigerung der Produktivität durch die Aussicht auf höhere Krankheits- und Abwanderungsquoten gefährdet. Diese Entwicklungen werden dann meist Fehlern bei der Umsetzung zugeschrieben oder einer ungünstigen Firmenkultur. Die – sehr lesenswerte – Studie "**Lean und agil im Büro**" (<a href="https://oapen.org/download?type=document&docid=643153">PDF der Open Access-Ausgabe hier</a>) von Andreas Boes, Tobias Kämpf, Barbara Langes und Thomas Lühr untersucht die "eingebauten" Schwierigkeiten bei agiler Transformation genauer, anhand mehrerer Fallstudien. Besonders die Beschreibung der veränderten Expertenrolle fand ich sehr anregend, daher zitiere ich hier etwas ausführlicher aus den Notizen.
+Das Thema *Change Management* beschäftigt mich schon länger: Viele Organisationen bemühen sich zur Zeit - nicht nur im IT-Bereich - Prozesse und Strukturen möglichst *agil* und *lean* zu gestalten. Dies geht allerdings nicht immer gut. Jede Veränderung eingespielter Abläufe kann auf Widerstand stoßen und Stress erzeugen, was die kurzfristigen Steigerung der Produktivität durch die Aussicht auf höhere Krankheits- und Abwanderungsquoten gefährdet. Diese Entwicklungen werden dann meist Fehlern bei der Umsetzung zugeschrieben oder einer ungünstigen Firmenkultur. Die sehr lesenswerte Studie "**Lean und agil im Büro**" (<a href="https://oapen.org/download?type=document&docid=643153">PDF der Open Access-Ausgabe hier</a>) von Andreas Boes, Tobias Kämpf, Barbara Langes und Thomas Lühr untersucht die "eingebauten" Schwierigkeiten bei agiler Transformation genauer, anhand mehrerer Fallstudien. Besonders die Beschreibung der veränderten Expertenrolle fand ich sehr anregend, daher zitiere ich hier etwas ausführlicher aus den Notizen.
 
 <!-- more -->
  
