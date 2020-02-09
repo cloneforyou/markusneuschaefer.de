@@ -1,6 +1,5 @@
 ---
 title: markusneuschaefer.de
-site_name: markusneuschaefer.de
 timezone: Europe/Berlin
 collections:
   posts:
@@ -15,6 +14,7 @@ defaults:
     type: posts
   values:
     comments: 'true'
+site_name: markusneuschaefer.de
 name: Markus Neuschäfer
 job_title: "✅Projekte \U0001F4A1Lernen ❤️Open Culture"
 email: m.neuschaefer@gmail.com
