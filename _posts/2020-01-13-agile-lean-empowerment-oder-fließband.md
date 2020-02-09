@@ -6,7 +6,10 @@ categories:
 - Notizen
 tags:
 - Bildung
-description: 
+description: Mit der Umsetzung agiler Methoden werden Abläufe transparent und 'Expertensilos'
+  geöffnet. Aus der Perspektive von Expertenkulturen wird dies aber vielfach als 'Angriff'
+  und Mangel an Wertschätzung gedeutet. Der Wegfall von Privilegien muss durch greifbare
+  Vorteile kompensiert werden, soll die Umstellung nicht scheitern
 image: "/assets/img/2019/11/2019-11-modern-times-machine.png"
 twitter-large-image: "/assets/img/img.jpg"
 insert-toc: false
