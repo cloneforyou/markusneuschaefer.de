@@ -2,9 +2,6 @@
 title: markusneuschaefer.de
 timezone: Europe/Berlin
 collections:
-  assets-img:
-    title: Media
-    output: true
   posts:
     title: Posts
     output: true
