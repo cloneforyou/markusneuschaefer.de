@@ -1,17 +1,20 @@
 ---
-layout: "post"
-title: "Online Social Events mit virtuellen Partytischen"
-date: "2020-03-18 20:10 +01:00"
+title: Online Social Events mit virtuellen Partytischen
+date: 2020-03-18 20:10:00 +01:00
 permalink: "/host-social-events-online-circles"
 categories:
 - Notizen
 tags:
 - Coworking
-description: Videokonferenzen und Webinare sind krisenbedingt Alltag geworden, wie aber stellen wir eine größere Party oder ein Treffen online nach? Mit Hilfe von mehreren Webinar-Zugangslinks in einer Padlet-Übersicht lassen sich übliche Gruppenkonstellationen als "virtuelle Tische" nachbilden. Auf diese Weise können Gruppen selbstgesteuert und ohne Facilitator Gesprächsgruppen wechseln. 
+layout: post
+description: Videokonferenzen und Webinare sind krisenbedingt Alltag geworden, wie
+  aber stellen wir eine größere Party oder ein Treffen online nach? Mit Hilfe von
+  mehreren Webinar-Zugangslinks in einer Padlet-Übersicht lassen sich übliche Gruppenkonstellationen
+  als "virtuelle Tische" nachbilden. Auf diese Weise können Gruppen selbstgesteuert
+  und ohne Facilitator Gesprächsgruppen wechseln.
 image: "/assets/img/2019/11/2019-11-modern-times-machine.png"
 twitter-large-image: "/assets/img/2020/03/remote-beach-party-800x400.png"
 insert-toc: false
-layout: post
 ---
 
 <figure class="aligncenter">
