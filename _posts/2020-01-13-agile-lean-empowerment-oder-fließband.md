@@ -3,7 +3,7 @@ title: Wissensarbeit wie am Fließband? Agile Methoden als Befähigung oder Bela
 date: 2020-01-13 17:17:00 +01:00
 permalink: "/agile-empowerment-oder-fliessband"
 categories:
-- Notizen
+- Essays
 tags:
 - Bildung
 description: Mit der Umsetzung agiler Methoden werden Abläufe transparent und 'Expertensilos'
