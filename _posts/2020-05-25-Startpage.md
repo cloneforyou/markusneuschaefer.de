@@ -1,20 +1,18 @@
 ---
-layout: no-title-post
-slug: post_slug
-hidden: true
-title: ""
-date: "2020-05-25 20:10 +01:00"
+title: ''
+date: 2020-05-25 21:10:00 +02:00
 permalink: "/main"
 categories:
 - Notizen
 tags:
 - Startpage
-description: "" 
+layout: no-title-post
+hidden: true
+description: ''
 image: "/assets/img/2013/2013_Felder.jpg"
 twitter-large-image: "/assets/img/2013/2013_Felder.jpg"
 insert-toc: false
 ---
-
 
 _Willkommen auf meiner Website, hier notiere ich Gedanken und Links zu Themen, die ich gerade verfolge. Ich freue mich über Gespräche und Anregungen, erreichbar bin ich am besten via <a href='http://twitter.com/mneuschaefer'>Twitter</a>, [Linkedin](https://www.linkedin.com/in/markus-neusch%C3%A4fer-5b02076b/) oder <a href='mailto:mail@markusneuschaefer.de'>Email</a>._
 
