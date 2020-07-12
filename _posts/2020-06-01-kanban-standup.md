@@ -1,7 +1,6 @@
 ---
-layout: "post"
-title: "Das Daily-Standup aktiver gestalten"
-date: "2020-06-01 20:10 +01:00"
+title: Das Daily-Standup aktiver gestalten
+date: 2020-06-01 21:10:00 +02:00
 permalink: "/daily-standup-aktiver-gestalten"
 categories:
 - Notizen
@@ -9,9 +8,9 @@ tags:
 - kanban
 - daily
 - gamification
+layout: post
 description: 
 insert-toc: false
-layout: post
 ---
 
 <iframe src="https://player.vimeo.com/video/164459893?byline=0&portrait=0" width="640" height="328" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
