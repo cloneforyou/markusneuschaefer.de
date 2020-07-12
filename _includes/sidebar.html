@@ -25,7 +25,7 @@
         {% endif %}
     {% endif %}
 
-    <p class="about-me">{{ site.description }}</p>
+    <!-- <p class="about-me">{{ site.description }}</p> -->
 
     <ul class="socials">
         {% for social in site.social_networks %}{% if social.url != '' %}<li><a href="{{social.url}}"><svg title="{{social.name}}" width="16" height="16" {% if social.name == 'applemusic' %} style="margin: 0 0 0 -2px" {% endif %}><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="{{ site.baseurl | prepend: site.url }}/assets/svg/social-icons.svg#{{social.name}}-icon"></use></svg></a></li>{% endif %}{% endfor %}
@@ -44,7 +44,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="{{ site.baseurl | prepend: site.url }}/datenschutz.html">Datenschutz</a>
     <br>
-    <span id="ga-optout-sidebar">Diese Seite nutzt Google Analytics (mit Ano&shy;ny&shy;mi&shy;sie&shy;rungs&shy;funktion). Dies lässt sich <a href="javascript:gaOptout()">hier mit einem Klick deaktivieren</a></span>.
+      <span id="ga-optout-sidebar">Google Analytics <a href="javascript:gaOptout()">deaktivieren</a></span>.
+    <!-- <span id="ga-optout-sidebar">Google Analytics (mit Ano&shy;ny&shy;mi&shy;sie&shy;rungs&shy;funktion). Dies lässt sich <a href="javascript:gaOptout()">hier mit einem Klick deaktivieren</a></span>. -->
     <br>
     Eigene Texte <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
   </p>

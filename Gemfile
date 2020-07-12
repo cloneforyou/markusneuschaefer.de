@@ -20,7 +20,7 @@ group :jekyll_plugins do
     gem 'sassc'
     # gem 'jekyll-sass-converter', git: 'https://github.com/jekyll/jekyll-sass-converter', branch: 'master'
 gem 'jekyll-redirect-from'
-gem "jekyll", "3.8.6"
+gem "jekyll", github: "jekyll/jekyll"
 gem 'rake-contrib'
 # gem 'jekyll-toc'
 # gem 'jekyll-ftp'

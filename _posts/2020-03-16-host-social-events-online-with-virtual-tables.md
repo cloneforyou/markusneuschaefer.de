@@ -8,20 +8,14 @@ categories:
 tags:
 - Coworking
 description: Videokonferenzen und Webinare sind krisenbedingt Alltag geworden, wie aber stellen wir eine größere Party oder ein Treffen online nach? Mit Hilfe von mehreren Webinar-Zugangslinks in einer Padlet-Übersicht lassen sich übliche Gruppenkonstellationen als "virtuelle Tische" nachbilden. Auf diese Weise können Gruppen selbstgesteuert und ohne Facilitator Gesprächsgruppen wechseln. 
-image: "/assets/img/2019/11/2019-11-modern-times-machine.png"
+image: "/assets/img/2020/03/remote-beach-party-800x400.png"
 twitter-large-image: "/assets/img/2020/03/remote-beach-party-800x400.png"
 insert-toc: false
 layout: post
 ---
 
-<figure class="aligncenter">
-<img width="200" src="/assets/img/2020/03/group-hosting-virtual-tables.png" alt ="Virtuelle Tische in Padlet"/>
-<figcaption>Virtuelle "Tische" mit Webinar-Links in Padlet/a>
-</figcaption>
-</figure>
-
 _Videokonferenzen und Webinare sind krisenbedingt Alltag geworden, wie aber stellen wir eine größere Party oder ein Treffen online nach? Mit Hilfe von mehreren Webinar-Zugangslinks in einer Padlet-Übersicht lassen sich übliche Gruppenkonstellationen als "virtuelle Tische" nachbilden. Auf diese Weise können Gruppen selbstgesteuert und ohne Facilitator Gesprächsgruppen wechseln._
-
+<!-- more -->
 Aktuell arbeite ich wieder regelmäßig im homeoffice, durch die COVID-19-Pandemie haben sich zudem auch Treffen mit Freunden auf Remote-Begegnungen und Webinare verschoben. 
 
 Um soziale Events mit größeren Gruppen nachzubilden, stoßen die meisten Tools allerdings an ihre Grenzen, da sie für 'konzentrierte' Formate konzipiert wurden. Die meisten Online-Meetings sind eigentlich Workshopformate; alle Teilnehmenden konzentrieren sich auf vorher verabredete Themen. 

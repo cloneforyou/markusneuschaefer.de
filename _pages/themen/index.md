@@ -11,8 +11,11 @@ redirect_from:
 
 Aktuell lese/schreibe/lerne ich vor allem zu den folgenden Themen:
 
+<!-- <figure class="aligncenter">
+	<img width="200" src="/assets/img/2019/09/symbolbild_projekte.png" alt ="Bild: Kollaboratives Arbeiten mit Post-its"/>
+</figure> -->
 <figure class="aligncenter">
-	<img src="/assets/img/2019/09/symbolbild_workshops.png" alt ="Bild: Zusammenarbeit mit Laptops"/>
+	<img src="/assets/img/2019/09/symbolbild_workshops.png" alt ="Bild: Zusammenarbeit bei Workshops"/>
 </figure>
 
 ## Digital gestütztes Lernen und Arbeiten
@@ -22,9 +25,6 @@ Aktuell lese/schreibe/lerne ich vor allem zu den folgenden Themen:
 - Konzeption, Planung und Umsetzung von e-Learning- und digitalen Bildungsprojekten
 
 ## Agile Transformation
-<!-- <figure class="aligncenter">
-	<img width="200" src="/assets/img/2019/09/symbolbild_projekte.png" alt ="Bild: Kollaboratives Arbeiten mit Post-its"/>
-</figure> -->
 
 - Projektmanagement- und Delivery-Frameworks (Scrum / Kanban / PRINCE2)
 - Agile und Lean in Multiprojektumgebungen (IT / Content / Marketing)
