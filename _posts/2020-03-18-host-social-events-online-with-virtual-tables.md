@@ -53,7 +53,7 @@ Oder in Mural, mit einem Beach-Party-Thema:
 
 Statt Zoom lassen sich natürlich auch Links in mit dem Open Source-Webinar-Tool [Jitsi](https://meet.jit.si/) anlegen. Dies kann man auch auf dem eigenen Server installieren und damit die Performance der kostenlosen Version noch verbessern.
 
-Ich ergänze den Post später noch um meine Erfahrungen, gestern Abend zumindest hat das erste remote-Afterwork-Bier schon gut geklappt. Heute dann die Fortsetzung; und bei allem was im Moment vor sich geht, haben wir bestimmt wieder viel zu erzählen. 
+Gestern Abend zumindest hat das erste remote-Afterwork-Bier schon gut geklappt. Heute dann die Fortsetzung; und bei allem was im Moment vor sich geht, haben wir bestimmt wieder viel zu erzählen. 
 
 
 
