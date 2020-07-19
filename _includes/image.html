@@ -1,0 +1,35 @@
+{% capture imagePath %}{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | slugify }}/{{ include.name }}{% endcapture %}
+{% if include.caption %}
+    <figure  class="aligncenter">
+        <img src="/assets/posts/{{ imagePath }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
+        <figcaption>{{ include.caption }}</figcaption>
+    </figure>
+{% else %}
+    <figure  class="aligncenter">
+      <img src="/assets/posts/{{ imagePath }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
+    </figure>
+{% endif %}
+
+<!-- from https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html
+
+This file expects the image name, the caption and the alt text (the last two are optional), figures out the image path name (line 1) by slugifying the concatenation of the post date, the title and the image name, and based on the arguments passed write either a <figure>/<figcaption> or a plain old <img>.
+
+So now when I want to include an image in a post I just add:
+
+{% include image name="linkedin-before.png" caption="Sharing my blog on LinkedIn" %} 
+.
+├── assets
+|   ├── images (my layout images)
+|   └── posts (my post images)
+|       └── 2014-10-09-the-story-behind-my-website
+|           ├── editing.jpg
+|           └── studio.jpg
+
+
+
+-->
+<figure class="aligncenter">
+<img width="200" src="/assets/img/2019/11/2019-11-modern-times-manager.png" alt ="Screenshot aus Modern Times: Chef liest Zeitung"/>
+<figcaption>Screenshot aus <a href="https://www.youtube.com/embed/HPSK4zZtzL">Modern Times</a>
+</figcaption>
+</figure>

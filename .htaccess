@@ -22,3 +22,9 @@
   ExpiresByType application/pdf "access plus 1 month"
   ExpiresByType application/x-shockwave-flash "access plus 1 month"
 </IfModule>
+
+<If "-f '%{DOCUMENT_ROOT}%{REQUEST_URI}.html'">
+        RewriteEngine on
+        RewriteRule ^(.*)$ $1.html
+</If>
+

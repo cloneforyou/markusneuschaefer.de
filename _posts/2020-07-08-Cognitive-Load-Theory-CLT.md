@@ -1,7 +1,9 @@
 ---
-title: 'Weniger Belastung, besseres Lernen: Grundlagen der Cognitive Load Theory (CLT)'
-date: 2020-07-07 21:00:00 +02:00
+layout: post
+title: "Weniger Belastung, besseres Lernen: Grundlagen der Cognitive Load Theory (CLT)"
+date: "2020-07-08"
 permalink: "/ueberblick-cognitive-load-theory-clt"
+description: Hier entsteht eine Linkliste zur Cognitive Load Theory (CLT), um E-Learning-Angebote wirksamer und ansprechender zu gestalten
 categories:
 - Notizen
 tags:
@@ -10,15 +12,16 @@ tags:
 - CLT
 - Kognitive Psychologie
 - Lerntheorien
-layout: post
-description: Hier entsteht eine Linkliste zur Cognitive Load Theory (CLT), um E-Learning-Angebote
-  wirksamer und ansprechender zu gestalten
 insert-toc: false
 ---
 
-*Empirische Studien zur Lernpsychologie können helfen, E-Learning ansprechender und wirkungsvoller zu gestalten. Während konstruktivistische, systemische oder konnektionistische Ansätze vor allem die Rahmenbedingungen und Wirkungsmöglichkeiten untersucht, betrachtet die __Cognitive Load Theory (CLT)__ die kognitive Belastung beim Lernen, und mit welchen Mitteln es erleichtert werden kann.*
+*Die Cognitive Load Theory (CLT) bietet eine gute Entscheidungsgrundlage bei der Gestaltung von E-Learning-Projekten. In diesem Beitrag sammele ich Literaturhinweise zum Einstieg.*
 
-Bei der Gestaltung von E-Learning-Materialien sind viele konzeptuelle und gestalterische Entscheidungen zu treffen: Wie werden Bild und Text angeordnet und in welchem Verhältnis sind diese einzusetzen? Wann sind interaktive Elemente sinnvoll und wie sollten diese aufgebaut sein? Erfahrene E-Learning-Gestalter\*innen beantworten diese Fragen meist intuitiv oder mit Hilfe von User Testing-Methoden aus dem UX-Design. In diesem wachsenden Artikel sammele ich konkrete Anregungen aus der Cognitive Load Theory (CBT), die sich bei der Gestaltung von E-Learning-Einheiten anwenden lassen. Dabei werden bevorzugt solche Prinzipen gesammelt, die sich auf empirische Studien stützen. 
+Bei der Gestaltung von E-Learning-Materialien sind viele konzeptuelle und gestalterische Entscheidungen zu treffen: Wie werden Bild und Text angeordnet und in welchem Verhältnis sind diese einzusetzen? Wann sind interaktive Elemente sinnvoll und wie sollten diese aufgebaut sein? Erfahrene E-Learning-Gestalter\*innen beantworten diese Fragen meist intuitiv oder mit Hilfe von User Testing-Methoden aus dem UX-Design. 
+
+Empirische Studien zur Lernpsychologie können helfen, E-Learning ansprechender und wirkungsvoller zu gestalten. Während sich konstruktivistische, systemische oder konnektivistische Ansätze eher auf die Rahmenbedingungen und Ziele des Lernens konzentrieren, betrachtet die __Cognitive Load Theory (CLT)__ die Ebene der kognitiven Prozesse beim Lernen, und mit welchen Mitteln unnötige Belastungen verringert werden können.
+
+
 
 ## Einführungen
 - [Wikipedia-Artikel zur Cognitive Load Theory](https://en.wikipedia.org/wiki/Cognitive_load)
@@ -37,7 +40,7 @@ Bei der Gestaltung von E-Learning-Materialien sind viele konzeptuelle und gestal
 ### Kollaboratives Lernen
 Kent, C., & Cukurova, M. (2020). Investigating Collaboration as a Process with Theory-driven Learning Analytics. Journal of Learning Analytics, 7(1), 59–71. https://doi.org/10.18608/jla.2020.71.5 (CC-BY-NC-ND)
 
-(Der Artikel ist noch work in progress, Anmerlungen und weitere Literaturhinweise gerne in diesem [Hackmd-Dokument](https://hackmd.io/mYLlpKecQSKwX1jmAR2V2A?both) ergänzen )
+(Der Artikel ist noch work in progress, Anmerkungen und weitere Literaturhinweise gerne in diesem [Hackmd-Dokument](https://hackmd.io/mYLlpKecQSKwX1jmAR2V2A?both) ergänzen )
 
 
 
