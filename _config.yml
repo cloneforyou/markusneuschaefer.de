@@ -1,5 +1,6 @@
 ---
 title: markusneuschaefer.de
+include: ['.htaccess']
 timezone: Europe/Berlin
 collections:
   posts:

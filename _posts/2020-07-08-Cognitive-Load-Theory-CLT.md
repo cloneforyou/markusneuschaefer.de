@@ -19,8 +19,7 @@ insert-toc: false
 
 Bei der Gestaltung von E-Learning-Materialien sind viele konzeptuelle und gestalterische Entscheidungen zu treffen: Wie werden Bild und Text angeordnet und in welchem Verhältnis sind diese einzusetzen? Wann sind interaktive Elemente sinnvoll und wie sollten diese aufgebaut sein? Erfahrene E-Learning-Gestalter\*innen beantworten diese Fragen meist intuitiv oder mit Hilfe von User Testing-Methoden aus dem UX-Design. 
 
-Empirische Studien zur Lernpsychologie können helfen, E-Learning ansprechender und wirkungsvoller zu gestalten. Während sich konstruktivistische, systemische oder konnektivistische Ansätze eher auf die Rahmenbedingungen und Ziele des Lernens konzentrieren, betrachtet die __Cognitive Load Theory (CLT)__ die Ebene der kognitiven Prozesse beim Lernen, und mit welchen Mitteln unnötige Belastungen verringert werden können.
-
+Empirische Studien zur Lernpsychologie können helfen, E-Learning ansprechender und wirkungsvoller zu gestalten. Während sich konstruktivistische, systemische oder konnektivistische Ansätze eher auf die Rahmenbedingungen und Ziele des Lernens konzentrieren, betrachtet die __Cognitive Load Theory (CLT)__ die Ebene der kognitiven Prozesse beim Lernen und mit welchen Mitteln unnötige Belastungen verringert werden können.
 
 
 ## Einführungen
