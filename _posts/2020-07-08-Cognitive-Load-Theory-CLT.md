@@ -1,9 +1,7 @@
 ---
-layout: post
-title: "Weniger Belastung, besseres Lernen: Grundlagen der Cognitive Load Theory (CLT)"
-date: "2020-07-08"
+title: 'Weniger Belastung, besseres Lernen: Grundlagen der Cognitive Load Theory (CLT)'
+date: 2020-07-08 00:00:00 +02:00
 permalink: "/ueberblick-cognitive-load-theory-clt"
-description: Hier entsteht eine Linkliste zur Cognitive Load Theory (CLT), um E-Learning-Angebote wirksamer und ansprechender zu gestalten
 categories:
 - Notizen
 tags:
@@ -12,6 +10,9 @@ tags:
 - CLT
 - Kognitive Psychologie
 - Lerntheorien
+layout: post
+description: Hier entsteht eine Linkliste zur Cognitive Load Theory (CLT), um E-Learning-Angebote
+  wirksamer und ansprechender zu gestalten
 insert-toc: false
 ---
 
