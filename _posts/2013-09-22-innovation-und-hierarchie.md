@@ -16,7 +16,7 @@ status: publish
 ---
 
 <figure>
-	<img src="/assets/img/2013/2013_OER-konf.jpg" />
+	<img src="/assets/img/2013/09/2013_OER-konf.jpg" />
 </figure>
 
 <p>

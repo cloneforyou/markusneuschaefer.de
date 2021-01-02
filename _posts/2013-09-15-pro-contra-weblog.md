@@ -11,7 +11,7 @@ status: publish
 ---
 
 <figure>
-	<img src="/assets/img/2013/2013_Felder.jpg" />
+	<img src="/assets/img/2013/09/2013_Felder.jpg" />
   <figcaption>
   Bild: Satellitenbild von Feldern in Kansas, USA. Quelle: Nasa / Wikipedia, <a title="bit.ly/17whx42" href="http://bit.ly/17whx42">bit.ly/17whx42</a> (Public Domain)
   </figcaption>

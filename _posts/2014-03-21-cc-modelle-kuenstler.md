@@ -24,7 +24,7 @@ status: publish
 
 
 <figure class="alignright">
-	<img width="250" src="/assets/img/2014/2014_KevinKellySF.png" />
+	<img width="250" src="/assets/img/2014/03/2014_KevinKellySF.png" />
     <figcaption>Bild: <a href="http://en.wikipedia.org/wiki/File:KevinKellySF.png">Aeranis</a>, <a href="http://creativecommons.org/licenses/by/3.0/deed.en">CC-BY</a></figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ status: publish
 </ul>
 
 <figure class="alignright">
-	<img width="250" src="/assets/img/2014/2014_FredWilsonJI1.jpg" />
+	<img width="250" src="/assets/img/2014/03/2014_FredWilsonJI1.jpg" />
     <figcaption>Fred Wilson (Investor). Bild: <a href="http://en.wikipedia.org/wiki/File:FredWilsonJI1.jpg">Wikipedia</a>, Lizenz: <a href="https://creativecommons.org/licenses/by/3.0/de/">CC-BY</a></figcaption>
 </figure>
 

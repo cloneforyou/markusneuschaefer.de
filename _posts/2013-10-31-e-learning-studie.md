@@ -27,7 +27,7 @@ author:
 ---
 
 <figure>
-	<img src="/assets/img/2015/2015_schule_frueher.jpg" />
+	<img src="/assets/img/2013/10/2013_schule_frueher.jpg" />
 </figure>
 
 <p>

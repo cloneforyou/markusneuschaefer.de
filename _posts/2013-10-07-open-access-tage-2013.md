@@ -14,7 +14,7 @@ status: publish
 ---
 
 <figure>
-	<img src="/assets/img/2013/2013_OA-Tage2013.jpg" />
+	<img src="/assets/img/2013/10/2013_OA-Tage2013.jpg" />
   <figcaption>
   Bild: Podiumsdiskussion bei den Open-Access-Tagen 2013
   </figcaption>

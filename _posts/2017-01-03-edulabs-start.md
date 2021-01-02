@@ -14,7 +14,7 @@ status: publish
 ---
 
 <figure>
-    <img src="/assets/img/2017/2017_edulabs_title_img.png" />
+    <img src="/assets/img/2017/01/2017_edulabs_title_img.png" />
     <figcaption>
     Bild: Titelgrafik von <a href="https://www.edulabs.de">edulabs.de</a> | CC-BY 4.0
     </figcaption>

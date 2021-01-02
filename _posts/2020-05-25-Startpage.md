@@ -9,8 +9,8 @@ tags:
 layout: no-title-post
 hidden: true
 description: ''
-image: "/assets/img/2013/2013_Felder.jpg"
-twitter-large-image: "/assets/img/2013/2013_Felder.jpg"
+image: "/assets/img/2013/09/2013_Felder.jpg"
+twitter-large-image: "/assets/img/2013/09/2013_Felder.jpg"
 insert-toc: false
 ---
 
