@@ -1,6 +1,5 @@
 ---
 title: markusneuschaefer.de
-include: ['.htaccess']
 timezone: Europe/Berlin
 collections:
   posts:
@@ -15,6 +14,8 @@ defaults:
     type: posts
   values:
     comments: 'true'
+include:
+- _pages
 site_name: markusneuschaefer.de
 name: Markus Neuschäfer
 job_title: "✅Projekte \U0001F4A1Lernen ❤️Open Culture"
@@ -52,8 +53,6 @@ future: false
 show_drafts: false
 url: https://markusneuschaefer.de
 baseurl: 
-include:
-- _pages
 permalink: "/:title.html"
 category_dir: categories
 paginate: 10
