@@ -1,6 +1,6 @@
 ---
 title: 'Open Educational Resources: Innovation und Hierarchie'
-date: 2013-09-22 13:44:04 Z
+date: 2013-09-22 15:44:04 +02:00
 permalink: "/innovation-und-hierarchie/"
 categories:
 - Notizen

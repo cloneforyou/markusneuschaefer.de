@@ -1,6 +1,6 @@
 ---
 title: Creative Commons-Geschäftsmodelle für Künstler
-date: 2014-03-21 07:24:12 Z
+date: 2014-03-21 08:24:12 +01:00
 permalink: "/cc-modelle-kuenstler/"
 categories:
 - Essays

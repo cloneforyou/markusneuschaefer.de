@@ -1,6 +1,6 @@
 ---
 title: Projektstart edulabs.de
-date: 2017-01-03 17:29:44 Z
+date: 2017-01-03 18:29:44 +01:00
 permalink: "/edulabs-projektstart/"
 categories:
 - Notizen

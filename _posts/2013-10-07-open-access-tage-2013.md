@@ -1,6 +1,6 @@
 ---
 title: Open Access Tage 2013
-date: 2013-10-07 21:21:20 Z
+date: 2013-10-07 23:21:20 +02:00
 permalink: "/open-access-tage-2013/"
 categories:
 - Notizen

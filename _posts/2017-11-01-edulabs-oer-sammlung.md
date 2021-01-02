@@ -1,6 +1,6 @@
 ---
 title: edulabs-Sammlung für kuratierte Unterrichtsmaterialien
-date: 2017-11-01 18:29:44 Z
+date: 2017-11-01 19:29:44 +01:00
 permalink: "/edulabs-oer-sammlung/"
 categories:
 - Notizen

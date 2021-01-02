@@ -1,6 +1,6 @@
 ---
 title: 'Berichte zur Wahl: Signal und Rauschen'
-date: 2013-09-22 15:56:21 Z
+date: 2013-09-22 17:56:21 +02:00
 permalink: "/wahlberichterstattung-signal-und-rauschen/"
 categories:
 - Notizen

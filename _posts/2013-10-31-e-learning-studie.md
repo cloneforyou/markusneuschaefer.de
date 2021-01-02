@@ -1,6 +1,6 @@
 ---
 title: e-Learning und Schule 1.0
-date: 2013-10-31 20:11:05 Z
+date: 2013-10-31 21:11:05 +01:00
 permalink: "/e-learning-studie/"
 categories:
 - Notizen

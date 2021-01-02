@@ -1,6 +1,6 @@
 ---
 title: 'Garten statt Schaufenster: Gründe für ein Blog'
-date: 2013-09-15 11:23:02 Z
+date: 2013-09-15 13:23:02 +02:00
 permalink: "/pro-contra-weblog/"
 categories:
 - Notizen
